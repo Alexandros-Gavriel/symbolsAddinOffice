@@ -1,0 +1,236 @@
+[
+    {
+        "code": "&#8352;",
+        "dec": "&#8352;",
+        "hex": "&#x020A0",
+        "symbol": "₠",
+        "unicode": "U+020A0",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8353;",
+        "dec": "&#8353;",
+        "hex": "&#x020A1",
+        "symbol": "₡",
+        "unicode": "U+020A1",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8354;",
+        "dec": "&#8354;",
+        "hex": "&#x020A2",
+        "symbol": "₢",
+        "unicode": "U+020A2",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8355;",
+        "dec": "&#8355;",
+        "hex": "&#x020A3",
+        "symbol": "₣",
+        "unicode": "U+020A3",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8356;",
+        "dec": "&#8356;",
+        "hex": "&#x020A4",
+        "symbol": "₤",
+        "unicode": "U+020A4",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8357;",
+        "dec": "&#8357;",
+        "hex": "&#x020A5",
+        "symbol": "₥",
+        "unicode": "U+020A5",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8358;",
+        "dec": "&#8358;",
+        "hex": "&#x020A6",
+        "symbol": "₦",
+        "unicode": "U+020A6",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8359;",
+        "dec": "&#8359;",
+        "hex": "&#x020A7",
+        "symbol": "₧",
+        "unicode": "U+020A7",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8360;",
+        "dec": "&#8360;",
+        "hex": "&#x020A8",
+        "symbol": "₨",
+        "unicode": "U+020A8",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8361;",
+        "dec": "&#8361;",
+        "hex": "&#x020A9",
+        "symbol": "₩",
+        "unicode": "U+020A9",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8362;",
+        "dec": "&#8362;",
+        "hex": "&#x020AA",
+        "symbol": "₪",
+        "unicode": "U+020AA",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8363;",
+        "dec": "&#8363;",
+        "hex": "&#x020AB",
+        "symbol": "₫",
+        "unicode": "U+020AB",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8364;",
+        "dec": "&#8364;",
+        "hex": "&#x020AC",
+        "symbol": "€",
+        "unicode": "U+020AC",
+        "name": "euro sign",
+        "category": "Currency"
+    },
+    {
+        "code": "&#8365;",
+        "dec": "&#8365;",
+        "hex": "&#x020AD",
+        "symbol": "₭",
+        "unicode": "U+020AD",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8366;",
+        "dec": "&#8366;",
+        "hex": "&#x020AE",
+        "symbol": "₮",
+        "unicode": "U+020AE",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8367;",
+        "dec": "&#8367;",
+        "hex": "&#x020AF",
+        "symbol": "₯",
+        "unicode": "U+020AF",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8368;",
+        "dec": "&#8368;",
+        "hex": "&#x020B0",
+        "symbol": "₰",
+        "unicode": "U+020B0",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8369;",
+        "dec": "&#8369;",
+        "hex": "&#x020B1",
+        "symbol": "₱",
+        "unicode": "U+020B1",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8370;",
+        "dec": "&#8370;",
+        "hex": "&#x020B2",
+        "symbol": "₲",
+        "unicode": "U+020B2",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8371;",
+        "dec": "&#8371;",
+        "hex": "&#x020B3",
+        "symbol": "₳",
+        "unicode": "U+020B3",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8372;",
+        "dec": "&#8372;",
+        "hex": "&#x020B4",
+        "symbol": "₴",
+        "unicode": "U+020B4",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8373;",
+        "dec": "&#8373;",
+        "hex": "&#x020B5",
+        "symbol": "₵",
+        "unicode": "U+020B5",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8374;",
+        "dec": "&#8374;",
+        "hex": "&#x020B6",
+        "symbol": "₶",
+        "unicode": "U+020B6",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8375;",
+        "dec": "&#8375;",
+        "hex": "&#x020B7",
+        "symbol": "₷",
+        "unicode": "U+020B7",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8376;",
+        "dec": "&#8376;",
+        "hex": "&#x020B8",
+        "symbol": "₸",
+        "unicode": "U+020B8",
+        "name": null,
+        "category": "Currency"
+    },
+    {
+        "code": "&#8377;",
+        "dec": "&#8377;",
+        "hex": "&#x020B9",
+        "symbol": "₹",
+        "unicode": "U+020B9",
+        "name": null,
+        "category": "Currency"
+    }
+]

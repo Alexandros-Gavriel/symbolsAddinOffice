@@ -1,0 +1,2666 @@
+[
+    {
+        "code": "&#9728;",
+        "dec": "&#9728;",
+        "hex": "&#x02600",
+        "symbol": "☀",
+        "unicode": "U+02600",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9729;",
+        "dec": "&#9729;",
+        "hex": "&#x02601",
+        "symbol": "☁",
+        "unicode": "U+02601",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9730;",
+        "dec": "&#9730;",
+        "hex": "&#x02602",
+        "symbol": "☂",
+        "unicode": "U+02602",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9731;",
+        "dec": "&#9731;",
+        "hex": "&#x02603",
+        "symbol": "☃",
+        "unicode": "U+02603",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9732;",
+        "dec": "&#9732;",
+        "hex": "&#x02604",
+        "symbol": "☄",
+        "unicode": "U+02604",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9733;",
+        "dec": "&#9733;",
+        "hex": "&#x02605",
+        "symbol": "★",
+        "unicode": "U+02605",
+        "name": "black star",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9734;",
+        "dec": "&#9734;",
+        "hex": "&#x02606",
+        "symbol": "☆",
+        "unicode": "U+02606",
+        "name": "white star",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9735;",
+        "dec": "&#9735;",
+        "hex": "&#x02607",
+        "symbol": "☇",
+        "unicode": "U+02607",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9736;",
+        "dec": "&#9736;",
+        "hex": "&#x02608",
+        "symbol": "☈",
+        "unicode": "U+02608",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9737;",
+        "dec": "&#9737;",
+        "hex": "&#x02609",
+        "symbol": "☉",
+        "unicode": "U+02609",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9738;",
+        "dec": "&#9738;",
+        "hex": "&#x0260A",
+        "symbol": "☊",
+        "unicode": "U+0260A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9739;",
+        "dec": "&#9739;",
+        "hex": "&#x0260B",
+        "symbol": "☋",
+        "unicode": "U+0260B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9740;",
+        "dec": "&#9740;",
+        "hex": "&#x0260C",
+        "symbol": "☌",
+        "unicode": "U+0260C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9741;",
+        "dec": "&#9741;",
+        "hex": "&#x0260D",
+        "symbol": "☍",
+        "unicode": "U+0260D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9742;",
+        "dec": "&#9742;",
+        "hex": "&#x0260E",
+        "symbol": "☎",
+        "unicode": "U+0260E",
+        "name": "black telephone",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9743;",
+        "dec": "&#9743;",
+        "hex": "&#x0260F",
+        "symbol": "☏",
+        "unicode": "U+0260F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9744;",
+        "dec": "&#9744;",
+        "hex": "&#x02610",
+        "symbol": "☐",
+        "unicode": "U+02610",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9745;",
+        "dec": "&#9745;",
+        "hex": "&#x02611",
+        "symbol": "☑",
+        "unicode": "U+02611",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9746;",
+        "dec": "&#9746;",
+        "hex": "&#x02612",
+        "symbol": "☒",
+        "unicode": "U+02612",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9747;",
+        "dec": "&#9747;",
+        "hex": "&#x02613",
+        "symbol": "☓",
+        "unicode": "U+02613",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9748;",
+        "dec": "&#9748;",
+        "hex": "&#x02614",
+        "symbol": "☔",
+        "unicode": "U+02614",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9749;",
+        "dec": "&#9749;",
+        "hex": "&#x02615",
+        "symbol": "☕",
+        "unicode": "U+02615",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9750;",
+        "dec": "&#9750;",
+        "hex": "&#x02616",
+        "symbol": "☖",
+        "unicode": "U+02616",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9751;",
+        "dec": "&#9751;",
+        "hex": "&#x02617",
+        "symbol": "☗",
+        "unicode": "U+02617",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9752;",
+        "dec": "&#9752;",
+        "hex": "&#x02618",
+        "symbol": "☘",
+        "unicode": "U+02618",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9753;",
+        "dec": "&#9753;",
+        "hex": "&#x02619",
+        "symbol": "☙",
+        "unicode": "U+02619",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9754;",
+        "dec": "&#9754;",
+        "hex": "&#x0261A",
+        "symbol": "☚",
+        "unicode": "U+0261A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9755;",
+        "dec": "&#9755;",
+        "hex": "&#x0261B",
+        "symbol": "☛",
+        "unicode": "U+0261B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9756;",
+        "dec": "&#9756;",
+        "hex": "&#x0261C",
+        "symbol": "☜",
+        "unicode": "U+0261C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9757;",
+        "dec": "&#9757;",
+        "hex": "&#x0261D",
+        "symbol": "☝",
+        "unicode": "U+0261D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9758;",
+        "dec": "&#9758;",
+        "hex": "&#x0261E",
+        "symbol": "☞",
+        "unicode": "U+0261E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9759;",
+        "dec": "&#9759;",
+        "hex": "&#x0261F",
+        "symbol": "☟",
+        "unicode": "U+0261F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9760;",
+        "dec": "&#9760;",
+        "hex": "&#x02620",
+        "symbol": "☠",
+        "unicode": "U+02620",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9761;",
+        "dec": "&#9761;",
+        "hex": "&#x02621",
+        "symbol": "☡",
+        "unicode": "U+02621",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9762;",
+        "dec": "&#9762;",
+        "hex": "&#x02622",
+        "symbol": "☢",
+        "unicode": "U+02622",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9763;",
+        "dec": "&#9763;",
+        "hex": "&#x02623",
+        "symbol": "☣",
+        "unicode": "U+02623",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9764;",
+        "dec": "&#9764;",
+        "hex": "&#x02624",
+        "symbol": "☤",
+        "unicode": "U+02624",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9765;",
+        "dec": "&#9765;",
+        "hex": "&#x02625",
+        "symbol": "☥",
+        "unicode": "U+02625",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9766;",
+        "dec": "&#9766;",
+        "hex": "&#x02626",
+        "symbol": "☦",
+        "unicode": "U+02626",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9767;",
+        "dec": "&#9767;",
+        "hex": "&#x02627",
+        "symbol": "☧",
+        "unicode": "U+02627",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9768;",
+        "dec": "&#9768;",
+        "hex": "&#x02628",
+        "symbol": "☨",
+        "unicode": "U+02628",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9769;",
+        "dec": "&#9769;",
+        "hex": "&#x02629",
+        "symbol": "☩",
+        "unicode": "U+02629",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9770;",
+        "dec": "&#9770;",
+        "hex": "&#x0262A",
+        "symbol": "☪",
+        "unicode": "U+0262A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9771;",
+        "dec": "&#9771;",
+        "hex": "&#x0262B",
+        "symbol": "☫",
+        "unicode": "U+0262B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9772;",
+        "dec": "&#9772;",
+        "hex": "&#x0262C",
+        "symbol": "☬",
+        "unicode": "U+0262C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9773;",
+        "dec": "&#9773;",
+        "hex": "&#x0262D",
+        "symbol": "☭",
+        "unicode": "U+0262D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9774;",
+        "dec": "&#9774;",
+        "hex": "&#x0262E",
+        "symbol": "☮",
+        "unicode": "U+0262E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9775;",
+        "dec": "&#9775;",
+        "hex": "&#x0262F",
+        "symbol": "☯",
+        "unicode": "U+0262F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9776;",
+        "dec": "&#9776;",
+        "hex": "&#x02630",
+        "symbol": "☰",
+        "unicode": "U+02630",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9777;",
+        "dec": "&#9777;",
+        "hex": "&#x02631",
+        "symbol": "☱",
+        "unicode": "U+02631",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9778;",
+        "dec": "&#9778;",
+        "hex": "&#x02632",
+        "symbol": "☲",
+        "unicode": "U+02632",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9779;",
+        "dec": "&#9779;",
+        "hex": "&#x02633",
+        "symbol": "☳",
+        "unicode": "U+02633",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9780;",
+        "dec": "&#9780;",
+        "hex": "&#x02634",
+        "symbol": "☴",
+        "unicode": "U+02634",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9781;",
+        "dec": "&#9781;",
+        "hex": "&#x02635",
+        "symbol": "☵",
+        "unicode": "U+02635",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9782;",
+        "dec": "&#9782;",
+        "hex": "&#x02636",
+        "symbol": "☶",
+        "unicode": "U+02636",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9783;",
+        "dec": "&#9783;",
+        "hex": "&#x02637",
+        "symbol": "☷",
+        "unicode": "U+02637",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9784;",
+        "dec": "&#9784;",
+        "hex": "&#x02638",
+        "symbol": "☸",
+        "unicode": "U+02638",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9785;",
+        "dec": "&#9785;",
+        "hex": "&#x02639",
+        "symbol": "☹",
+        "unicode": "U+02639",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9786;",
+        "dec": "&#9786;",
+        "hex": "&#x0263A",
+        "symbol": "☺",
+        "unicode": "U+0263A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9787;",
+        "dec": "&#9787;",
+        "hex": "&#x0263B",
+        "symbol": "☻",
+        "unicode": "U+0263B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9788;",
+        "dec": "&#9788;",
+        "hex": "&#x0263C",
+        "symbol": "☼",
+        "unicode": "U+0263C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9789;",
+        "dec": "&#9789;",
+        "hex": "&#x0263D",
+        "symbol": "☽",
+        "unicode": "U+0263D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9790;",
+        "dec": "&#9790;",
+        "hex": "&#x0263E",
+        "symbol": "☾",
+        "unicode": "U+0263E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9791;",
+        "dec": "&#9791;",
+        "hex": "&#x0263F",
+        "symbol": "☿",
+        "unicode": "U+0263F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9792;",
+        "dec": "&#9792;",
+        "hex": "&#x02640",
+        "symbol": "♀",
+        "unicode": "U+02640",
+        "name": "female sign",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9793;",
+        "dec": "&#9793;",
+        "hex": "&#x02641",
+        "symbol": "♁",
+        "unicode": "U+02641",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9794;",
+        "dec": "&#9794;",
+        "hex": "&#x02642",
+        "symbol": "♂",
+        "unicode": "U+02642",
+        "name": "male sign",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9795;",
+        "dec": "&#9795;",
+        "hex": "&#x02643",
+        "symbol": "♃",
+        "unicode": "U+02643",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9796;",
+        "dec": "&#9796;",
+        "hex": "&#x02644",
+        "symbol": "♄",
+        "unicode": "U+02644",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9797;",
+        "dec": "&#9797;",
+        "hex": "&#x02645",
+        "symbol": "♅",
+        "unicode": "U+02645",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9798;",
+        "dec": "&#9798;",
+        "hex": "&#x02646",
+        "symbol": "♆",
+        "unicode": "U+02646",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9799;",
+        "dec": "&#9799;",
+        "hex": "&#x02647",
+        "symbol": "♇",
+        "unicode": "U+02647",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9800;",
+        "dec": "&#9800;",
+        "hex": "&#x02648",
+        "symbol": "♈",
+        "unicode": "U+02648",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9801;",
+        "dec": "&#9801;",
+        "hex": "&#x02649",
+        "symbol": "♉",
+        "unicode": "U+02649",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9802;",
+        "dec": "&#9802;",
+        "hex": "&#x0264A",
+        "symbol": "♊",
+        "unicode": "U+0264A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9803;",
+        "dec": "&#9803;",
+        "hex": "&#x0264B",
+        "symbol": "♋",
+        "unicode": "U+0264B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9804;",
+        "dec": "&#9804;",
+        "hex": "&#x0264C",
+        "symbol": "♌",
+        "unicode": "U+0264C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9805;",
+        "dec": "&#9805;",
+        "hex": "&#x0264D",
+        "symbol": "♍",
+        "unicode": "U+0264D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9806;",
+        "dec": "&#9806;",
+        "hex": "&#x0264E",
+        "symbol": "♎",
+        "unicode": "U+0264E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9807;",
+        "dec": "&#9807;",
+        "hex": "&#x0264F",
+        "symbol": "♏",
+        "unicode": "U+0264F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9808;",
+        "dec": "&#9808;",
+        "hex": "&#x02650",
+        "symbol": "♐",
+        "unicode": "U+02650",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9809;",
+        "dec": "&#9809;",
+        "hex": "&#x02651",
+        "symbol": "♑",
+        "unicode": "U+02651",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9810;",
+        "dec": "&#9810;",
+        "hex": "&#x02652",
+        "symbol": "♒",
+        "unicode": "U+02652",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9811;",
+        "dec": "&#9811;",
+        "hex": "&#x02653",
+        "symbol": "♓",
+        "unicode": "U+02653",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9812;",
+        "dec": "&#9812;",
+        "hex": "&#x02654",
+        "symbol": "♔",
+        "unicode": "U+02654",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9813;",
+        "dec": "&#9813;",
+        "hex": "&#x02655",
+        "symbol": "♕",
+        "unicode": "U+02655",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9814;",
+        "dec": "&#9814;",
+        "hex": "&#x02656",
+        "symbol": "♖",
+        "unicode": "U+02656",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9815;",
+        "dec": "&#9815;",
+        "hex": "&#x02657",
+        "symbol": "♗",
+        "unicode": "U+02657",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9816;",
+        "dec": "&#9816;",
+        "hex": "&#x02658",
+        "symbol": "♘",
+        "unicode": "U+02658",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9817;",
+        "dec": "&#9817;",
+        "hex": "&#x02659",
+        "symbol": "♙",
+        "unicode": "U+02659",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9818;",
+        "dec": "&#9818;",
+        "hex": "&#x0265A",
+        "symbol": "♚",
+        "unicode": "U+0265A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9819;",
+        "dec": "&#9819;",
+        "hex": "&#x0265B",
+        "symbol": "♛",
+        "unicode": "U+0265B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9820;",
+        "dec": "&#9820;",
+        "hex": "&#x0265C",
+        "symbol": "♜",
+        "unicode": "U+0265C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9821;",
+        "dec": "&#9821;",
+        "hex": "&#x0265D",
+        "symbol": "♝",
+        "unicode": "U+0265D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9822;",
+        "dec": "&#9822;",
+        "hex": "&#x0265E",
+        "symbol": "♞",
+        "unicode": "U+0265E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9823;",
+        "dec": "&#9823;",
+        "hex": "&#x0265F",
+        "symbol": "♟",
+        "unicode": "U+0265F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9824;",
+        "dec": "&#9824;",
+        "hex": "&#x02660",
+        "symbol": "♠",
+        "unicode": "U+02660",
+        "name": "black spade suit",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9825;",
+        "dec": "&#9825;",
+        "hex": "&#x02661",
+        "symbol": "♡",
+        "unicode": "U+02661",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9826;",
+        "dec": "&#9826;",
+        "hex": "&#x02662",
+        "symbol": "♢",
+        "unicode": "U+02662",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9827;",
+        "dec": "&#9827;",
+        "hex": "&#x02663",
+        "symbol": "♣",
+        "unicode": "U+02663",
+        "name": "black club suit",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9828;",
+        "dec": "&#9828;",
+        "hex": "&#x02664",
+        "symbol": "♤",
+        "unicode": "U+02664",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9829;",
+        "dec": "&#9829;",
+        "hex": "&#x02665",
+        "symbol": "♥",
+        "unicode": "U+02665",
+        "name": "black heart suit",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9830;",
+        "dec": "&#9830;",
+        "hex": "&#x02666",
+        "symbol": "♦",
+        "unicode": "U+02666",
+        "name": "black diamond suit",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9831;",
+        "dec": "&#9831;",
+        "hex": "&#x02667",
+        "symbol": "♧",
+        "unicode": "U+02667",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9832;",
+        "dec": "&#9832;",
+        "hex": "&#x02668",
+        "symbol": "♨",
+        "unicode": "U+02668",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9833;",
+        "dec": "&#9833;",
+        "hex": "&#x02669",
+        "symbol": "♩",
+        "unicode": "U+02669",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9834;",
+        "dec": "&#9834;",
+        "hex": "&#x0266A",
+        "symbol": "♪",
+        "unicode": "U+0266A",
+        "name": "eighth note",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9835;",
+        "dec": "&#9835;",
+        "hex": "&#x0266B",
+        "symbol": "♫",
+        "unicode": "U+0266B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9836;",
+        "dec": "&#9836;",
+        "hex": "&#x0266C",
+        "symbol": "♬",
+        "unicode": "U+0266C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9837;",
+        "dec": "&#9837;",
+        "hex": "&#x0266D",
+        "symbol": "♭",
+        "unicode": "U+0266D",
+        "name": "music flat sign",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9838;",
+        "dec": "&#9838;",
+        "hex": "&#x0266E",
+        "symbol": "♮",
+        "unicode": "U+0266E",
+        "name": "music natural sign",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9839;",
+        "dec": "&#9839;",
+        "hex": "&#x0266F",
+        "symbol": "♯",
+        "unicode": "U+0266F",
+        "name": "music sharp sign",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9840;",
+        "dec": "&#9840;",
+        "hex": "&#x02670",
+        "symbol": "♰",
+        "unicode": "U+02670",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9841;",
+        "dec": "&#9841;",
+        "hex": "&#x02671",
+        "symbol": "♱",
+        "unicode": "U+02671",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9842;",
+        "dec": "&#9842;",
+        "hex": "&#x02672",
+        "symbol": "♲",
+        "unicode": "U+02672",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9843;",
+        "dec": "&#9843;",
+        "hex": "&#x02673",
+        "symbol": "♳",
+        "unicode": "U+02673",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9844;",
+        "dec": "&#9844;",
+        "hex": "&#x02674",
+        "symbol": "♴",
+        "unicode": "U+02674",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9845;",
+        "dec": "&#9845;",
+        "hex": "&#x02675",
+        "symbol": "♵",
+        "unicode": "U+02675",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9846;",
+        "dec": "&#9846;",
+        "hex": "&#x02676",
+        "symbol": "♶",
+        "unicode": "U+02676",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9847;",
+        "dec": "&#9847;",
+        "hex": "&#x02677",
+        "symbol": "♷",
+        "unicode": "U+02677",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9848;",
+        "dec": "&#9848;",
+        "hex": "&#x02678",
+        "symbol": "♸",
+        "unicode": "U+02678",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9849;",
+        "dec": "&#9849;",
+        "hex": "&#x02679",
+        "symbol": "♹",
+        "unicode": "U+02679",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9850;",
+        "dec": "&#9850;",
+        "hex": "&#x0267A",
+        "symbol": "♺",
+        "unicode": "U+0267A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9851;",
+        "dec": "&#9851;",
+        "hex": "&#x0267B",
+        "symbol": "♻",
+        "unicode": "U+0267B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9852;",
+        "dec": "&#9852;",
+        "hex": "&#x0267C",
+        "symbol": "♼",
+        "unicode": "U+0267C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9853;",
+        "dec": "&#9853;",
+        "hex": "&#x0267D",
+        "symbol": "♽",
+        "unicode": "U+0267D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9854;",
+        "dec": "&#9854;",
+        "hex": "&#x0267E",
+        "symbol": "♾",
+        "unicode": "U+0267E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9855;",
+        "dec": "&#9855;",
+        "hex": "&#x0267F",
+        "symbol": "♿",
+        "unicode": "U+0267F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9856;",
+        "dec": "&#9856;",
+        "hex": "&#x02680",
+        "symbol": "⚀",
+        "unicode": "U+02680",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9857;",
+        "dec": "&#9857;",
+        "hex": "&#x02681",
+        "symbol": "⚁",
+        "unicode": "U+02681",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9858;",
+        "dec": "&#9858;",
+        "hex": "&#x02682",
+        "symbol": "⚂",
+        "unicode": "U+02682",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9859;",
+        "dec": "&#9859;",
+        "hex": "&#x02683",
+        "symbol": "⚃",
+        "unicode": "U+02683",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9860;",
+        "dec": "&#9860;",
+        "hex": "&#x02684",
+        "symbol": "⚄",
+        "unicode": "U+02684",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9861;",
+        "dec": "&#9861;",
+        "hex": "&#x02685",
+        "symbol": "⚅",
+        "unicode": "U+02685",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9862;",
+        "dec": "&#9862;",
+        "hex": "&#x02686",
+        "symbol": "⚆",
+        "unicode": "U+02686",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9863;",
+        "dec": "&#9863;",
+        "hex": "&#x02687",
+        "symbol": "⚇",
+        "unicode": "U+02687",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9864;",
+        "dec": "&#9864;",
+        "hex": "&#x02688",
+        "symbol": "⚈",
+        "unicode": "U+02688",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9865;",
+        "dec": "&#9865;",
+        "hex": "&#x02689",
+        "symbol": "⚉",
+        "unicode": "U+02689",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9866;",
+        "dec": "&#9866;",
+        "hex": "&#x0268A",
+        "symbol": "⚊",
+        "unicode": "U+0268A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9867;",
+        "dec": "&#9867;",
+        "hex": "&#x0268B",
+        "symbol": "⚋",
+        "unicode": "U+0268B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9868;",
+        "dec": "&#9868;",
+        "hex": "&#x0268C",
+        "symbol": "⚌",
+        "unicode": "U+0268C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9869;",
+        "dec": "&#9869;",
+        "hex": "&#x0268D",
+        "symbol": "⚍",
+        "unicode": "U+0268D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9870;",
+        "dec": "&#9870;",
+        "hex": "&#x0268E",
+        "symbol": "⚎",
+        "unicode": "U+0268E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9871;",
+        "dec": "&#9871;",
+        "hex": "&#x0268F",
+        "symbol": "⚏",
+        "unicode": "U+0268F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9872;",
+        "dec": "&#9872;",
+        "hex": "&#x02690",
+        "symbol": "⚐",
+        "unicode": "U+02690",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9873;",
+        "dec": "&#9873;",
+        "hex": "&#x02691",
+        "symbol": "⚑",
+        "unicode": "U+02691",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9874;",
+        "dec": "&#9874;",
+        "hex": "&#x02692",
+        "symbol": "⚒",
+        "unicode": "U+02692",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9875;",
+        "dec": "&#9875;",
+        "hex": "&#x02693",
+        "symbol": "⚓",
+        "unicode": "U+02693",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9876;",
+        "dec": "&#9876;",
+        "hex": "&#x02694",
+        "symbol": "⚔",
+        "unicode": "U+02694",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9877;",
+        "dec": "&#9877;",
+        "hex": "&#x02695",
+        "symbol": "⚕",
+        "unicode": "U+02695",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9878;",
+        "dec": "&#9878;",
+        "hex": "&#x02696",
+        "symbol": "⚖",
+        "unicode": "U+02696",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9879;",
+        "dec": "&#9879;",
+        "hex": "&#x02697",
+        "symbol": "⚗",
+        "unicode": "U+02697",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9880;",
+        "dec": "&#9880;",
+        "hex": "&#x02698",
+        "symbol": "⚘",
+        "unicode": "U+02698",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9881;",
+        "dec": "&#9881;",
+        "hex": "&#x02699",
+        "symbol": "⚙",
+        "unicode": "U+02699",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9882;",
+        "dec": "&#9882;",
+        "hex": "&#x0269A",
+        "symbol": "⚚",
+        "unicode": "U+0269A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9883;",
+        "dec": "&#9883;",
+        "hex": "&#x0269B",
+        "symbol": "⚛",
+        "unicode": "U+0269B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9884;",
+        "dec": "&#9884;",
+        "hex": "&#x0269C",
+        "symbol": "⚜",
+        "unicode": "U+0269C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9885;",
+        "dec": "&#9885;",
+        "hex": "&#x0269D",
+        "symbol": "⚝",
+        "unicode": "U+0269D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9886;",
+        "dec": "&#9886;",
+        "hex": "&#x0269E",
+        "symbol": "⚞",
+        "unicode": "U+0269E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9887;",
+        "dec": "&#9887;",
+        "hex": "&#x0269F",
+        "symbol": "⚟",
+        "unicode": "U+0269F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9888;",
+        "dec": "&#9888;",
+        "hex": "&#x026A0",
+        "symbol": "⚠",
+        "unicode": "U+026A0",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9889;",
+        "dec": "&#9889;",
+        "hex": "&#x026A1",
+        "symbol": "⚡",
+        "unicode": "U+026A1",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9890;",
+        "dec": "&#9890;",
+        "hex": "&#x026A2",
+        "symbol": "⚢",
+        "unicode": "U+026A2",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9891;",
+        "dec": "&#9891;",
+        "hex": "&#x026A3",
+        "symbol": "⚣",
+        "unicode": "U+026A3",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9892;",
+        "dec": "&#9892;",
+        "hex": "&#x026A4",
+        "symbol": "⚤",
+        "unicode": "U+026A4",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9893;",
+        "dec": "&#9893;",
+        "hex": "&#x026A5",
+        "symbol": "⚥",
+        "unicode": "U+026A5",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9894;",
+        "dec": "&#9894;",
+        "hex": "&#x026A6",
+        "symbol": "⚦",
+        "unicode": "U+026A6",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9895;",
+        "dec": "&#9895;",
+        "hex": "&#x026A7",
+        "symbol": "⚧",
+        "unicode": "U+026A7",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9896;",
+        "dec": "&#9896;",
+        "hex": "&#x026A8",
+        "symbol": "⚨",
+        "unicode": "U+026A8",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9897;",
+        "dec": "&#9897;",
+        "hex": "&#x026A9",
+        "symbol": "⚩",
+        "unicode": "U+026A9",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9898;",
+        "dec": "&#9898;",
+        "hex": "&#x026AA",
+        "symbol": "⚪",
+        "unicode": "U+026AA",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9899;",
+        "dec": "&#9899;",
+        "hex": "&#x026AB",
+        "symbol": "⚫",
+        "unicode": "U+026AB",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9900;",
+        "dec": "&#9900;",
+        "hex": "&#x026AC",
+        "symbol": "⚬",
+        "unicode": "U+026AC",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9901;",
+        "dec": "&#9901;",
+        "hex": "&#x026AD",
+        "symbol": "⚭",
+        "unicode": "U+026AD",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9902;",
+        "dec": "&#9902;",
+        "hex": "&#x026AE",
+        "symbol": "⚮",
+        "unicode": "U+026AE",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9903;",
+        "dec": "&#9903;",
+        "hex": "&#x026AF",
+        "symbol": "⚯",
+        "unicode": "U+026AF",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9904;",
+        "dec": "&#9904;",
+        "hex": "&#x026B0",
+        "symbol": "⚰",
+        "unicode": "U+026B0",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9905;",
+        "dec": "&#9905;",
+        "hex": "&#x026B1",
+        "symbol": "⚱",
+        "unicode": "U+026B1",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9906;",
+        "dec": "&#9906;",
+        "hex": "&#x026B2",
+        "symbol": "⚲",
+        "unicode": "U+026B2",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9907;",
+        "dec": "&#9907;",
+        "hex": "&#x026B3",
+        "symbol": "⚳",
+        "unicode": "U+026B3",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9908;",
+        "dec": "&#9908;",
+        "hex": "&#x026B4",
+        "symbol": "⚴",
+        "unicode": "U+026B4",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9909;",
+        "dec": "&#9909;",
+        "hex": "&#x026B5",
+        "symbol": "⚵",
+        "unicode": "U+026B5",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9910;",
+        "dec": "&#9910;",
+        "hex": "&#x026B6",
+        "symbol": "⚶",
+        "unicode": "U+026B6",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9911;",
+        "dec": "&#9911;",
+        "hex": "&#x026B7",
+        "symbol": "⚷",
+        "unicode": "U+026B7",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9912;",
+        "dec": "&#9912;",
+        "hex": "&#x026B8",
+        "symbol": "⚸",
+        "unicode": "U+026B8",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9913;",
+        "dec": "&#9913;",
+        "hex": "&#x026B9",
+        "symbol": "⚹",
+        "unicode": "U+026B9",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9914;",
+        "dec": "&#9914;",
+        "hex": "&#x026BA",
+        "symbol": "⚺",
+        "unicode": "U+026BA",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9915;",
+        "dec": "&#9915;",
+        "hex": "&#x026BB",
+        "symbol": "⚻",
+        "unicode": "U+026BB",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9916;",
+        "dec": "&#9916;",
+        "hex": "&#x026BC",
+        "symbol": "⚼",
+        "unicode": "U+026BC",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9917;",
+        "dec": "&#9917;",
+        "hex": "&#x026BD",
+        "symbol": "⚽",
+        "unicode": "U+026BD",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9918;",
+        "dec": "&#9918;",
+        "hex": "&#x026BE",
+        "symbol": "⚾",
+        "unicode": "U+026BE",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9919;",
+        "dec": "&#9919;",
+        "hex": "&#x026BF",
+        "symbol": "⚿",
+        "unicode": "U+026BF",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9920;",
+        "dec": "&#9920;",
+        "hex": "&#x026C0",
+        "symbol": "⛀",
+        "unicode": "U+026C0",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9921;",
+        "dec": "&#9921;",
+        "hex": "&#x026C1",
+        "symbol": "⛁",
+        "unicode": "U+026C1",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9922;",
+        "dec": "&#9922;",
+        "hex": "&#x026C2",
+        "symbol": "⛂",
+        "unicode": "U+026C2",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9923;",
+        "dec": "&#9923;",
+        "hex": "&#x026C3",
+        "symbol": "⛃",
+        "unicode": "U+026C3",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9924;",
+        "dec": "&#9924;",
+        "hex": "&#x026C4",
+        "symbol": "⛄",
+        "unicode": "U+026C4",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9925;",
+        "dec": "&#9925;",
+        "hex": "&#x026C5",
+        "symbol": "⛅",
+        "unicode": "U+026C5",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9926;",
+        "dec": "&#9926;",
+        "hex": "&#x026C6",
+        "symbol": "⛆",
+        "unicode": "U+026C6",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9927;",
+        "dec": "&#9927;",
+        "hex": "&#x026C7",
+        "symbol": "⛇",
+        "unicode": "U+026C7",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9928;",
+        "dec": "&#9928;",
+        "hex": "&#x026C8",
+        "symbol": "⛈",
+        "unicode": "U+026C8",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9929;",
+        "dec": "&#9929;",
+        "hex": "&#x026C9",
+        "symbol": "⛉",
+        "unicode": "U+026C9",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9930;",
+        "dec": "&#9930;",
+        "hex": "&#x026CA",
+        "symbol": "⛊",
+        "unicode": "U+026CA",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9931;",
+        "dec": "&#9931;",
+        "hex": "&#x026CB",
+        "symbol": "⛋",
+        "unicode": "U+026CB",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9932;",
+        "dec": "&#9932;",
+        "hex": "&#x026CC",
+        "symbol": "⛌",
+        "unicode": "U+026CC",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9933;",
+        "dec": "&#9933;",
+        "hex": "&#x026CD",
+        "symbol": "⛍",
+        "unicode": "U+026CD",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9934;",
+        "dec": "&#9934;",
+        "hex": "&#x026CE",
+        "symbol": "⛎",
+        "unicode": "U+026CE",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9935;",
+        "dec": "&#9935;",
+        "hex": "&#x026CF",
+        "symbol": "⛏",
+        "unicode": "U+026CF",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9936;",
+        "dec": "&#9936;",
+        "hex": "&#x026D0",
+        "symbol": "⛐",
+        "unicode": "U+026D0",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9937;",
+        "dec": "&#9937;",
+        "hex": "&#x026D1",
+        "symbol": "⛑",
+        "unicode": "U+026D1",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9938;",
+        "dec": "&#9938;",
+        "hex": "&#x026D2",
+        "symbol": "⛒",
+        "unicode": "U+026D2",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9939;",
+        "dec": "&#9939;",
+        "hex": "&#x026D3",
+        "symbol": "⛓",
+        "unicode": "U+026D3",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9940;",
+        "dec": "&#9940;",
+        "hex": "&#x026D4",
+        "symbol": "⛔",
+        "unicode": "U+026D4",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9941;",
+        "dec": "&#9941;",
+        "hex": "&#x026D5",
+        "symbol": "⛕",
+        "unicode": "U+026D5",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9942;",
+        "dec": "&#9942;",
+        "hex": "&#x026D6",
+        "symbol": "⛖",
+        "unicode": "U+026D6",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9943;",
+        "dec": "&#9943;",
+        "hex": "&#x026D7",
+        "symbol": "⛗",
+        "unicode": "U+026D7",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9944;",
+        "dec": "&#9944;",
+        "hex": "&#x026D8",
+        "symbol": "⛘",
+        "unicode": "U+026D8",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9945;",
+        "dec": "&#9945;",
+        "hex": "&#x026D9",
+        "symbol": "⛙",
+        "unicode": "U+026D9",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9946;",
+        "dec": "&#9946;",
+        "hex": "&#x026DA",
+        "symbol": "⛚",
+        "unicode": "U+026DA",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9947;",
+        "dec": "&#9947;",
+        "hex": "&#x026DB",
+        "symbol": "⛛",
+        "unicode": "U+026DB",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9948;",
+        "dec": "&#9948;",
+        "hex": "&#x026DC",
+        "symbol": "⛜",
+        "unicode": "U+026DC",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9949;",
+        "dec": "&#9949;",
+        "hex": "&#x026DD",
+        "symbol": "⛝",
+        "unicode": "U+026DD",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9950;",
+        "dec": "&#9950;",
+        "hex": "&#x026DE",
+        "symbol": "⛞",
+        "unicode": "U+026DE",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9951;",
+        "dec": "&#9951;",
+        "hex": "&#x026DF",
+        "symbol": "⛟",
+        "unicode": "U+026DF",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9952;",
+        "dec": "&#9952;",
+        "hex": "&#x026E0",
+        "symbol": "⛠",
+        "unicode": "U+026E0",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9953;",
+        "dec": "&#9953;",
+        "hex": "&#x026E1",
+        "symbol": "⛡",
+        "unicode": "U+026E1",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9954;",
+        "dec": "&#9954;",
+        "hex": "&#x026E2",
+        "symbol": "⛢",
+        "unicode": "U+026E2",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9955;",
+        "dec": "&#9955;",
+        "hex": "&#x026E3",
+        "symbol": "⛣",
+        "unicode": "U+026E3",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9956;",
+        "dec": "&#9956;",
+        "hex": "&#x026E4",
+        "symbol": "⛤",
+        "unicode": "U+026E4",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9957;",
+        "dec": "&#9957;",
+        "hex": "&#x026E5",
+        "symbol": "⛥",
+        "unicode": "U+026E5",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9958;",
+        "dec": "&#9958;",
+        "hex": "&#x026E6",
+        "symbol": "⛦",
+        "unicode": "U+026E6",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9959;",
+        "dec": "&#9959;",
+        "hex": "&#x026E7",
+        "symbol": "⛧",
+        "unicode": "U+026E7",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9960;",
+        "dec": "&#9960;",
+        "hex": "&#x026E8",
+        "symbol": "⛨",
+        "unicode": "U+026E8",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9961;",
+        "dec": "&#9961;",
+        "hex": "&#x026E9",
+        "symbol": "⛩",
+        "unicode": "U+026E9",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9962;",
+        "dec": "&#9962;",
+        "hex": "&#x026EA",
+        "symbol": "⛪",
+        "unicode": "U+026EA",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9963;",
+        "dec": "&#9963;",
+        "hex": "&#x026EB",
+        "symbol": "⛫",
+        "unicode": "U+026EB",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9964;",
+        "dec": "&#9964;",
+        "hex": "&#x026EC",
+        "symbol": "⛬",
+        "unicode": "U+026EC",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9965;",
+        "dec": "&#9965;",
+        "hex": "&#x026ED",
+        "symbol": "⛭",
+        "unicode": "U+026ED",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9966;",
+        "dec": "&#9966;",
+        "hex": "&#x026EE",
+        "symbol": "⛮",
+        "unicode": "U+026EE",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9967;",
+        "dec": "&#9967;",
+        "hex": "&#x026EF",
+        "symbol": "⛯",
+        "unicode": "U+026EF",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9968;",
+        "dec": "&#9968;",
+        "hex": "&#x026F0",
+        "symbol": "⛰",
+        "unicode": "U+026F0",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9969;",
+        "dec": "&#9969;",
+        "hex": "&#x026F1",
+        "symbol": "⛱",
+        "unicode": "U+026F1",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9970;",
+        "dec": "&#9970;",
+        "hex": "&#x026F2",
+        "symbol": "⛲",
+        "unicode": "U+026F2",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9971;",
+        "dec": "&#9971;",
+        "hex": "&#x026F3",
+        "symbol": "⛳",
+        "unicode": "U+026F3",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9972;",
+        "dec": "&#9972;",
+        "hex": "&#x026F4",
+        "symbol": "⛴",
+        "unicode": "U+026F4",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9973;",
+        "dec": "&#9973;",
+        "hex": "&#x026F5",
+        "symbol": "⛵",
+        "unicode": "U+026F5",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9974;",
+        "dec": "&#9974;",
+        "hex": "&#x026F6",
+        "symbol": "⛶",
+        "unicode": "U+026F6",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9975;",
+        "dec": "&#9975;",
+        "hex": "&#x026F7",
+        "symbol": "⛷",
+        "unicode": "U+026F7",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9976;",
+        "dec": "&#9976;",
+        "hex": "&#x026F8",
+        "symbol": "⛸",
+        "unicode": "U+026F8",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9977;",
+        "dec": "&#9977;",
+        "hex": "&#x026F9",
+        "symbol": "⛹",
+        "unicode": "U+026F9",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9978;",
+        "dec": "&#9978;",
+        "hex": "&#x026FA",
+        "symbol": "⛺",
+        "unicode": "U+026FA",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9979;",
+        "dec": "&#9979;",
+        "hex": "&#x026FB",
+        "symbol": "⛻",
+        "unicode": "U+026FB",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9980;",
+        "dec": "&#9980;",
+        "hex": "&#x026FC",
+        "symbol": "⛼",
+        "unicode": "U+026FC",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9981;",
+        "dec": "&#9981;",
+        "hex": "&#x026FD",
+        "symbol": "⛽",
+        "unicode": "U+026FD",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9982;",
+        "dec": "&#9982;",
+        "hex": "&#x026FE",
+        "symbol": "⛾",
+        "unicode": "U+026FE",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9983;",
+        "dec": "&#9983;",
+        "hex": "&#x026FF",
+        "symbol": "⛿",
+        "unicode": "U+026FF",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9985;",
+        "dec": "&#9985;",
+        "hex": "&#x02701",
+        "symbol": "✁",
+        "unicode": "U+02701",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9986;",
+        "dec": "&#9986;",
+        "hex": "&#x02702",
+        "symbol": "✂",
+        "unicode": "U+02702",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9987;",
+        "dec": "&#9987;",
+        "hex": "&#x02703",
+        "symbol": "✃",
+        "unicode": "U+02703",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9988;",
+        "dec": "&#9988;",
+        "hex": "&#x02704",
+        "symbol": "✄",
+        "unicode": "U+02704",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9989;",
+        "dec": "&#9989;",
+        "hex": "&#x02705",
+        "symbol": "✅",
+        "unicode": "U+02705",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9990;",
+        "dec": "&#9990;",
+        "hex": "&#x02706",
+        "symbol": "✆",
+        "unicode": "U+02706",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9991;",
+        "dec": "&#9991;",
+        "hex": "&#x02707",
+        "symbol": "✇",
+        "unicode": "U+02707",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9992;",
+        "dec": "&#9992;",
+        "hex": "&#x02708",
+        "symbol": "✈",
+        "unicode": "U+02708",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9993;",
+        "dec": "&#9993;",
+        "hex": "&#x02709",
+        "symbol": "✉",
+        "unicode": "U+02709",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9994;",
+        "dec": "&#9994;",
+        "hex": "&#x0270A",
+        "symbol": "✊",
+        "unicode": "U+0270A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9995;",
+        "dec": "&#9995;",
+        "hex": "&#x0270B",
+        "symbol": "✋",
+        "unicode": "U+0270B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9996;",
+        "dec": "&#9996;",
+        "hex": "&#x0270C",
+        "symbol": "✌",
+        "unicode": "U+0270C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9997;",
+        "dec": "&#9997;",
+        "hex": "&#x0270D",
+        "symbol": "✍",
+        "unicode": "U+0270D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9998;",
+        "dec": "&#9998;",
+        "hex": "&#x0270E",
+        "symbol": "✎",
+        "unicode": "U+0270E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#9999;",
+        "dec": "&#9999;",
+        "hex": "&#x0270F",
+        "symbol": "✏",
+        "unicode": "U+0270F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10000;",
+        "dec": "&#10000;",
+        "hex": "&#x02710",
+        "symbol": "✐",
+        "unicode": "U+02710",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10001;",
+        "dec": "&#10001;",
+        "hex": "&#x02711",
+        "symbol": "✑",
+        "unicode": "U+02711",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10002;",
+        "dec": "&#10002;",
+        "hex": "&#x02712",
+        "symbol": "✒",
+        "unicode": "U+02712",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10003;",
+        "dec": "&#10003;",
+        "hex": "&#x02713",
+        "symbol": "✓",
+        "unicode": "U+02713",
+        "name": "check mark",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10004;",
+        "dec": "&#10004;",
+        "hex": "&#x02714",
+        "symbol": "✔",
+        "unicode": "U+02714",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10005;",
+        "dec": "&#10005;",
+        "hex": "&#x02715",
+        "symbol": "✕",
+        "unicode": "U+02715",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10006;",
+        "dec": "&#10006;",
+        "hex": "&#x02716",
+        "symbol": "✖",
+        "unicode": "U+02716",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10007;",
+        "dec": "&#10007;",
+        "hex": "&#x02717",
+        "symbol": "✗",
+        "unicode": "U+02717",
+        "name": "ballot x",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10008;",
+        "dec": "&#10008;",
+        "hex": "&#x02718",
+        "symbol": "✘",
+        "unicode": "U+02718",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10009;",
+        "dec": "&#10009;",
+        "hex": "&#x02719",
+        "symbol": "✙",
+        "unicode": "U+02719",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10010;",
+        "dec": "&#10010;",
+        "hex": "&#x0271A",
+        "symbol": "✚",
+        "unicode": "U+0271A",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10011;",
+        "dec": "&#10011;",
+        "hex": "&#x0271B",
+        "symbol": "✛",
+        "unicode": "U+0271B",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10012;",
+        "dec": "&#10012;",
+        "hex": "&#x0271C",
+        "symbol": "✜",
+        "unicode": "U+0271C",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10013;",
+        "dec": "&#10013;",
+        "hex": "&#x0271D",
+        "symbol": "✝",
+        "unicode": "U+0271D",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10014;",
+        "dec": "&#10014;",
+        "hex": "&#x0271E",
+        "symbol": "✞",
+        "unicode": "U+0271E",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10015;",
+        "dec": "&#10015;",
+        "hex": "&#x0271F",
+        "symbol": "✟",
+        "unicode": "U+0271F",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10016;",
+        "dec": "&#10016;",
+        "hex": "&#x02720",
+        "symbol": "✠",
+        "unicode": "U+02720",
+        "name": "maltese cross",
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10017;",
+        "dec": "&#10017;",
+        "hex": "&#x02721",
+        "symbol": "✡",
+        "unicode": "U+02721",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10018;",
+        "dec": "&#10018;",
+        "hex": "&#x02722",
+        "symbol": "✢",
+        "unicode": "U+02722",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10019;",
+        "dec": "&#10019;",
+        "hex": "&#x02723",
+        "symbol": "✣",
+        "unicode": "U+02723",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10020;",
+        "dec": "&#10020;",
+        "hex": "&#x02724",
+        "symbol": "✤",
+        "unicode": "U+02724",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10021;",
+        "dec": "&#10021;",
+        "hex": "&#x02725",
+        "symbol": "✥",
+        "unicode": "U+02725",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10022;",
+        "dec": "&#10022;",
+        "hex": "&#x02726",
+        "symbol": "✦",
+        "unicode": "U+02726",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10023;",
+        "dec": "&#10023;",
+        "hex": "&#x02727",
+        "symbol": "✧",
+        "unicode": "U+02727",
+        "name": null,
+        "category": "Miscellaneous"
+    },
+    {
+        "code": "&#10024;",
+        "dec": "&#10024;",
+        "hex": "&#x02728",
+        "symbol": "✨",
+        "unicode": "U+02728",
+        "name": null,
+        "category": "Miscellaneous"
+    }
+]

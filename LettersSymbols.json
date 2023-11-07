@@ -1,0 +1,1262 @@
+[
+    {
+        "code": "&#193;",
+        "dec": "&#193;",
+        "hex": "&#x000C1",
+        "symbol": "Á",
+        "unicode": "U+000C1",
+        "name": "latin capital letter a with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#225;",
+        "dec": "&#225;",
+        "hex": "&#x000E1",
+        "symbol": "á",
+        "unicode": "U+000E1",
+        "name": "latin small letter a with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#192;",
+        "dec": "&#192;",
+        "hex": "&#x000C0",
+        "symbol": "À",
+        "unicode": "U+000C0",
+        "name": "latin capital letter a with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#194;",
+        "dec": "&#194;",
+        "hex": "&#x000C2",
+        "symbol": "Â",
+        "unicode": "U+000C2",
+        "name": "latin capital letter a with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#224;",
+        "dec": "&#224;",
+        "hex": "&#x000E0",
+        "symbol": "à",
+        "unicode": "U+000E0",
+        "name": "latin small letter a with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#194;",
+        "dec": "&#194;",
+        "hex": "&#x000C2",
+        "symbol": "Â",
+        "unicode": "U+000C2",
+        "name": "latin capital letter a with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#226;",
+        "dec": "&#226;",
+        "hex": "&#x000E2",
+        "symbol": "â",
+        "unicode": "U+000E2",
+        "name": "latin small letter a with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#196;",
+        "dec": "&#196;",
+        "hex": "&#x000C4",
+        "symbol": "Ä",
+        "unicode": "U+000C4",
+        "name": "latin capital letter a with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#228;",
+        "dec": "&#228;",
+        "hex": "&#x000E4",
+        "symbol": "ä",
+        "unicode": "U+000E4",
+        "name": "latin small letter a with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#195;",
+        "dec": "&#195;",
+        "hex": "&#x000C3",
+        "symbol": "Ã",
+        "unicode": "U+000C3",
+        "name": "latin capital letter a with tilde",
+        "category": "Letters"
+    },
+    {
+        "code": "&#227;",
+        "dec": "&#227;",
+        "hex": "&#x000E3",
+        "symbol": "ã",
+        "unicode": "U+000E3",
+        "name": "latin small letter a with tilde",
+        "category": "Letters"
+    },
+    {
+        "code": "&#197;",
+        "dec": "&#197;",
+        "hex": "&#x000C5",
+        "symbol": "Å",
+        "unicode": "U+000C5",
+        "name": "latin capital letter a with ring above",
+        "category": "Letters"
+    },
+    {
+        "code": "&#229;",
+        "dec": "&#229;",
+        "hex": "&#x000E5",
+        "symbol": "å",
+        "unicode": "U+000E5",
+        "name": "latin small letter a with ring above",
+        "category": "Letters"
+    },
+    {
+        "code": "&#230;",
+        "dec": "&#230;",
+        "hex": "&#x000E6",
+        "symbol": "æ",
+        "unicode": "U+000E6",
+        "name": "latin small letter ae",
+        "category": "Letters"
+    },
+    {
+        "code": "&#199;",
+        "dec": "&#199;",
+        "hex": "&#x000C7",
+        "symbol": "Ç",
+        "unicode": "U+000C7",
+        "name": "latin capital letter c with cedilla",
+        "category": "Letters"
+    },
+    {
+        "code": "&#231;",
+        "dec": "&#231;",
+        "hex": "&#x000E7",
+        "symbol": "ç",
+        "unicode": "U+000E7",
+        "name": "latin small letter c with cedilla",
+        "category": "Letters"
+    },
+    {
+        "code": "&#240;",
+        "dec": "&#240;",
+        "hex": "&#x000F0",
+        "symbol": "ð",
+        "unicode": "U+000F0",
+        "name": "latin small letter eth",
+        "category": "Letters"
+    },
+    {
+        "code": "&#201;",
+        "dec": "&#201;",
+        "hex": "&#x000C9",
+        "symbol": "É",
+        "unicode": "U+000C9",
+        "name": "latin capital letter e with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#233;",
+        "dec": "&#233;",
+        "hex": "&#x000E9",
+        "symbol": "é",
+        "unicode": "U+000E9",
+        "name": "latin small letter e with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#200;",
+        "dec": "&#200;",
+        "hex": "&#x000C8",
+        "symbol": "È",
+        "unicode": "U+000C8",
+        "name": "latin capital letter e with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#232;",
+        "dec": "&#232;",
+        "hex": "&#x000E8",
+        "symbol": "è",
+        "unicode": "U+000E8",
+        "name": "latin small letter e with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#202;",
+        "dec": "&#202;",
+        "hex": "&#x000CA",
+        "symbol": "Ê",
+        "unicode": "U+000CA",
+        "name": "latin capital letter e with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#234;",
+        "dec": "&#234;",
+        "hex": "&#x000EA",
+        "symbol": "ê",
+        "unicode": "U+000EA",
+        "name": "latin small letter e with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#203;",
+        "dec": "&#203;",
+        "hex": "&#x000CB",
+        "symbol": "Ë",
+        "unicode": "U+000CB",
+        "name": "latin capital letter e with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#235;",
+        "dec": "&#235;",
+        "hex": "&#x000EB",
+        "symbol": "ë",
+        "unicode": "U+000EB",
+        "name": "latin small letter e with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#205;",
+        "dec": "&#205;",
+        "hex": "&#x000CD",
+        "symbol": "Í",
+        "unicode": "U+000CD",
+        "name": "latin capital letter i with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#237;",
+        "dec": "&#237;",
+        "hex": "&#x000ED",
+        "symbol": "í",
+        "unicode": "U+000ED",
+        "name": "latin small letter i with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#204;",
+        "dec": "&#204;",
+        "hex": "&#x000CC",
+        "symbol": "Ì",
+        "unicode": "U+000CC",
+        "name": "latin capital letter i with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#236;",
+        "dec": "&#236;",
+        "hex": "&#x000EC",
+        "symbol": "ì",
+        "unicode": "U+000EC",
+        "name": "latin small letter i with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#206;",
+        "dec": "&#206;",
+        "hex": "&#x000CE",
+        "symbol": "Î",
+        "unicode": "U+000CE",
+        "name": "latin capital letter i with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#238;",
+        "dec": "&#238;",
+        "hex": "&#x000EE",
+        "symbol": "î",
+        "unicode": "U+000EE",
+        "name": "latin small letter i with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#207;",
+        "dec": "&#207;",
+        "hex": "&#x000CF",
+        "symbol": "Ï",
+        "unicode": "U+000CF",
+        "name": "latin capital letter i with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#239;",
+        "dec": "&#239;",
+        "hex": "&#x000EF",
+        "symbol": "ï",
+        "unicode": "U+000EF",
+        "name": "latin small letter i with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#209;",
+        "dec": "&#209;",
+        "hex": "&#x000D1",
+        "symbol": "Ñ",
+        "unicode": "U+000D1",
+        "name": "latin capital letter n with tilde",
+        "category": "Letters"
+    },
+    {
+        "code": "&#241;",
+        "dec": "&#241;",
+        "hex": "&#x000F1",
+        "symbol": "ñ",
+        "unicode": "U+000F1",
+        "name": "latin small letter n with tilde",
+        "category": "Letters"
+    },
+    {
+        "code": "&#211;",
+        "dec": "&#211;",
+        "hex": "&#x000D3",
+        "symbol": "Ó",
+        "unicode": "U+000D3",
+        "name": "latin capital letter o with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#243;",
+        "dec": "&#243;",
+        "hex": "&#x000F3",
+        "symbol": "ó",
+        "unicode": "U+000F3",
+        "name": "latin small letter o with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#210;",
+        "dec": "&#210;",
+        "hex": "&#x000D2",
+        "symbol": "Ò",
+        "unicode": "U+000D2",
+        "name": "latin capital letter o with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#242;",
+        "dec": "&#242;",
+        "hex": "&#x000F2",
+        "symbol": "ò",
+        "unicode": "U+000F2",
+        "name": "latin small letter o with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#212;",
+        "dec": "&#212;",
+        "hex": "&#x000D4",
+        "symbol": "Ô",
+        "unicode": "U+000D4",
+        "name": "latin capital letter o with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#244;",
+        "dec": "&#244;",
+        "hex": "&#x000F4",
+        "symbol": "ô",
+        "unicode": "U+000F4",
+        "name": "latin small letter o with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#214;",
+        "dec": "&#214;",
+        "hex": "&#x000D6",
+        "symbol": "Ö",
+        "unicode": "U+000D6",
+        "name": "latin capital letter o with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#246;",
+        "dec": "&#246;",
+        "hex": "&#x000F6",
+        "symbol": "ö",
+        "unicode": "U+000F6",
+        "name": "latin small letter o with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#213;",
+        "dec": "&#213;",
+        "hex": "&#x000D5",
+        "symbol": "Õ",
+        "unicode": "U+000D5",
+        "name": "latin capital letter o with tilde",
+        "category": "Letters"
+    },
+    {
+        "code": "&#245;",
+        "dec": "&#245;",
+        "hex": "&#x000F5",
+        "symbol": "õ",
+        "unicode": "U+000F5",
+        "name": "latin small letter o with tilde",
+        "category": "Letters"
+    },
+    {
+        "code": "&#216;",
+        "dec": "&#216;",
+        "hex": "&#x000D8",
+        "symbol": "Ø",
+        "unicode": "U+000D8",
+        "name": "latin capital letter o with stroke",
+        "category": "Letters"
+    },
+    {
+        "code": "&#248;",
+        "dec": "&#248;",
+        "hex": "&#x000F8",
+        "symbol": "ø",
+        "unicode": "U+000F8",
+        "name": "latin small letter o with stroke",
+        "category": "Letters"
+    },
+    {
+        "code": "&#223;",
+        "dec": "&#223;",
+        "hex": "&#x000DF",
+        "symbol": "ß",
+        "unicode": "U+000DF",
+        "name": "latin small letter sharp s",
+        "category": "Letters"
+    },
+    {
+        "code": "&#254;",
+        "dec": "&#254;",
+        "hex": "&#x000FE",
+        "symbol": "þ",
+        "unicode": "U+000FE",
+        "name": "latin small letter thorn",
+        "category": "Letters"
+    },
+    {
+        "code": "&#218;",
+        "dec": "&#218;",
+        "hex": "&#x000DA",
+        "symbol": "Ú",
+        "unicode": "U+000DA",
+        "name": "latin capital letter u with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#250;",
+        "dec": "&#250;",
+        "hex": "&#x000FA",
+        "symbol": "ú",
+        "unicode": "U+000FA",
+        "name": "latin small letter u with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#217;",
+        "dec": "&#217;",
+        "hex": "&#x000D9",
+        "symbol": "Ù",
+        "unicode": "U+000D9",
+        "name": "latin capital letter u with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#249;",
+        "dec": "&#249;",
+        "hex": "&#x000F9",
+        "symbol": "ù",
+        "unicode": "U+000F9",
+        "name": "latin small letter u with grave",
+        "category": "Letters"
+    },
+    {
+        "code": "&#219;",
+        "dec": "&#219;",
+        "hex": "&#x000DB",
+        "symbol": "Û",
+        "unicode": "U+000DB",
+        "name": "latin capital letter u with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#251;",
+        "dec": "&#251;",
+        "hex": "&#x000FB",
+        "symbol": "û",
+        "unicode": "U+000FB",
+        "name": "latin small letter u with circumflex",
+        "category": "Letters"
+    },
+    {
+        "code": "&#220;",
+        "dec": "&#220;",
+        "hex": "&#x000DC",
+        "symbol": "Ü",
+        "unicode": "U+000DC",
+        "name": "latin capital letter u with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#252;",
+        "dec": "&#252;",
+        "hex": "&#x000FC",
+        "symbol": "ü",
+        "unicode": "U+000FC",
+        "name": "latin small letter u with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#221;",
+        "dec": "&#221;",
+        "hex": "&#x000DD",
+        "symbol": "Ý",
+        "unicode": "U+000DD",
+        "name": "latin capital letter y with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#253;",
+        "dec": "&#253;",
+        "hex": "&#x000FD",
+        "symbol": "ý",
+        "unicode": "U+000FD",
+        "name": "latin small letter y with acute",
+        "category": "Letters"
+    },
+    {
+        "code": "&#255;",
+        "dec": "&#255;",
+        "hex": "&#x000FF",
+        "symbol": "ÿ",
+        "unicode": "U+000FF",
+        "name": "latin small letter y with diaeresis",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8448;",
+        "dec": "&#8448;",
+        "hex": "&#x02100",
+        "symbol": "℀",
+        "unicode": "U+02100",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8449;",
+        "dec": "&#8449;",
+        "hex": "&#x02101",
+        "symbol": "℁",
+        "unicode": "U+02101",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8450;",
+        "dec": "&#8450;",
+        "hex": "&#x02102",
+        "symbol": "ℂ",
+        "unicode": "U+02102",
+        "name": "double-struck capital c",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8451;",
+        "dec": "&#8451;",
+        "hex": "&#x02103",
+        "symbol": "℃",
+        "unicode": "U+02103",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8452;",
+        "dec": "&#8452;",
+        "hex": "&#x02104",
+        "symbol": "℄",
+        "unicode": "U+02104",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8453;",
+        "dec": "&#8453;",
+        "hex": "&#x02105",
+        "symbol": "℅",
+        "unicode": "U+02105",
+        "name": "care of",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8454;",
+        "dec": "&#8454;",
+        "hex": "&#x02106",
+        "symbol": "℆",
+        "unicode": "U+02106",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8455;",
+        "dec": "&#8455;",
+        "hex": "&#x02107",
+        "symbol": "ℇ",
+        "unicode": "U+02107",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8456;",
+        "dec": "&#8456;",
+        "hex": "&#x02108",
+        "symbol": "℈",
+        "unicode": "U+02108",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8457;",
+        "dec": "&#8457;",
+        "hex": "&#x02109",
+        "symbol": "℉",
+        "unicode": "U+02109",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8458;",
+        "dec": "&#8458;",
+        "hex": "&#x0210A",
+        "symbol": "ℊ",
+        "unicode": "U+0210A",
+        "name": "script small g",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8459;",
+        "dec": "&#8459;",
+        "hex": "&#x0210B",
+        "symbol": "ℋ",
+        "unicode": "U+0210B",
+        "name": "script capital h",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8460;",
+        "dec": "&#8460;",
+        "hex": "&#x0210C",
+        "symbol": "ℌ",
+        "unicode": "U+0210C",
+        "name": "black-letter capital h",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8461;",
+        "dec": "&#8461;",
+        "hex": "&#x0210D",
+        "symbol": "ℍ",
+        "unicode": "U+0210D",
+        "name": "double-struck capital h",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8462;",
+        "dec": "&#8462;",
+        "hex": "&#x0210E",
+        "symbol": "ℎ",
+        "unicode": "U+0210E",
+        "name": "planck constant",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8463;",
+        "dec": "&#8463;",
+        "hex": "&#x0210F",
+        "symbol": "ℏ",
+        "unicode": "U+0210F",
+        "name": "planck constant over two pi",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8464;",
+        "dec": "&#8464;",
+        "hex": "&#x02110",
+        "symbol": "ℐ",
+        "unicode": "U+02110",
+        "name": "script capital i",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8465;",
+        "dec": "&#8465;",
+        "hex": "&#x02111",
+        "symbol": "ℑ",
+        "unicode": "U+02111",
+        "name": "black-letter capital i",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8466;",
+        "dec": "&#8466;",
+        "hex": "&#x02112",
+        "symbol": "ℒ",
+        "unicode": "U+02112",
+        "name": "script capital l",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8467;",
+        "dec": "&#8467;",
+        "hex": "&#x02113",
+        "symbol": "ℓ",
+        "unicode": "U+02113",
+        "name": "script small l",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8468;",
+        "dec": "&#8468;",
+        "hex": "&#x02114",
+        "symbol": "℔",
+        "unicode": "U+02114",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8469;",
+        "dec": "&#8469;",
+        "hex": "&#x02115",
+        "symbol": "ℕ",
+        "unicode": "U+02115",
+        "name": "double-struck capital n",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8470;",
+        "dec": "&#8470;",
+        "hex": "&#x02116",
+        "symbol": "№",
+        "unicode": "U+02116",
+        "name": "numero sign",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8471;",
+        "dec": "&#8471;",
+        "hex": "&#x02117",
+        "symbol": "℗",
+        "unicode": "U+02117",
+        "name": "sound recording copyright",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8472;",
+        "dec": "&#8472;",
+        "hex": "&#x02118",
+        "symbol": "℘",
+        "unicode": "U+02118",
+        "name": "script capital p",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8473;",
+        "dec": "&#8473;",
+        "hex": "&#x02119",
+        "symbol": "ℙ",
+        "unicode": "U+02119",
+        "name": "double-struck capital p",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8474;",
+        "dec": "&#8474;",
+        "hex": "&#x0211A",
+        "symbol": "ℚ",
+        "unicode": "U+0211A",
+        "name": "double-struck capital q",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8475;",
+        "dec": "&#8475;",
+        "hex": "&#x0211B",
+        "symbol": "ℛ",
+        "unicode": "U+0211B",
+        "name": "script capital r",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8476;",
+        "dec": "&#8476;",
+        "hex": "&#x0211C",
+        "symbol": "ℜ",
+        "unicode": "U+0211C",
+        "name": "black-letter capital r",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8477;",
+        "dec": "&#8477;",
+        "hex": "&#x0211D",
+        "symbol": "ℝ",
+        "unicode": "U+0211D",
+        "name": "double-struck capital r",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8478;",
+        "dec": "&#8478;",
+        "hex": "&#x0211E",
+        "symbol": "℞",
+        "unicode": "U+0211E",
+        "name": "prescription take",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8479;",
+        "dec": "&#8479;",
+        "hex": "&#x0211F",
+        "symbol": "℟",
+        "unicode": "U+0211F",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8480;",
+        "dec": "&#8480;",
+        "hex": "&#x02120",
+        "symbol": "℠",
+        "unicode": "U+02120",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8481;",
+        "dec": "&#8481;",
+        "hex": "&#x02121",
+        "symbol": "℡",
+        "unicode": "U+02121",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8482;",
+        "dec": "&#8482;",
+        "hex": "&#x02122",
+        "symbol": "™",
+        "unicode": "U+02122",
+        "name": "trade mark sign",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8483;",
+        "dec": "&#8483;",
+        "hex": "&#x02123",
+        "symbol": "℣",
+        "unicode": "U+02123",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8484;",
+        "dec": "&#8484;",
+        "hex": "&#x02124",
+        "symbol": "ℤ",
+        "unicode": "U+02124",
+        "name": "double-struck capital z",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8485;",
+        "dec": "&#8485;",
+        "hex": "&#x02125",
+        "symbol": "℥",
+        "unicode": "U+02125",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8486;",
+        "dec": "&#8486;",
+        "hex": "&#x02126",
+        "symbol": "Ω",
+        "unicode": "U+02126",
+        "name": "ohm sign",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8487;",
+        "dec": "&#8487;",
+        "hex": "&#x02127",
+        "symbol": "℧",
+        "unicode": "U+02127",
+        "name": "inverted ohm sign",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8488;",
+        "dec": "&#8488;",
+        "hex": "&#x02128",
+        "symbol": "ℨ",
+        "unicode": "U+02128",
+        "name": "black-letter capital z",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8489;",
+        "dec": "&#8489;",
+        "hex": "&#x02129",
+        "symbol": "℩",
+        "unicode": "U+02129",
+        "name": "turned greek small letter iota",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8490;",
+        "dec": "&#8490;",
+        "hex": "&#x0212A",
+        "symbol": "K",
+        "unicode": "U+0212A",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8491;",
+        "dec": "&#8491;",
+        "hex": "&#x0212B",
+        "symbol": "Å",
+        "unicode": "U+0212B",
+        "name": "angstrom sign",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8492;",
+        "dec": "&#8492;",
+        "hex": "&#x0212C",
+        "symbol": "ℬ",
+        "unicode": "U+0212C",
+        "name": "script capital b",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8493;",
+        "dec": "&#8493;",
+        "hex": "&#x0212D",
+        "symbol": "ℭ",
+        "unicode": "U+0212D",
+        "name": "black-letter capital c",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8494;",
+        "dec": "&#8494;",
+        "hex": "&#x0212E",
+        "symbol": "℮",
+        "unicode": "U+0212E",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8495;",
+        "dec": "&#8495;",
+        "hex": "&#x0212F",
+        "symbol": "ℯ",
+        "unicode": "U+0212F",
+        "name": "script small e",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8496;",
+        "dec": "&#8496;",
+        "hex": "&#x02130",
+        "symbol": "ℰ",
+        "unicode": "U+02130",
+        "name": "script capital e",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8497;",
+        "dec": "&#8497;",
+        "hex": "&#x02131",
+        "symbol": "ℱ",
+        "unicode": "U+02131",
+        "name": "script capital f",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8498;",
+        "dec": "&#8498;",
+        "hex": "&#x02132",
+        "symbol": "Ⅎ",
+        "unicode": "U+02132",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8499;",
+        "dec": "&#8499;",
+        "hex": "&#x02133",
+        "symbol": "ℳ",
+        "unicode": "U+02133",
+        "name": "script capital m",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8500;",
+        "dec": "&#8500;",
+        "hex": "&#x02134",
+        "symbol": "ℴ",
+        "unicode": "U+02134",
+        "name": "script small o",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8501;",
+        "dec": "&#8501;",
+        "hex": "&#x02135",
+        "symbol": "ℵ",
+        "unicode": "U+02135",
+        "name": "alef symbol",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8502;",
+        "dec": "&#8502;",
+        "hex": "&#x02136",
+        "symbol": "ℶ",
+        "unicode": "U+02136",
+        "name": "bet symbol",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8503;",
+        "dec": "&#8503;",
+        "hex": "&#x02137",
+        "symbol": "ℷ",
+        "unicode": "U+02137",
+        "name": "gimel symbol",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8504;",
+        "dec": "&#8504;",
+        "hex": "&#x02138",
+        "symbol": "ℸ",
+        "unicode": "U+02138",
+        "name": "dalet symbol",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8505;",
+        "dec": "&#8505;",
+        "hex": "&#x02139",
+        "symbol": "ℹ",
+        "unicode": "U+02139",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8506;",
+        "dec": "&#8506;",
+        "hex": "&#x0213A",
+        "symbol": "℺",
+        "unicode": "U+0213A",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8507;",
+        "dec": "&#8507;",
+        "hex": "&#x0213B",
+        "symbol": "℻",
+        "unicode": "U+0213B",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8508;",
+        "dec": "&#8508;",
+        "hex": "&#x0213C",
+        "symbol": "ℼ",
+        "unicode": "U+0213C",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8509;",
+        "dec": "&#8509;",
+        "hex": "&#x0213D",
+        "symbol": "ℽ",
+        "unicode": "U+0213D",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8510;",
+        "dec": "&#8510;",
+        "hex": "&#x0213E",
+        "symbol": "ℾ",
+        "unicode": "U+0213E",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8511;",
+        "dec": "&#8511;",
+        "hex": "&#x0213F",
+        "symbol": "ℿ",
+        "unicode": "U+0213F",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8512;",
+        "dec": "&#8512;",
+        "hex": "&#x02140",
+        "symbol": "⅀",
+        "unicode": "U+02140",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8513;",
+        "dec": "&#8513;",
+        "hex": "&#x02141",
+        "symbol": "⅁",
+        "unicode": "U+02141",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8514;",
+        "dec": "&#8514;",
+        "hex": "&#x02142",
+        "symbol": "⅂",
+        "unicode": "U+02142",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8515;",
+        "dec": "&#8515;",
+        "hex": "&#x02143",
+        "symbol": "⅃",
+        "unicode": "U+02143",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8516;",
+        "dec": "&#8516;",
+        "hex": "&#x02144",
+        "symbol": "⅄",
+        "unicode": "U+02144",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8517;",
+        "dec": "&#8517;",
+        "hex": "&#x02145",
+        "symbol": "ⅅ",
+        "unicode": "U+02145",
+        "name": "double-struck italic capital d",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8518;",
+        "dec": "&#8518;",
+        "hex": "&#x02146",
+        "symbol": "ⅆ",
+        "unicode": "U+02146",
+        "name": "double-struck italic small d",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8519;",
+        "dec": "&#8519;",
+        "hex": "&#x02147",
+        "symbol": "ⅇ",
+        "unicode": "U+02147",
+        "name": "double-struck italic small e",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8520;",
+        "dec": "&#8520;",
+        "hex": "&#x02148",
+        "symbol": "ⅈ",
+        "unicode": "U+02148",
+        "name": "double-struck italic small i",
+        "category": "Letters"
+    },
+    {
+        "code": "&#8521;",
+        "dec": "&#8521;",
+        "hex": "&#x02149",
+        "symbol": "ⅉ",
+        "unicode": "U+02149",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8522;",
+        "dec": "&#8522;",
+        "hex": "&#x0214A",
+        "symbol": "⅊",
+        "unicode": "U+0214A",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8523;",
+        "dec": "&#8523;",
+        "hex": "&#x0214B",
+        "symbol": "⅋",
+        "unicode": "U+0214B",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8524;",
+        "dec": "&#8524;",
+        "hex": "&#x0214C",
+        "symbol": "⅌",
+        "unicode": "U+0214C",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8525;",
+        "dec": "&#8525;",
+        "hex": "&#x0214D",
+        "symbol": "⅍",
+        "unicode": "U+0214D",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8526;",
+        "dec": "&#8526;",
+        "hex": "&#x0214E",
+        "symbol": "ⅎ",
+        "unicode": "U+0214E",
+        "name": null,
+        "category": "Letters"
+    },
+    {
+        "code": "&#8527;",
+        "dec": "&#8527;",
+        "hex": "&#x0214F",
+        "symbol": "⅏",
+        "unicode": "U+0214F",
+        "name": null,
+        "category": "Letters"
+    }
+]

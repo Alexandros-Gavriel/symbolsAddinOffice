@@ -1,0 +1,2306 @@
+[
+    {
+        "code": "&#9600;",
+        "dec": "&#9600;",
+        "hex": "&#x02580",
+        "symbol": "▀",
+        "unicode": "U+02580",
+        "name": "upper half block",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9601;",
+        "dec": "&#9601;",
+        "hex": "&#x02581",
+        "symbol": "▁",
+        "unicode": "U+02581",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9602;",
+        "dec": "&#9602;",
+        "hex": "&#x02582",
+        "symbol": "▂",
+        "unicode": "U+02582",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9603;",
+        "dec": "&#9603;",
+        "hex": "&#x02583",
+        "symbol": "▃",
+        "unicode": "U+02583",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9604;",
+        "dec": "&#9604;",
+        "hex": "&#x02584",
+        "symbol": "▄",
+        "unicode": "U+02584",
+        "name": "lower half block",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9605;",
+        "dec": "&#9605;",
+        "hex": "&#x02585",
+        "symbol": "▅",
+        "unicode": "U+02585",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9606;",
+        "dec": "&#9606;",
+        "hex": "&#x02586",
+        "symbol": "▆",
+        "unicode": "U+02586",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9607;",
+        "dec": "&#9607;",
+        "hex": "&#x02587",
+        "symbol": "▇",
+        "unicode": "U+02587",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9608;",
+        "dec": "&#9608;",
+        "hex": "&#x02588",
+        "symbol": "█",
+        "unicode": "U+02588",
+        "name": "full block",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9609;",
+        "dec": "&#9609;",
+        "hex": "&#x02589",
+        "symbol": "▉",
+        "unicode": "U+02589",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9610;",
+        "dec": "&#9610;",
+        "hex": "&#x0258A",
+        "symbol": "▊",
+        "unicode": "U+0258A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9611;",
+        "dec": "&#9611;",
+        "hex": "&#x0258B",
+        "symbol": "▋",
+        "unicode": "U+0258B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9612;",
+        "dec": "&#9612;",
+        "hex": "&#x0258C",
+        "symbol": "▌",
+        "unicode": "U+0258C",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9613;",
+        "dec": "&#9613;",
+        "hex": "&#x0258D",
+        "symbol": "▍",
+        "unicode": "U+0258D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9614;",
+        "dec": "&#9614;",
+        "hex": "&#x0258E",
+        "symbol": "▎",
+        "unicode": "U+0258E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9615;",
+        "dec": "&#9615;",
+        "hex": "&#x0258F",
+        "symbol": "▏",
+        "unicode": "U+0258F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9616;",
+        "dec": "&#9616;",
+        "hex": "&#x02590",
+        "symbol": "▐",
+        "unicode": "U+02590",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9617;",
+        "dec": "&#9617;",
+        "hex": "&#x02591",
+        "symbol": "░",
+        "unicode": "U+02591",
+        "name": "light shade",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9618;",
+        "dec": "&#9618;",
+        "hex": "&#x02592",
+        "symbol": "▒",
+        "unicode": "U+02592",
+        "name": "medium shade",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9619;",
+        "dec": "&#9619;",
+        "hex": "&#x02593",
+        "symbol": "▓",
+        "unicode": "U+02593",
+        "name": "dark shade",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9620;",
+        "dec": "&#9620;",
+        "hex": "&#x02594",
+        "symbol": "▔",
+        "unicode": "U+02594",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9621;",
+        "dec": "&#9621;",
+        "hex": "&#x02595",
+        "symbol": "▕",
+        "unicode": "U+02595",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9622;",
+        "dec": "&#9622;",
+        "hex": "&#x02596",
+        "symbol": "▖",
+        "unicode": "U+02596",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9623;",
+        "dec": "&#9623;",
+        "hex": "&#x02597",
+        "symbol": "▗",
+        "unicode": "U+02597",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9624;",
+        "dec": "&#9624;",
+        "hex": "&#x02598",
+        "symbol": "▘",
+        "unicode": "U+02598",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9625;",
+        "dec": "&#9625;",
+        "hex": "&#x02599",
+        "symbol": "▙",
+        "unicode": "U+02599",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9626;",
+        "dec": "&#9626;",
+        "hex": "&#x0259A",
+        "symbol": "▚",
+        "unicode": "U+0259A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9627;",
+        "dec": "&#9627;",
+        "hex": "&#x0259B",
+        "symbol": "▛",
+        "unicode": "U+0259B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9628;",
+        "dec": "&#9628;",
+        "hex": "&#x0259C",
+        "symbol": "▜",
+        "unicode": "U+0259C",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9629;",
+        "dec": "&#9629;",
+        "hex": "&#x0259D",
+        "symbol": "▝",
+        "unicode": "U+0259D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9630;",
+        "dec": "&#9630;",
+        "hex": "&#x0259E",
+        "symbol": "▞",
+        "unicode": "U+0259E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9631;",
+        "dec": "&#9631;",
+        "hex": "&#x0259F",
+        "symbol": "▟",
+        "unicode": "U+0259F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9632;",
+        "dec": "&#9632;",
+        "hex": "&#x025A0",
+        "symbol": "■",
+        "unicode": "U+025A0",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9633;",
+        "dec": "&#9633;",
+        "hex": "&#x025A1",
+        "symbol": "□",
+        "unicode": "U+025A1",
+        "name": "white square",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9634;",
+        "dec": "&#9634;",
+        "hex": "&#x025A2",
+        "symbol": "▢",
+        "unicode": "U+025A2",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9635;",
+        "dec": "&#9635;",
+        "hex": "&#x025A3",
+        "symbol": "▣",
+        "unicode": "U+025A3",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9636;",
+        "dec": "&#9636;",
+        "hex": "&#x025A4",
+        "symbol": "▤",
+        "unicode": "U+025A4",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9637;",
+        "dec": "&#9637;",
+        "hex": "&#x025A5",
+        "symbol": "▥",
+        "unicode": "U+025A5",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9638;",
+        "dec": "&#9638;",
+        "hex": "&#x025A6",
+        "symbol": "▦",
+        "unicode": "U+025A6",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9639;",
+        "dec": "&#9639;",
+        "hex": "&#x025A7",
+        "symbol": "▧",
+        "unicode": "U+025A7",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9640;",
+        "dec": "&#9640;",
+        "hex": "&#x025A8",
+        "symbol": "▨",
+        "unicode": "U+025A8",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9641;",
+        "dec": "&#9641;",
+        "hex": "&#x025A9",
+        "symbol": "▩",
+        "unicode": "U+025A9",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9642;",
+        "dec": "&#9642;",
+        "hex": "&#x025AA",
+        "symbol": "▪",
+        "unicode": "U+025AA",
+        "name": "black small square",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9643;",
+        "dec": "&#9643;",
+        "hex": "&#x025AB",
+        "symbol": "▫",
+        "unicode": "U+025AB",
+        "name": "white small square",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9644;",
+        "dec": "&#9644;",
+        "hex": "&#x025AC",
+        "symbol": "▬",
+        "unicode": "U+025AC",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9645;",
+        "dec": "&#9645;",
+        "hex": "&#x025AD",
+        "symbol": "▭",
+        "unicode": "U+025AD",
+        "name": "white rectangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9646;",
+        "dec": "&#9646;",
+        "hex": "&#x025AE",
+        "symbol": "▮",
+        "unicode": "U+025AE",
+        "name": "black vertical rectangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9647;",
+        "dec": "&#9647;",
+        "hex": "&#x025AF",
+        "symbol": "▯",
+        "unicode": "U+025AF",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9648;",
+        "dec": "&#9648;",
+        "hex": "&#x025B0",
+        "symbol": "▰",
+        "unicode": "U+025B0",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9649;",
+        "dec": "&#9649;",
+        "hex": "&#x025B1",
+        "symbol": "▱",
+        "unicode": "U+025B1",
+        "name": "white parallelogram",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9650;",
+        "dec": "&#9650;",
+        "hex": "&#x025B2",
+        "symbol": "▲",
+        "unicode": "U+025B2",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9651;",
+        "dec": "&#9651;",
+        "hex": "&#x025B3",
+        "symbol": "△",
+        "unicode": "U+025B3",
+        "name": "white up-pointing triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9652;",
+        "dec": "&#9652;",
+        "hex": "&#x025B4",
+        "symbol": "▴",
+        "unicode": "U+025B4",
+        "name": "black up-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9653;",
+        "dec": "&#9653;",
+        "hex": "&#x025B5",
+        "symbol": "▵",
+        "unicode": "U+025B5",
+        "name": "white up-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9654;",
+        "dec": "&#9654;",
+        "hex": "&#x025B6",
+        "symbol": "▶",
+        "unicode": "U+025B6",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9655;",
+        "dec": "&#9655;",
+        "hex": "&#x025B7",
+        "symbol": "▷",
+        "unicode": "U+025B7",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9656;",
+        "dec": "&#9656;",
+        "hex": "&#x025B8",
+        "symbol": "▸",
+        "unicode": "U+025B8",
+        "name": "black right-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9657;",
+        "dec": "&#9657;",
+        "hex": "&#x025B9",
+        "symbol": "▹",
+        "unicode": "U+025B9",
+        "name": "white right-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9658;",
+        "dec": "&#9658;",
+        "hex": "&#x025BA",
+        "symbol": "►",
+        "unicode": "U+025BA",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9659;",
+        "dec": "&#9659;",
+        "hex": "&#x025BB",
+        "symbol": "▻",
+        "unicode": "U+025BB",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9660;",
+        "dec": "&#9660;",
+        "hex": "&#x025BC",
+        "symbol": "▼",
+        "unicode": "U+025BC",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9661;",
+        "dec": "&#9661;",
+        "hex": "&#x025BD",
+        "symbol": "▽",
+        "unicode": "U+025BD",
+        "name": "white down-pointing triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9662;",
+        "dec": "&#9662;",
+        "hex": "&#x025BE",
+        "symbol": "▾",
+        "unicode": "U+025BE",
+        "name": "black down-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9663;",
+        "dec": "&#9663;",
+        "hex": "&#x025BF",
+        "symbol": "▿",
+        "unicode": "U+025BF",
+        "name": "white down-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9664;",
+        "dec": "&#9664;",
+        "hex": "&#x025C0",
+        "symbol": "◀",
+        "unicode": "U+025C0",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9665;",
+        "dec": "&#9665;",
+        "hex": "&#x025C1",
+        "symbol": "◁",
+        "unicode": "U+025C1",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9666;",
+        "dec": "&#9666;",
+        "hex": "&#x025C2",
+        "symbol": "◂",
+        "unicode": "U+025C2",
+        "name": "black left-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9667;",
+        "dec": "&#9667;",
+        "hex": "&#x025C3",
+        "symbol": "◃",
+        "unicode": "U+025C3",
+        "name": "white left-pointing small triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9668;",
+        "dec": "&#9668;",
+        "hex": "&#x025C4",
+        "symbol": "◄",
+        "unicode": "U+025C4",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9669;",
+        "dec": "&#9669;",
+        "hex": "&#x025C5",
+        "symbol": "◅",
+        "unicode": "U+025C5",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9670;",
+        "dec": "&#9670;",
+        "hex": "&#x025C6",
+        "symbol": "◆",
+        "unicode": "U+025C6",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9671;",
+        "dec": "&#9671;",
+        "hex": "&#x025C7",
+        "symbol": "◇",
+        "unicode": "U+025C7",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9672;",
+        "dec": "&#9672;",
+        "hex": "&#x025C8",
+        "symbol": "◈",
+        "unicode": "U+025C8",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9673;",
+        "dec": "&#9673;",
+        "hex": "&#x025C9",
+        "symbol": "◉",
+        "unicode": "U+025C9",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9674;",
+        "dec": "&#9674;",
+        "hex": "&#x025CA",
+        "symbol": "◊",
+        "unicode": "U+025CA",
+        "name": "lozenge",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9675;",
+        "dec": "&#9675;",
+        "hex": "&#x025CB",
+        "symbol": "○",
+        "unicode": "U+025CB",
+        "name": "white circle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9676;",
+        "dec": "&#9676;",
+        "hex": "&#x025CC",
+        "symbol": "◌",
+        "unicode": "U+025CC",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9677;",
+        "dec": "&#9677;",
+        "hex": "&#x025CD",
+        "symbol": "◍",
+        "unicode": "U+025CD",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9678;",
+        "dec": "&#9678;",
+        "hex": "&#x025CE",
+        "symbol": "◎",
+        "unicode": "U+025CE",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9679;",
+        "dec": "&#9679;",
+        "hex": "&#x025CF",
+        "symbol": "●",
+        "unicode": "U+025CF",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9680;",
+        "dec": "&#9680;",
+        "hex": "&#x025D0",
+        "symbol": "◐",
+        "unicode": "U+025D0",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9681;",
+        "dec": "&#9681;",
+        "hex": "&#x025D1",
+        "symbol": "◑",
+        "unicode": "U+025D1",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9682;",
+        "dec": "&#9682;",
+        "hex": "&#x025D2",
+        "symbol": "◒",
+        "unicode": "U+025D2",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9683;",
+        "dec": "&#9683;",
+        "hex": "&#x025D3",
+        "symbol": "◓",
+        "unicode": "U+025D3",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9684;",
+        "dec": "&#9684;",
+        "hex": "&#x025D4",
+        "symbol": "◔",
+        "unicode": "U+025D4",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9685;",
+        "dec": "&#9685;",
+        "hex": "&#x025D5",
+        "symbol": "◕",
+        "unicode": "U+025D5",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9686;",
+        "dec": "&#9686;",
+        "hex": "&#x025D6",
+        "symbol": "◖",
+        "unicode": "U+025D6",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9687;",
+        "dec": "&#9687;",
+        "hex": "&#x025D7",
+        "symbol": "◗",
+        "unicode": "U+025D7",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9688;",
+        "dec": "&#9688;",
+        "hex": "&#x025D8",
+        "symbol": "◘",
+        "unicode": "U+025D8",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9689;",
+        "dec": "&#9689;",
+        "hex": "&#x025D9",
+        "symbol": "◙",
+        "unicode": "U+025D9",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9690;",
+        "dec": "&#9690;",
+        "hex": "&#x025DA",
+        "symbol": "◚",
+        "unicode": "U+025DA",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9691;",
+        "dec": "&#9691;",
+        "hex": "&#x025DB",
+        "symbol": "◛",
+        "unicode": "U+025DB",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9692;",
+        "dec": "&#9692;",
+        "hex": "&#x025DC",
+        "symbol": "◜",
+        "unicode": "U+025DC",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9693;",
+        "dec": "&#9693;",
+        "hex": "&#x025DD",
+        "symbol": "◝",
+        "unicode": "U+025DD",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9694;",
+        "dec": "&#9694;",
+        "hex": "&#x025DE",
+        "symbol": "◞",
+        "unicode": "U+025DE",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9695;",
+        "dec": "&#9695;",
+        "hex": "&#x025DF",
+        "symbol": "◟",
+        "unicode": "U+025DF",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9696;",
+        "dec": "&#9696;",
+        "hex": "&#x025E0",
+        "symbol": "◠",
+        "unicode": "U+025E0",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9697;",
+        "dec": "&#9697;",
+        "hex": "&#x025E1",
+        "symbol": "◡",
+        "unicode": "U+025E1",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9698;",
+        "dec": "&#9698;",
+        "hex": "&#x025E2",
+        "symbol": "◢",
+        "unicode": "U+025E2",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9699;",
+        "dec": "&#9699;",
+        "hex": "&#x025E3",
+        "symbol": "◣",
+        "unicode": "U+025E3",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9700;",
+        "dec": "&#9700;",
+        "hex": "&#x025E4",
+        "symbol": "◤",
+        "unicode": "U+025E4",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9701;",
+        "dec": "&#9701;",
+        "hex": "&#x025E5",
+        "symbol": "◥",
+        "unicode": "U+025E5",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9702;",
+        "dec": "&#9702;",
+        "hex": "&#x025E6",
+        "symbol": "◦",
+        "unicode": "U+025E6",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9703;",
+        "dec": "&#9703;",
+        "hex": "&#x025E7",
+        "symbol": "◧",
+        "unicode": "U+025E7",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9704;",
+        "dec": "&#9704;",
+        "hex": "&#x025E8",
+        "symbol": "◨",
+        "unicode": "U+025E8",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9705;",
+        "dec": "&#9705;",
+        "hex": "&#x025E9",
+        "symbol": "◩",
+        "unicode": "U+025E9",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9706;",
+        "dec": "&#9706;",
+        "hex": "&#x025EA",
+        "symbol": "◪",
+        "unicode": "U+025EA",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9707;",
+        "dec": "&#9707;",
+        "hex": "&#x025EB",
+        "symbol": "◫",
+        "unicode": "U+025EB",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9708;",
+        "dec": "&#9708;",
+        "hex": "&#x025EC",
+        "symbol": "◬",
+        "unicode": "U+025EC",
+        "name": "white up-pointing triangle with dot",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9709;",
+        "dec": "&#9709;",
+        "hex": "&#x025ED",
+        "symbol": "◭",
+        "unicode": "U+025ED",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9710;",
+        "dec": "&#9710;",
+        "hex": "&#x025EE",
+        "symbol": "◮",
+        "unicode": "U+025EE",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9711;",
+        "dec": "&#9711;",
+        "hex": "&#x025EF",
+        "symbol": "◯",
+        "unicode": "U+025EF",
+        "name": "large circle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9712;",
+        "dec": "&#9712;",
+        "hex": "&#x025F0",
+        "symbol": "◰",
+        "unicode": "U+025F0",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9713;",
+        "dec": "&#9713;",
+        "hex": "&#x025F1",
+        "symbol": "◱",
+        "unicode": "U+025F1",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9714;",
+        "dec": "&#9714;",
+        "hex": "&#x025F2",
+        "symbol": "◲",
+        "unicode": "U+025F2",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9715;",
+        "dec": "&#9715;",
+        "hex": "&#x025F3",
+        "symbol": "◳",
+        "unicode": "U+025F3",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9716;",
+        "dec": "&#9716;",
+        "hex": "&#x025F4",
+        "symbol": "◴",
+        "unicode": "U+025F4",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9717;",
+        "dec": "&#9717;",
+        "hex": "&#x025F5",
+        "symbol": "◵",
+        "unicode": "U+025F5",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9718;",
+        "dec": "&#9718;",
+        "hex": "&#x025F6",
+        "symbol": "◶",
+        "unicode": "U+025F6",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9719;",
+        "dec": "&#9719;",
+        "hex": "&#x025F7",
+        "symbol": "◷",
+        "unicode": "U+025F7",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9720;",
+        "dec": "&#9720;",
+        "hex": "&#x025F8",
+        "symbol": "◸",
+        "unicode": "U+025F8",
+        "name": "upper left triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9721;",
+        "dec": "&#9721;",
+        "hex": "&#x025F9",
+        "symbol": "◹",
+        "unicode": "U+025F9",
+        "name": "upper right triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9722;",
+        "dec": "&#9722;",
+        "hex": "&#x025FA",
+        "symbol": "◺",
+        "unicode": "U+025FA",
+        "name": "lower left triangle",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9723;",
+        "dec": "&#9723;",
+        "hex": "&#x025FB",
+        "symbol": "◻",
+        "unicode": "U+025FB",
+        "name": "white medium square",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9724;",
+        "dec": "&#9724;",
+        "hex": "&#x025FC",
+        "symbol": "◼",
+        "unicode": "U+025FC",
+        "name": "black medium square",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9725;",
+        "dec": "&#9725;",
+        "hex": "&#x025FD",
+        "symbol": "◽",
+        "unicode": "U+025FD",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9726;",
+        "dec": "&#9726;",
+        "hex": "&#x025FE",
+        "symbol": "◾",
+        "unicode": "U+025FE",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9727;",
+        "dec": "&#9727;",
+        "hex": "&#x025FF",
+        "symbol": "◿",
+        "unicode": "U+025FF",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9472;",
+        "dec": "&#9472;",
+        "hex": "&#x02500",
+        "symbol": "─",
+        "unicode": "U+02500",
+        "name": "box drawings light horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9473;",
+        "dec": "&#9473;",
+        "hex": "&#x02501",
+        "symbol": "━",
+        "unicode": "U+02501",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9474;",
+        "dec": "&#9474;",
+        "hex": "&#x02502",
+        "symbol": "│",
+        "unicode": "U+02502",
+        "name": "box drawings light vertical",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9475;",
+        "dec": "&#9475;",
+        "hex": "&#x02503",
+        "symbol": "┃",
+        "unicode": "U+02503",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9476;",
+        "dec": "&#9476;",
+        "hex": "&#x02504",
+        "symbol": "┄",
+        "unicode": "U+02504",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9477;",
+        "dec": "&#9477;",
+        "hex": "&#x02505",
+        "symbol": "┅",
+        "unicode": "U+02505",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9478;",
+        "dec": "&#9478;",
+        "hex": "&#x02506",
+        "symbol": "┆",
+        "unicode": "U+02506",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9479;",
+        "dec": "&#9479;",
+        "hex": "&#x02507",
+        "symbol": "┇",
+        "unicode": "U+02507",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9480;",
+        "dec": "&#9480;",
+        "hex": "&#x02508",
+        "symbol": "┈",
+        "unicode": "U+02508",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9481;",
+        "dec": "&#9481;",
+        "hex": "&#x02509",
+        "symbol": "┉",
+        "unicode": "U+02509",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9482;",
+        "dec": "&#9482;",
+        "hex": "&#x0250A",
+        "symbol": "┊",
+        "unicode": "U+0250A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9483;",
+        "dec": "&#9483;",
+        "hex": "&#x0250B",
+        "symbol": "┋",
+        "unicode": "U+0250B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9484;",
+        "dec": "&#9484;",
+        "hex": "&#x0250C",
+        "symbol": "┌",
+        "unicode": "U+0250C",
+        "name": "box drawings light down and right",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9485;",
+        "dec": "&#9485;",
+        "hex": "&#x0250D",
+        "symbol": "┍",
+        "unicode": "U+0250D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9486;",
+        "dec": "&#9486;",
+        "hex": "&#x0250E",
+        "symbol": "┎",
+        "unicode": "U+0250E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9487;",
+        "dec": "&#9487;",
+        "hex": "&#x0250F",
+        "symbol": "┏",
+        "unicode": "U+0250F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9488;",
+        "dec": "&#9488;",
+        "hex": "&#x02510",
+        "symbol": "┐",
+        "unicode": "U+02510",
+        "name": "box drawings light down and left",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9489;",
+        "dec": "&#9489;",
+        "hex": "&#x02511",
+        "symbol": "┑",
+        "unicode": "U+02511",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9490;",
+        "dec": "&#9490;",
+        "hex": "&#x02512",
+        "symbol": "┒",
+        "unicode": "U+02512",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9491;",
+        "dec": "&#9491;",
+        "hex": "&#x02513",
+        "symbol": "┓",
+        "unicode": "U+02513",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9492;",
+        "dec": "&#9492;",
+        "hex": "&#x02514",
+        "symbol": "└",
+        "unicode": "U+02514",
+        "name": "box drawings light up and right",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9493;",
+        "dec": "&#9493;",
+        "hex": "&#x02515",
+        "symbol": "┕",
+        "unicode": "U+02515",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9494;",
+        "dec": "&#9494;",
+        "hex": "&#x02516",
+        "symbol": "┖",
+        "unicode": "U+02516",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9495;",
+        "dec": "&#9495;",
+        "hex": "&#x02517",
+        "symbol": "┗",
+        "unicode": "U+02517",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9496;",
+        "dec": "&#9496;",
+        "hex": "&#x02518",
+        "symbol": "┘",
+        "unicode": "U+02518",
+        "name": "box drawings light up and left",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9497;",
+        "dec": "&#9497;",
+        "hex": "&#x02519",
+        "symbol": "┙",
+        "unicode": "U+02519",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9498;",
+        "dec": "&#9498;",
+        "hex": "&#x0251A",
+        "symbol": "┚",
+        "unicode": "U+0251A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9499;",
+        "dec": "&#9499;",
+        "hex": "&#x0251B",
+        "symbol": "┛",
+        "unicode": "U+0251B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9500;",
+        "dec": "&#9500;",
+        "hex": "&#x0251C",
+        "symbol": "├",
+        "unicode": "U+0251C",
+        "name": "box drawings light vertical and right",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9501;",
+        "dec": "&#9501;",
+        "hex": "&#x0251D",
+        "symbol": "┝",
+        "unicode": "U+0251D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9502;",
+        "dec": "&#9502;",
+        "hex": "&#x0251E",
+        "symbol": "┞",
+        "unicode": "U+0251E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9503;",
+        "dec": "&#9503;",
+        "hex": "&#x0251F",
+        "symbol": "┟",
+        "unicode": "U+0251F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9504;",
+        "dec": "&#9504;",
+        "hex": "&#x02520",
+        "symbol": "┠",
+        "unicode": "U+02520",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9505;",
+        "dec": "&#9505;",
+        "hex": "&#x02521",
+        "symbol": "┡",
+        "unicode": "U+02521",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9506;",
+        "dec": "&#9506;",
+        "hex": "&#x02522",
+        "symbol": "┢",
+        "unicode": "U+02522",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9507;",
+        "dec": "&#9507;",
+        "hex": "&#x02523",
+        "symbol": "┣",
+        "unicode": "U+02523",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9508;",
+        "dec": "&#9508;",
+        "hex": "&#x02524",
+        "symbol": "┤",
+        "unicode": "U+02524",
+        "name": "box drawings light vertical and left",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9509;",
+        "dec": "&#9509;",
+        "hex": "&#x02525",
+        "symbol": "┥",
+        "unicode": "U+02525",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9510;",
+        "dec": "&#9510;",
+        "hex": "&#x02526",
+        "symbol": "┦",
+        "unicode": "U+02526",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9511;",
+        "dec": "&#9511;",
+        "hex": "&#x02527",
+        "symbol": "┧",
+        "unicode": "U+02527",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9512;",
+        "dec": "&#9512;",
+        "hex": "&#x02528",
+        "symbol": "┨",
+        "unicode": "U+02528",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9513;",
+        "dec": "&#9513;",
+        "hex": "&#x02529",
+        "symbol": "┩",
+        "unicode": "U+02529",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9514;",
+        "dec": "&#9514;",
+        "hex": "&#x0252A",
+        "symbol": "┪",
+        "unicode": "U+0252A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9515;",
+        "dec": "&#9515;",
+        "hex": "&#x0252B",
+        "symbol": "┫",
+        "unicode": "U+0252B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9516;",
+        "dec": "&#9516;",
+        "hex": "&#x0252C",
+        "symbol": "┬",
+        "unicode": "U+0252C",
+        "name": "box drawings light down and horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9517;",
+        "dec": "&#9517;",
+        "hex": "&#x0252D",
+        "symbol": "┭",
+        "unicode": "U+0252D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9518;",
+        "dec": "&#9518;",
+        "hex": "&#x0252E",
+        "symbol": "┮",
+        "unicode": "U+0252E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9519;",
+        "dec": "&#9519;",
+        "hex": "&#x0252F",
+        "symbol": "┯",
+        "unicode": "U+0252F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9520;",
+        "dec": "&#9520;",
+        "hex": "&#x02530",
+        "symbol": "┰",
+        "unicode": "U+02530",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9521;",
+        "dec": "&#9521;",
+        "hex": "&#x02531",
+        "symbol": "┱",
+        "unicode": "U+02531",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9522;",
+        "dec": "&#9522;",
+        "hex": "&#x02532",
+        "symbol": "┲",
+        "unicode": "U+02532",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9523;",
+        "dec": "&#9523;",
+        "hex": "&#x02533",
+        "symbol": "┳",
+        "unicode": "U+02533",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9524;",
+        "dec": "&#9524;",
+        "hex": "&#x02534",
+        "symbol": "┴",
+        "unicode": "U+02534",
+        "name": "box drawings light up and horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9525;",
+        "dec": "&#9525;",
+        "hex": "&#x02535",
+        "symbol": "┵",
+        "unicode": "U+02535",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9526;",
+        "dec": "&#9526;",
+        "hex": "&#x02536",
+        "symbol": "┶",
+        "unicode": "U+02536",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9527;",
+        "dec": "&#9527;",
+        "hex": "&#x02537",
+        "symbol": "┷",
+        "unicode": "U+02537",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9528;",
+        "dec": "&#9528;",
+        "hex": "&#x02538",
+        "symbol": "┸",
+        "unicode": "U+02538",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9529;",
+        "dec": "&#9529;",
+        "hex": "&#x02539",
+        "symbol": "┹",
+        "unicode": "U+02539",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9530;",
+        "dec": "&#9530;",
+        "hex": "&#x0253A",
+        "symbol": "┺",
+        "unicode": "U+0253A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9531;",
+        "dec": "&#9531;",
+        "hex": "&#x0253B",
+        "symbol": "┻",
+        "unicode": "U+0253B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9532;",
+        "dec": "&#9532;",
+        "hex": "&#x0253C",
+        "symbol": "┼",
+        "unicode": "U+0253C",
+        "name": "box drawings light vertical and horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9533;",
+        "dec": "&#9533;",
+        "hex": "&#x0253D",
+        "symbol": "┽",
+        "unicode": "U+0253D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9534;",
+        "dec": "&#9534;",
+        "hex": "&#x0253E",
+        "symbol": "┾",
+        "unicode": "U+0253E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9535;",
+        "dec": "&#9535;",
+        "hex": "&#x0253F",
+        "symbol": "┿",
+        "unicode": "U+0253F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9536;",
+        "dec": "&#9536;",
+        "hex": "&#x02540",
+        "symbol": "╀",
+        "unicode": "U+02540",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9537;",
+        "dec": "&#9537;",
+        "hex": "&#x02541",
+        "symbol": "╁",
+        "unicode": "U+02541",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9538;",
+        "dec": "&#9538;",
+        "hex": "&#x02542",
+        "symbol": "╂",
+        "unicode": "U+02542",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9539;",
+        "dec": "&#9539;",
+        "hex": "&#x02543",
+        "symbol": "╃",
+        "unicode": "U+02543",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9540;",
+        "dec": "&#9540;",
+        "hex": "&#x02544",
+        "symbol": "╄",
+        "unicode": "U+02544",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9541;",
+        "dec": "&#9541;",
+        "hex": "&#x02545",
+        "symbol": "╅",
+        "unicode": "U+02545",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9542;",
+        "dec": "&#9542;",
+        "hex": "&#x02546",
+        "symbol": "╆",
+        "unicode": "U+02546",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9543;",
+        "dec": "&#9543;",
+        "hex": "&#x02547",
+        "symbol": "╇",
+        "unicode": "U+02547",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9544;",
+        "dec": "&#9544;",
+        "hex": "&#x02548",
+        "symbol": "╈",
+        "unicode": "U+02548",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9545;",
+        "dec": "&#9545;",
+        "hex": "&#x02549",
+        "symbol": "╉",
+        "unicode": "U+02549",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9546;",
+        "dec": "&#9546;",
+        "hex": "&#x0254A",
+        "symbol": "╊",
+        "unicode": "U+0254A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9547;",
+        "dec": "&#9547;",
+        "hex": "&#x0254B",
+        "symbol": "╋",
+        "unicode": "U+0254B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9548;",
+        "dec": "&#9548;",
+        "hex": "&#x0254C",
+        "symbol": "╌",
+        "unicode": "U+0254C",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9549;",
+        "dec": "&#9549;",
+        "hex": "&#x0254D",
+        "symbol": "╍",
+        "unicode": "U+0254D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9550;",
+        "dec": "&#9550;",
+        "hex": "&#x0254E",
+        "symbol": "╎",
+        "unicode": "U+0254E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9551;",
+        "dec": "&#9551;",
+        "hex": "&#x0254F",
+        "symbol": "╏",
+        "unicode": "U+0254F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9552;",
+        "dec": "&#9552;",
+        "hex": "&#x02550",
+        "symbol": "═",
+        "unicode": "U+02550",
+        "name": "box drawings double horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9553;",
+        "dec": "&#9553;",
+        "hex": "&#x02551",
+        "symbol": "║",
+        "unicode": "U+02551",
+        "name": "box drawings double vertical",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9554;",
+        "dec": "&#9554;",
+        "hex": "&#x02552",
+        "symbol": "╒",
+        "unicode": "U+02552",
+        "name": "box drawings down single and right double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9555;",
+        "dec": "&#9555;",
+        "hex": "&#x02553",
+        "symbol": "╓",
+        "unicode": "U+02553",
+        "name": "box drawings down double and right single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9556;",
+        "dec": "&#9556;",
+        "hex": "&#x02554",
+        "symbol": "╔",
+        "unicode": "U+02554",
+        "name": "box drawings double down and right",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9557;",
+        "dec": "&#9557;",
+        "hex": "&#x02555",
+        "symbol": "╕",
+        "unicode": "U+02555",
+        "name": "box drawings down single and left double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9558;",
+        "dec": "&#9558;",
+        "hex": "&#x02556",
+        "symbol": "╖",
+        "unicode": "U+02556",
+        "name": "box drawings down double and left single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9559;",
+        "dec": "&#9559;",
+        "hex": "&#x02557",
+        "symbol": "╗",
+        "unicode": "U+02557",
+        "name": "box drawings double down and left",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9560;",
+        "dec": "&#9560;",
+        "hex": "&#x02558",
+        "symbol": "╘",
+        "unicode": "U+02558",
+        "name": "box drawings up single and right double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9561;",
+        "dec": "&#9561;",
+        "hex": "&#x02559",
+        "symbol": "╙",
+        "unicode": "U+02559",
+        "name": "box drawings up double and right single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9562;",
+        "dec": "&#9562;",
+        "hex": "&#x0255A",
+        "symbol": "╚",
+        "unicode": "U+0255A",
+        "name": "box drawings double up and right",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9563;",
+        "dec": "&#9563;",
+        "hex": "&#x0255B",
+        "symbol": "╛",
+        "unicode": "U+0255B",
+        "name": "box drawings up single and left double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9564;",
+        "dec": "&#9564;",
+        "hex": "&#x0255C",
+        "symbol": "╜",
+        "unicode": "U+0255C",
+        "name": "box drawings up double and left single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9565;",
+        "dec": "&#9565;",
+        "hex": "&#x0255D",
+        "symbol": "╝",
+        "unicode": "U+0255D",
+        "name": "box drawings double up and left",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9566;",
+        "dec": "&#9566;",
+        "hex": "&#x0255E",
+        "symbol": "╞",
+        "unicode": "U+0255E",
+        "name": "box drawings vertical single and right double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9567;",
+        "dec": "&#9567;",
+        "hex": "&#x0255F",
+        "symbol": "╟",
+        "unicode": "U+0255F",
+        "name": "box drawings vertical double and right single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9568;",
+        "dec": "&#9568;",
+        "hex": "&#x02560",
+        "symbol": "╠",
+        "unicode": "U+02560",
+        "name": "box drawings double vertical and right",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9569;",
+        "dec": "&#9569;",
+        "hex": "&#x02561",
+        "symbol": "╡",
+        "unicode": "U+02561",
+        "name": "box drawings vertical single and left double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9570;",
+        "dec": "&#9570;",
+        "hex": "&#x02562",
+        "symbol": "╢",
+        "unicode": "U+02562",
+        "name": "box drawings vertical double and left single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9571;",
+        "dec": "&#9571;",
+        "hex": "&#x02563",
+        "symbol": "╣",
+        "unicode": "U+02563",
+        "name": "box drawings double vertical and left",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9572;",
+        "dec": "&#9572;",
+        "hex": "&#x02564",
+        "symbol": "╤",
+        "unicode": "U+02564",
+        "name": "box drawings down single and horizontal double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9573;",
+        "dec": "&#9573;",
+        "hex": "&#x02565",
+        "symbol": "╥",
+        "unicode": "U+02565",
+        "name": "box drawings down double and horizontal single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9574;",
+        "dec": "&#9574;",
+        "hex": "&#x02566",
+        "symbol": "╦",
+        "unicode": "U+02566",
+        "name": "box drawings double down and horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9575;",
+        "dec": "&#9575;",
+        "hex": "&#x02567",
+        "symbol": "╧",
+        "unicode": "U+02567",
+        "name": "box drawings up single and horizontal double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9576;",
+        "dec": "&#9576;",
+        "hex": "&#x02568",
+        "symbol": "╨",
+        "unicode": "U+02568",
+        "name": "box drawings up double and horizontal single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9577;",
+        "dec": "&#9577;",
+        "hex": "&#x02569",
+        "symbol": "╩",
+        "unicode": "U+02569",
+        "name": "box drawings double up and horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9578;",
+        "dec": "&#9578;",
+        "hex": "&#x0256A",
+        "symbol": "╪",
+        "unicode": "U+0256A",
+        "name": "box drawings vertical single and horizontal double",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9579;",
+        "dec": "&#9579;",
+        "hex": "&#x0256B",
+        "symbol": "╫",
+        "unicode": "U+0256B",
+        "name": "box drawings vertical double and horizontal single",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9580;",
+        "dec": "&#9580;",
+        "hex": "&#x0256C",
+        "symbol": "╬",
+        "unicode": "U+0256C",
+        "name": "box drawings double vertical and horizontal",
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9581;",
+        "dec": "&#9581;",
+        "hex": "&#x0256D",
+        "symbol": "╭",
+        "unicode": "U+0256D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9582;",
+        "dec": "&#9582;",
+        "hex": "&#x0256E",
+        "symbol": "╮",
+        "unicode": "U+0256E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9583;",
+        "dec": "&#9583;",
+        "hex": "&#x0256F",
+        "symbol": "╯",
+        "unicode": "U+0256F",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9584;",
+        "dec": "&#9584;",
+        "hex": "&#x02570",
+        "symbol": "╰",
+        "unicode": "U+02570",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9585;",
+        "dec": "&#9585;",
+        "hex": "&#x02571",
+        "symbol": "╱",
+        "unicode": "U+02571",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9586;",
+        "dec": "&#9586;",
+        "hex": "&#x02572",
+        "symbol": "╲",
+        "unicode": "U+02572",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9587;",
+        "dec": "&#9587;",
+        "hex": "&#x02573",
+        "symbol": "╳",
+        "unicode": "U+02573",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9588;",
+        "dec": "&#9588;",
+        "hex": "&#x02574",
+        "symbol": "╴",
+        "unicode": "U+02574",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9589;",
+        "dec": "&#9589;",
+        "hex": "&#x02575",
+        "symbol": "╵",
+        "unicode": "U+02575",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9590;",
+        "dec": "&#9590;",
+        "hex": "&#x02576",
+        "symbol": "╶",
+        "unicode": "U+02576",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9591;",
+        "dec": "&#9591;",
+        "hex": "&#x02577",
+        "symbol": "╷",
+        "unicode": "U+02577",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9592;",
+        "dec": "&#9592;",
+        "hex": "&#x02578",
+        "symbol": "╸",
+        "unicode": "U+02578",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9593;",
+        "dec": "&#9593;",
+        "hex": "&#x02579",
+        "symbol": "╹",
+        "unicode": "U+02579",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9594;",
+        "dec": "&#9594;",
+        "hex": "&#x0257A",
+        "symbol": "╺",
+        "unicode": "U+0257A",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9595;",
+        "dec": "&#9595;",
+        "hex": "&#x0257B",
+        "symbol": "╻",
+        "unicode": "U+0257B",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9596;",
+        "dec": "&#9596;",
+        "hex": "&#x0257C",
+        "symbol": "╼",
+        "unicode": "U+0257C",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9597;",
+        "dec": "&#9597;",
+        "hex": "&#x0257D",
+        "symbol": "╽",
+        "unicode": "U+0257D",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9598;",
+        "dec": "&#9598;",
+        "hex": "&#x0257E",
+        "symbol": "╾",
+        "unicode": "U+0257E",
+        "name": null,
+        "category": "Drawing"
+    },
+    {
+        "code": "&#9599;",
+        "dec": "&#9599;",
+        "hex": "&#x0257F",
+        "symbol": "╿",
+        "unicode": "U+0257F",
+        "name": null,
+        "category": "Drawing"
+    }
+]

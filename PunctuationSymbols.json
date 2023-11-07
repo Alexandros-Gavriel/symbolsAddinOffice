@@ -1,0 +1,866 @@
+[
+    {
+        "code": "&#8208;",
+        "dec": "&#8208;",
+        "hex": "&#x02010",
+        "symbol": "‐",
+        "unicode": "U+02010",
+        "name": "hyphen",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8209;",
+        "dec": "&#8209;",
+        "hex": "&#x02011",
+        "symbol": "‑",
+        "unicode": "U+02011",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8210;",
+        "dec": "&#8210;",
+        "hex": "&#x02012",
+        "symbol": "‒",
+        "unicode": "U+02012",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8211;",
+        "dec": "&#8211;",
+        "hex": "&#x02013",
+        "symbol": "–",
+        "unicode": "U+02013",
+        "name": "en dash",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8212;",
+        "dec": "&#8212;",
+        "hex": "&#x02014",
+        "symbol": "—",
+        "unicode": "U+02014",
+        "name": "em dash",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8213;",
+        "dec": "&#8213;",
+        "hex": "&#x02015",
+        "symbol": "―",
+        "unicode": "U+02015",
+        "name": "horizontal bar",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8214;",
+        "dec": "&#8214;",
+        "hex": "&#x02016",
+        "symbol": "‖",
+        "unicode": "U+02016",
+        "name": "double vertical line",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8215;",
+        "dec": "&#8215;",
+        "hex": "&#x02017",
+        "symbol": "‗",
+        "unicode": "U+02017",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8216;",
+        "dec": "&#8216;",
+        "hex": "&#x02018",
+        "symbol": "‘",
+        "unicode": "U+02018",
+        "name": "left single quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8217;",
+        "dec": "&#8217;",
+        "hex": "&#x02019",
+        "symbol": "’",
+        "unicode": "U+02019",
+        "name": "right single quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8218;",
+        "dec": "&#8218;",
+        "hex": "&#x0201A",
+        "symbol": "‚",
+        "unicode": "U+0201A",
+        "name": "single low-9 quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8219;",
+        "dec": "&#8219;",
+        "hex": "&#x0201B",
+        "symbol": "‛",
+        "unicode": "U+0201B",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8220;",
+        "dec": "&#8220;",
+        "hex": "&#x0201C",
+        "symbol": "“",
+        "unicode": "U+0201C",
+        "name": "left double quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8221;",
+        "dec": "&#8221;",
+        "hex": "&#x0201D",
+        "symbol": "”",
+        "unicode": "U+0201D",
+        "name": "right double quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8222;",
+        "dec": "&#8222;",
+        "hex": "&#x0201E",
+        "symbol": "„",
+        "unicode": "U+0201E",
+        "name": "double low-9 quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8223;",
+        "dec": "&#8223;",
+        "hex": "&#x0201F",
+        "symbol": "‟",
+        "unicode": "U+0201F",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8224;",
+        "dec": "&#8224;",
+        "hex": "&#x02020",
+        "symbol": "†",
+        "unicode": "U+02020",
+        "name": "dagger",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8225;",
+        "dec": "&#8225;",
+        "hex": "&#x02021",
+        "symbol": "‡",
+        "unicode": "U+02021",
+        "name": "double dagger",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8226;",
+        "dec": "&#8226;",
+        "hex": "&#x02022",
+        "symbol": "•",
+        "unicode": "U+02022",
+        "name": "bullet",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8227;",
+        "dec": "&#8227;",
+        "hex": "&#x02023",
+        "symbol": "‣",
+        "unicode": "U+02023",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8228;",
+        "dec": "&#8228;",
+        "hex": "&#x02024",
+        "symbol": "․",
+        "unicode": "U+02024",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8229;",
+        "dec": "&#8229;",
+        "hex": "&#x02025",
+        "symbol": "‥",
+        "unicode": "U+02025",
+        "name": "two dot leader",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8230;",
+        "dec": "&#8230;",
+        "hex": "&#x02026",
+        "symbol": "…",
+        "unicode": "U+02026",
+        "name": "horizontal ellipsis",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8231;",
+        "dec": "&#8231;",
+        "hex": "&#x02027",
+        "symbol": "‧",
+        "unicode": "U+02027",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8240;",
+        "dec": "&#8240;",
+        "hex": "&#x02030",
+        "symbol": "‰",
+        "unicode": "U+02030",
+        "name": "per mille sign",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8241;",
+        "dec": "&#8241;",
+        "hex": "&#x02031",
+        "symbol": "‱",
+        "unicode": "U+02031",
+        "name": "per ten thousand sign",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8242;",
+        "dec": "&#8242;",
+        "hex": "&#x02032",
+        "symbol": "′",
+        "unicode": "U+02032",
+        "name": "prime",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8243;",
+        "dec": "&#8243;",
+        "hex": "&#x02033",
+        "symbol": "″",
+        "unicode": "U+02033",
+        "name": "double prime",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8244;",
+        "dec": "&#8244;",
+        "hex": "&#x02034",
+        "symbol": "‴",
+        "unicode": "U+02034",
+        "name": "triple prime",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8245;",
+        "dec": "&#8245;",
+        "hex": "&#x02035",
+        "symbol": "‵",
+        "unicode": "U+02035",
+        "name": "reversed prime",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8246;",
+        "dec": "&#8246;",
+        "hex": "&#x02036",
+        "symbol": "‶",
+        "unicode": "U+02036",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8247;",
+        "dec": "&#8247;",
+        "hex": "&#x02037",
+        "symbol": "‷",
+        "unicode": "U+02037",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8248;",
+        "dec": "&#8248;",
+        "hex": "&#x02038",
+        "symbol": "‸",
+        "unicode": "U+02038",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8249;",
+        "dec": "&#8249;",
+        "hex": "&#x02039",
+        "symbol": "‹",
+        "unicode": "U+02039",
+        "name": "single left-pointing angle quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8250;",
+        "dec": "&#8250;",
+        "hex": "&#x0203A",
+        "symbol": "›",
+        "unicode": "U+0203A",
+        "name": "single right-pointing angle quotation mark",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8251;",
+        "dec": "&#8251;",
+        "hex": "&#x0203B",
+        "symbol": "※",
+        "unicode": "U+0203B",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8252;",
+        "dec": "&#8252;",
+        "hex": "&#x0203C",
+        "symbol": "‼",
+        "unicode": "U+0203C",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8253;",
+        "dec": "&#8253;",
+        "hex": "&#x0203D",
+        "symbol": "‽",
+        "unicode": "U+0203D",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8254;",
+        "dec": "&#8254;",
+        "hex": "&#x0203E",
+        "symbol": "‾",
+        "unicode": "U+0203E",
+        "name": "overline",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8255;",
+        "dec": "&#8255;",
+        "hex": "&#x0203F",
+        "symbol": "‿",
+        "unicode": "U+0203F",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8256;",
+        "dec": "&#8256;",
+        "hex": "&#x02040",
+        "symbol": "⁀",
+        "unicode": "U+02040",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8257;",
+        "dec": "&#8257;",
+        "hex": "&#x02041",
+        "symbol": "⁁",
+        "unicode": "U+02041",
+        "name": "caret insertion point",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8258;",
+        "dec": "&#8258;",
+        "hex": "&#x02042",
+        "symbol": "⁂",
+        "unicode": "U+02042",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8259;",
+        "dec": "&#8259;",
+        "hex": "&#x02043",
+        "symbol": "⁃",
+        "unicode": "U+02043",
+        "name": "hyphen bullet",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8260;",
+        "dec": "&#8260;",
+        "hex": "&#x02044",
+        "symbol": "⁄",
+        "unicode": "U+02044",
+        "name": "fraction slash",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8261;",
+        "dec": "&#8261;",
+        "hex": "&#x02045",
+        "symbol": "⁅",
+        "unicode": "U+02045",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8262;",
+        "dec": "&#8262;",
+        "hex": "&#x02046",
+        "symbol": "⁆",
+        "unicode": "U+02046",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8263;",
+        "dec": "&#8263;",
+        "hex": "&#x02047",
+        "symbol": "⁇",
+        "unicode": "U+02047",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8264;",
+        "dec": "&#8264;",
+        "hex": "&#x02048",
+        "symbol": "⁈",
+        "unicode": "U+02048",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8265;",
+        "dec": "&#8265;",
+        "hex": "&#x02049",
+        "symbol": "⁉",
+        "unicode": "U+02049",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8266;",
+        "dec": "&#8266;",
+        "hex": "&#x0204A",
+        "symbol": "⁊",
+        "unicode": "U+0204A",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8267;",
+        "dec": "&#8267;",
+        "hex": "&#x0204B",
+        "symbol": "⁋",
+        "unicode": "U+0204B",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8268;",
+        "dec": "&#8268;",
+        "hex": "&#x0204C",
+        "symbol": "⁌",
+        "unicode": "U+0204C",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8269;",
+        "dec": "&#8269;",
+        "hex": "&#x0204D",
+        "symbol": "⁍",
+        "unicode": "U+0204D",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8270;",
+        "dec": "&#8270;",
+        "hex": "&#x0204E",
+        "symbol": "⁎",
+        "unicode": "U+0204E",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8271;",
+        "dec": "&#8271;",
+        "hex": "&#x0204F",
+        "symbol": "⁏",
+        "unicode": "U+0204F",
+        "name": "reversed semicolon",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8272;",
+        "dec": "&#8272;",
+        "hex": "&#x02050",
+        "symbol": "⁐",
+        "unicode": "U+02050",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8273;",
+        "dec": "&#8273;",
+        "hex": "&#x02051",
+        "symbol": "⁑",
+        "unicode": "U+02051",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8274;",
+        "dec": "&#8274;",
+        "hex": "&#x02052",
+        "symbol": "⁒",
+        "unicode": "U+02052",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8275;",
+        "dec": "&#8275;",
+        "hex": "&#x02053",
+        "symbol": "⁓",
+        "unicode": "U+02053",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8276;",
+        "dec": "&#8276;",
+        "hex": "&#x02054",
+        "symbol": "⁔",
+        "unicode": "U+02054",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8277;",
+        "dec": "&#8277;",
+        "hex": "&#x02055",
+        "symbol": "⁕",
+        "unicode": "U+02055",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8278;",
+        "dec": "&#8278;",
+        "hex": "&#x02056",
+        "symbol": "⁖",
+        "unicode": "U+02056",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8279;",
+        "dec": "&#8279;",
+        "hex": "&#x02057",
+        "symbol": "⁗",
+        "unicode": "U+02057",
+        "name": "quadruple prime",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8280;",
+        "dec": "&#8280;",
+        "hex": "&#x02058",
+        "symbol": "⁘",
+        "unicode": "U+02058",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8281;",
+        "dec": "&#8281;",
+        "hex": "&#x02059",
+        "symbol": "⁙",
+        "unicode": "U+02059",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8282;",
+        "dec": "&#8282;",
+        "hex": "&#x0205A",
+        "symbol": "⁚",
+        "unicode": "U+0205A",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8283;",
+        "dec": "&#8283;",
+        "hex": "&#x0205B",
+        "symbol": "⁛",
+        "unicode": "U+0205B",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8284;",
+        "dec": "&#8284;",
+        "hex": "&#x0205C",
+        "symbol": "⁜",
+        "unicode": "U+0205C",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8285;",
+        "dec": "&#8285;",
+        "hex": "&#x0205D",
+        "symbol": "⁝",
+        "unicode": "U+0205D",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8286;",
+        "dec": "&#8286;",
+        "hex": "&#x0205E",
+        "symbol": "⁞",
+        "unicode": "U+0205E",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8287;",
+        "dec": "&#8287;",
+        "hex": "&#x0205F",
+        "symbol": " ",
+        "unicode": "U+0205F",
+        "name": "medium mathematical space",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8289;",
+        "dec": "&#8289;",
+        "hex": "&#x02061",
+        "symbol": "⁡",
+        "unicode": "U+02061",
+        "name": "function application",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8290;",
+        "dec": "&#8290;",
+        "hex": "&#x02062",
+        "symbol": "⁢",
+        "unicode": "U+02062",
+        "name": "invisible times",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8291;",
+        "dec": "&#8291;",
+        "hex": "&#x02063",
+        "symbol": "⁣",
+        "unicode": "U+02063",
+        "name": "invisible separator",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8292;",
+        "dec": "&#8292;",
+        "hex": "&#x02064",
+        "symbol": "⁤",
+        "unicode": "U+02064",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8294;",
+        "dec": "&#8294;",
+        "hex": "&#x02066",
+        "symbol": "⁦",
+        "unicode": "U+02066",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8295;",
+        "dec": "&#8295;",
+        "hex": "&#x02067",
+        "symbol": "⁧",
+        "unicode": "U+02067",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8296;",
+        "dec": "&#8296;",
+        "hex": "&#x02068",
+        "symbol": "⁨",
+        "unicode": "U+02068",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8297;",
+        "dec": "&#8297;",
+        "hex": "&#x02069",
+        "symbol": "⁩",
+        "unicode": "U+02069",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8298;",
+        "dec": "&#8298;",
+        "hex": "&#x0206A",
+        "symbol": "⁪",
+        "unicode": "U+0206A",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8299;",
+        "dec": "&#8299;",
+        "hex": "&#x0206B",
+        "symbol": "⁫",
+        "unicode": "U+0206B",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8300;",
+        "dec": "&#8300;",
+        "hex": "&#x0206C",
+        "symbol": "⁬",
+        "unicode": "U+0206C",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8301;",
+        "dec": "&#8301;",
+        "hex": "&#x0206D",
+        "symbol": "⁭",
+        "unicode": "U+0206D",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8302;",
+        "dec": "&#8302;",
+        "hex": "&#x0206E",
+        "symbol": "⁮",
+        "unicode": "U+0206E",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8303;",
+        "dec": "&#8303;",
+        "hex": "&#x0206F",
+        "symbol": "⁯",
+        "unicode": "U+0206F",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8192;",
+        "dec": "&#8192;",
+        "hex": "&#x02000",
+        "symbol": " ",
+        "unicode": "U+02000",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8193;",
+        "dec": "&#8193;",
+        "hex": "&#x02001",
+        "symbol": " ",
+        "unicode": "U+02001",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8196;",
+        "dec": "&#8196;",
+        "hex": "&#x02004",
+        "symbol": " ",
+        "unicode": "U+02004",
+        "name": "three-per-em space",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8197;",
+        "dec": "&#8197;",
+        "hex": "&#x02005",
+        "symbol": " ",
+        "unicode": "U+02005",
+        "name": "four-per-em space",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8198;",
+        "dec": "&#8198;",
+        "hex": "&#x02006",
+        "symbol": " ",
+        "unicode": "U+02006",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8199;",
+        "dec": "&#8199;",
+        "hex": "&#x02007",
+        "symbol": " ",
+        "unicode": "U+02007",
+        "name": "figure space",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8200;",
+        "dec": "&#8200;",
+        "hex": "&#x02008",
+        "symbol": " ",
+        "unicode": "U+02008",
+        "name": "punctuation space",
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8232;",
+        "dec": "&#8232;",
+        "hex": "&#x02028",
+        "symbol": " ",
+        "unicode": "U+02028",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8233;",
+        "dec": "&#8233;",
+        "hex": "&#x02029",
+        "symbol": " ",
+        "unicode": "U+02029",
+        "name": null,
+        "category": "Punctuation"
+    },
+    {
+        "code": "&#8239;",
+        "dec": "&#8239;",
+        "hex": "&#x0202F",
+        "symbol": " ",
+        "unicode": "U+0202F",
+        "name": null,
+        "category": "Punctuation"
+    }
+]

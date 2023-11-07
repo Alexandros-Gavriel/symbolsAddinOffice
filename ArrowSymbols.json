@@ -1,0 +1,2666 @@
+[
+    {
+        "code": "&#8592;",
+        "dec": "&#8592;",
+        "hex": "&#x02190",
+        "symbol": "←",
+        "unicode": "U+02190",
+        "name": "leftwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8594;",
+        "dec": "&#8594;",
+        "hex": "&#x02192",
+        "symbol": "→",
+        "unicode": "U+02192",
+        "name": "rightwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8593;",
+        "dec": "&#8593;",
+        "hex": "&#x02191",
+        "symbol": "↑",
+        "unicode": "U+02191",
+        "name": "upwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8595;",
+        "dec": "&#8595;",
+        "hex": "&#x02193",
+        "symbol": "↓",
+        "unicode": "U+02193",
+        "name": "downwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8596;",
+        "dec": "&#8596;",
+        "hex": "&#x02194",
+        "symbol": "↔",
+        "unicode": "U+02194",
+        "name": "left right arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8597;",
+        "dec": "&#8597;",
+        "hex": "&#x02195",
+        "symbol": "↕",
+        "unicode": "U+02195",
+        "name": "up down arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8598;",
+        "dec": "&#8598;",
+        "hex": "&#x02196",
+        "symbol": "↖",
+        "unicode": "U+02196",
+        "name": "north west arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8599;",
+        "dec": "&#8599;",
+        "hex": "&#x02197",
+        "symbol": "↗",
+        "unicode": "U+02197",
+        "name": "north east arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8600;",
+        "dec": "&#8600;",
+        "hex": "&#x02198",
+        "symbol": "↘",
+        "unicode": "U+02198",
+        "name": "south east arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8601;",
+        "dec": "&#8601;",
+        "hex": "&#x02199",
+        "symbol": "↙",
+        "unicode": "U+02199",
+        "name": "south west arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8602;",
+        "dec": "&#8602;",
+        "hex": "&#x0219A",
+        "symbol": "↚",
+        "unicode": "U+0219A",
+        "name": "leftwards arrow with stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8603;",
+        "dec": "&#8603;",
+        "hex": "&#x0219B",
+        "symbol": "↛",
+        "unicode": "U+0219B",
+        "name": "rightwards arrow with stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8604;",
+        "dec": "&#8604;",
+        "hex": "&#x0219C",
+        "symbol": "↜",
+        "unicode": "U+0219C",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8605;",
+        "dec": "&#8605;",
+        "hex": "&#x0219D",
+        "symbol": "↝",
+        "unicode": "U+0219D",
+        "name": "rightwards wave arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8606;",
+        "dec": "&#8606;",
+        "hex": "&#x0219E",
+        "symbol": "↞",
+        "unicode": "U+0219E",
+        "name": "leftwards two headed arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8607;",
+        "dec": "&#8607;",
+        "hex": "&#x0219F",
+        "symbol": "↟",
+        "unicode": "U+0219F",
+        "name": "upwards two headed arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8608;",
+        "dec": "&#8608;",
+        "hex": "&#x021A0",
+        "symbol": "↠",
+        "unicode": "U+021A0",
+        "name": "rightwards two headed arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8609;",
+        "dec": "&#8609;",
+        "hex": "&#x021A1",
+        "symbol": "↡",
+        "unicode": "U+021A1",
+        "name": "downwards two headed arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8610;",
+        "dec": "&#8610;",
+        "hex": "&#x021A2",
+        "symbol": "↢",
+        "unicode": "U+021A2",
+        "name": "leftwards arrow with tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8611;",
+        "dec": "&#8611;",
+        "hex": "&#x021A3",
+        "symbol": "↣",
+        "unicode": "U+021A3",
+        "name": "rightwards arrow with tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8612;",
+        "dec": "&#8612;",
+        "hex": "&#x021A4",
+        "symbol": "↤",
+        "unicode": "U+021A4",
+        "name": "leftwards arrow from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8613;",
+        "dec": "&#8613;",
+        "hex": "&#x021A5",
+        "symbol": "↥",
+        "unicode": "U+021A5",
+        "name": "upwards arrow from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8614;",
+        "dec": "&#8614;",
+        "hex": "&#x021A6",
+        "symbol": "↦",
+        "unicode": "U+021A6",
+        "name": "rightwards arrow from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8615;",
+        "dec": "&#8615;",
+        "hex": "&#x021A7",
+        "symbol": "↧",
+        "unicode": "U+021A7",
+        "name": "downwards arrow from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8616;",
+        "dec": "&#8616;",
+        "hex": "&#x021A8",
+        "symbol": "↨",
+        "unicode": "U+021A8",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8617;",
+        "dec": "&#8617;",
+        "hex": "&#x021A9",
+        "symbol": "↩",
+        "unicode": "U+021A9",
+        "name": "leftwards arrow with hook",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8618;",
+        "dec": "&#8618;",
+        "hex": "&#x021AA",
+        "symbol": "↪",
+        "unicode": "U+021AA",
+        "name": "rightwards arrow with hook",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8619;",
+        "dec": "&#8619;",
+        "hex": "&#x021AB",
+        "symbol": "↫",
+        "unicode": "U+021AB",
+        "name": "leftwards arrow with loop",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8620;",
+        "dec": "&#8620;",
+        "hex": "&#x021AC",
+        "symbol": "↬",
+        "unicode": "U+021AC",
+        "name": "rightwards arrow with loop",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8621;",
+        "dec": "&#8621;",
+        "hex": "&#x021AD",
+        "symbol": "↭",
+        "unicode": "U+021AD",
+        "name": "left right wave arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8622;",
+        "dec": "&#8622;",
+        "hex": "&#x021AE",
+        "symbol": "↮",
+        "unicode": "U+021AE",
+        "name": "left right arrow with stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8623;",
+        "dec": "&#8623;",
+        "hex": "&#x021AF",
+        "symbol": "↯",
+        "unicode": "U+021AF",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8624;",
+        "dec": "&#8624;",
+        "hex": "&#x021B0",
+        "symbol": "↰",
+        "unicode": "U+021B0",
+        "name": "upwards arrow with tip leftwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8625;",
+        "dec": "&#8625;",
+        "hex": "&#x021B1",
+        "symbol": "↱",
+        "unicode": "U+021B1",
+        "name": "upwards arrow with tip rightwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8626;",
+        "dec": "&#8626;",
+        "hex": "&#x021B2",
+        "symbol": "↲",
+        "unicode": "U+021B2",
+        "name": "downwards arrow with tip leftwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8627;",
+        "dec": "&#8627;",
+        "hex": "&#x021B3",
+        "symbol": "↳",
+        "unicode": "U+021B3",
+        "name": "downwards arrow with tip rightwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8628;",
+        "dec": "&#8628;",
+        "hex": "&#x021B4",
+        "symbol": "↴",
+        "unicode": "U+021B4",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8629;",
+        "dec": "&#8629;",
+        "hex": "&#x021B5",
+        "symbol": "↵",
+        "unicode": "U+021B5",
+        "name": "downwards arrow with corner leftwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8630;",
+        "dec": "&#8630;",
+        "hex": "&#x021B6",
+        "symbol": "↶",
+        "unicode": "U+021B6",
+        "name": "anticlockwise top semicircle arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8631;",
+        "dec": "&#8631;",
+        "hex": "&#x021B7",
+        "symbol": "↷",
+        "unicode": "U+021B7",
+        "name": "clockwise top semicircle arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8632;",
+        "dec": "&#8632;",
+        "hex": "&#x021B8",
+        "symbol": "↸",
+        "unicode": "U+021B8",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8633;",
+        "dec": "&#8633;",
+        "hex": "&#x021B9",
+        "symbol": "↹",
+        "unicode": "U+021B9",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8634;",
+        "dec": "&#8634;",
+        "hex": "&#x021BA",
+        "symbol": "↺",
+        "unicode": "U+021BA",
+        "name": "anticlockwise open circle arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8635;",
+        "dec": "&#8635;",
+        "hex": "&#x021BB",
+        "symbol": "↻",
+        "unicode": "U+021BB",
+        "name": "clockwise open circle arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8636;",
+        "dec": "&#8636;",
+        "hex": "&#x021BC",
+        "symbol": "↼",
+        "unicode": "U+021BC",
+        "name": "leftwards harpoon with barb upwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8637;",
+        "dec": "&#8637;",
+        "hex": "&#x021BD",
+        "symbol": "↽",
+        "unicode": "U+021BD",
+        "name": "leftwards harpoon with barb downwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8638;",
+        "dec": "&#8638;",
+        "hex": "&#x021BE",
+        "symbol": "↾",
+        "unicode": "U+021BE",
+        "name": "upwards harpoon with barb rightwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8639;",
+        "dec": "&#8639;",
+        "hex": "&#x021BF",
+        "symbol": "↿",
+        "unicode": "U+021BF",
+        "name": "upwards harpoon with barb leftwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8640;",
+        "dec": "&#8640;",
+        "hex": "&#x021C0",
+        "symbol": "⇀",
+        "unicode": "U+021C0",
+        "name": "rightwards harpoon with barb upwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8641;",
+        "dec": "&#8641;",
+        "hex": "&#x021C1",
+        "symbol": "⇁",
+        "unicode": "U+021C1",
+        "name": "rightwards harpoon with barb downwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8642;",
+        "dec": "&#8642;",
+        "hex": "&#x021C2",
+        "symbol": "⇂",
+        "unicode": "U+021C2",
+        "name": "downwards harpoon with barb rightwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8643;",
+        "dec": "&#8643;",
+        "hex": "&#x021C3",
+        "symbol": "⇃",
+        "unicode": "U+021C3",
+        "name": "downwards harpoon with barb leftwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8644;",
+        "dec": "&#8644;",
+        "hex": "&#x021C4",
+        "symbol": "⇄",
+        "unicode": "U+021C4",
+        "name": "rightwards arrow over leftwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8645;",
+        "dec": "&#8645;",
+        "hex": "&#x021C5",
+        "symbol": "⇅",
+        "unicode": "U+021C5",
+        "name": "upwards arrow leftwards of downwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8646;",
+        "dec": "&#8646;",
+        "hex": "&#x021C6",
+        "symbol": "⇆",
+        "unicode": "U+021C6",
+        "name": "leftwards arrow over rightwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8647;",
+        "dec": "&#8647;",
+        "hex": "&#x021C7",
+        "symbol": "⇇",
+        "unicode": "U+021C7",
+        "name": "leftwards paired arrows",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8648;",
+        "dec": "&#8648;",
+        "hex": "&#x021C8",
+        "symbol": "⇈",
+        "unicode": "U+021C8",
+        "name": "upwards paired arrows",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8649;",
+        "dec": "&#8649;",
+        "hex": "&#x021C9",
+        "symbol": "⇉",
+        "unicode": "U+021C9",
+        "name": "rightwards paired arrows",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8650;",
+        "dec": "&#8650;",
+        "hex": "&#x021CA",
+        "symbol": "⇊",
+        "unicode": "U+021CA",
+        "name": "downwards paired arrows",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8651;",
+        "dec": "&#8651;",
+        "hex": "&#x021CB",
+        "symbol": "⇋",
+        "unicode": "U+021CB",
+        "name": "leftwards harpoon over rightwards harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8652;",
+        "dec": "&#8652;",
+        "hex": "&#x021CC",
+        "symbol": "⇌",
+        "unicode": "U+021CC",
+        "name": "rightwards harpoon over leftwards harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8653;",
+        "dec": "&#8653;",
+        "hex": "&#x021CD",
+        "symbol": "⇍",
+        "unicode": "U+021CD",
+        "name": "leftwards double arrow with stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8654;",
+        "dec": "&#8654;",
+        "hex": "&#x021CE",
+        "symbol": "⇎",
+        "unicode": "U+021CE",
+        "name": "left right double arrow with stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8655;",
+        "dec": "&#8655;",
+        "hex": "&#x021CF",
+        "symbol": "⇏",
+        "unicode": "U+021CF",
+        "name": "rightwards double arrow with stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8656;",
+        "dec": "&#8656;",
+        "hex": "&#x021D0",
+        "symbol": "⇐",
+        "unicode": "U+021D0",
+        "name": "leftwards double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8657;",
+        "dec": "&#8657;",
+        "hex": "&#x021D1",
+        "symbol": "⇑",
+        "unicode": "U+021D1",
+        "name": "upwards double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8658;",
+        "dec": "&#8658;",
+        "hex": "&#x021D2",
+        "symbol": "⇒",
+        "unicode": "U+021D2",
+        "name": "rightwards double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8659;",
+        "dec": "&#8659;",
+        "hex": "&#x021D3",
+        "symbol": "⇓",
+        "unicode": "U+021D3",
+        "name": "downwards double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8660;",
+        "dec": "&#8660;",
+        "hex": "&#x021D4",
+        "symbol": "⇔",
+        "unicode": "U+021D4",
+        "name": "left right double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8661;",
+        "dec": "&#8661;",
+        "hex": "&#x021D5",
+        "symbol": "⇕",
+        "unicode": "U+021D5",
+        "name": "up down double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8662;",
+        "dec": "&#8662;",
+        "hex": "&#x021D6",
+        "symbol": "⇖",
+        "unicode": "U+021D6",
+        "name": "north west double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8663;",
+        "dec": "&#8663;",
+        "hex": "&#x021D7",
+        "symbol": "⇗",
+        "unicode": "U+021D7",
+        "name": "north east double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8664;",
+        "dec": "&#8664;",
+        "hex": "&#x021D8",
+        "symbol": "⇘",
+        "unicode": "U+021D8",
+        "name": "south east double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8665;",
+        "dec": "&#8665;",
+        "hex": "&#x021D9",
+        "symbol": "⇙",
+        "unicode": "U+021D9",
+        "name": "south west double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8666;",
+        "dec": "&#8666;",
+        "hex": "&#x021DA",
+        "symbol": "⇚",
+        "unicode": "U+021DA",
+        "name": "leftwards triple arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8667;",
+        "dec": "&#8667;",
+        "hex": "&#x021DB",
+        "symbol": "⇛",
+        "unicode": "U+021DB",
+        "name": "rightwards triple arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8668;",
+        "dec": "&#8668;",
+        "hex": "&#x021DC",
+        "symbol": "⇜",
+        "unicode": "U+021DC",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8669;",
+        "dec": "&#8669;",
+        "hex": "&#x021DD",
+        "symbol": "⇝",
+        "unicode": "U+021DD",
+        "name": "rightwards squiggle arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8670;",
+        "dec": "&#8670;",
+        "hex": "&#x021DE",
+        "symbol": "⇞",
+        "unicode": "U+021DE",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8671;",
+        "dec": "&#8671;",
+        "hex": "&#x021DF",
+        "symbol": "⇟",
+        "unicode": "U+021DF",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8672;",
+        "dec": "&#8672;",
+        "hex": "&#x021E0",
+        "symbol": "⇠",
+        "unicode": "U+021E0",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8673;",
+        "dec": "&#8673;",
+        "hex": "&#x021E1",
+        "symbol": "⇡",
+        "unicode": "U+021E1",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8674;",
+        "dec": "&#8674;",
+        "hex": "&#x021E2",
+        "symbol": "⇢",
+        "unicode": "U+021E2",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8675;",
+        "dec": "&#8675;",
+        "hex": "&#x021E3",
+        "symbol": "⇣",
+        "unicode": "U+021E3",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8676;",
+        "dec": "&#8676;",
+        "hex": "&#x021E4",
+        "symbol": "⇤",
+        "unicode": "U+021E4",
+        "name": "leftwards arrow to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8677;",
+        "dec": "&#8677;",
+        "hex": "&#x021E5",
+        "symbol": "⇥",
+        "unicode": "U+021E5",
+        "name": "rightwards arrow to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8677;",
+        "dec": "&#8677;",
+        "hex": "&#x021E5",
+        "symbol": "⇥",
+        "unicode": "U+021E5",
+        "name": "rightwards arrow to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8678;",
+        "dec": "&#8678;",
+        "hex": "&#x021E6",
+        "symbol": "⇦",
+        "unicode": "U+021E6",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8679;",
+        "dec": "&#8679;",
+        "hex": "&#x021E7",
+        "symbol": "⇧",
+        "unicode": "U+021E7",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8680;",
+        "dec": "&#8680;",
+        "hex": "&#x021E8",
+        "symbol": "⇨",
+        "unicode": "U+021E8",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8681;",
+        "dec": "&#8681;",
+        "hex": "&#x021E9",
+        "symbol": "⇩",
+        "unicode": "U+021E9",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8682;",
+        "dec": "&#8682;",
+        "hex": "&#x021EA",
+        "symbol": "⇪",
+        "unicode": "U+021EA",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8683;",
+        "dec": "&#8683;",
+        "hex": "&#x021EB",
+        "symbol": "⇫",
+        "unicode": "U+021EB",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8684;",
+        "dec": "&#8684;",
+        "hex": "&#x021EC",
+        "symbol": "⇬",
+        "unicode": "U+021EC",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8685;",
+        "dec": "&#8685;",
+        "hex": "&#x021ED",
+        "symbol": "⇭",
+        "unicode": "U+021ED",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8686;",
+        "dec": "&#8686;",
+        "hex": "&#x021EE",
+        "symbol": "⇮",
+        "unicode": "U+021EE",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8687;",
+        "dec": "&#8687;",
+        "hex": "&#x021EF",
+        "symbol": "⇯",
+        "unicode": "U+021EF",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8688;",
+        "dec": "&#8688;",
+        "hex": "&#x021F0",
+        "symbol": "⇰",
+        "unicode": "U+021F0",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8689;",
+        "dec": "&#8689;",
+        "hex": "&#x021F1",
+        "symbol": "⇱",
+        "unicode": "U+021F1",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8690;",
+        "dec": "&#8690;",
+        "hex": "&#x021F2",
+        "symbol": "⇲",
+        "unicode": "U+021F2",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8691;",
+        "dec": "&#8691;",
+        "hex": "&#x021F3",
+        "symbol": "⇳",
+        "unicode": "U+021F3",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8692;",
+        "dec": "&#8692;",
+        "hex": "&#x021F4",
+        "symbol": "⇴",
+        "unicode": "U+021F4",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8693;",
+        "dec": "&#8693;",
+        "hex": "&#x021F5",
+        "symbol": "⇵",
+        "unicode": "U+021F5",
+        "name": "downwards arrow leftwards of upwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8694;",
+        "dec": "&#8694;",
+        "hex": "&#x021F6",
+        "symbol": "⇶",
+        "unicode": "U+021F6",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8695;",
+        "dec": "&#8695;",
+        "hex": "&#x021F7",
+        "symbol": "⇷",
+        "unicode": "U+021F7",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8696;",
+        "dec": "&#8696;",
+        "hex": "&#x021F8",
+        "symbol": "⇸",
+        "unicode": "U+021F8",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8697;",
+        "dec": "&#8697;",
+        "hex": "&#x021F9",
+        "symbol": "⇹",
+        "unicode": "U+021F9",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8698;",
+        "dec": "&#8698;",
+        "hex": "&#x021FA",
+        "symbol": "⇺",
+        "unicode": "U+021FA",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8699;",
+        "dec": "&#8699;",
+        "hex": "&#x021FB",
+        "symbol": "⇻",
+        "unicode": "U+021FB",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8700;",
+        "dec": "&#8700;",
+        "hex": "&#x021FC",
+        "symbol": "⇼",
+        "unicode": "U+021FC",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8701;",
+        "dec": "&#8701;",
+        "hex": "&#x021FD",
+        "symbol": "⇽",
+        "unicode": "U+021FD",
+        "name": "leftwards open-headed arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8702;",
+        "dec": "&#8702;",
+        "hex": "&#x021FE",
+        "symbol": "⇾",
+        "unicode": "U+021FE",
+        "name": "rightwards open-headed arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#8703;",
+        "dec": "&#8703;",
+        "hex": "&#x021FF",
+        "symbol": "⇿",
+        "unicode": "U+021FF",
+        "name": "left right open-headed arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10224;",
+        "dec": "&#10224;",
+        "hex": "&#x027F0",
+        "symbol": "⟰",
+        "unicode": "U+027F0",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10225;",
+        "dec": "&#10225;",
+        "hex": "&#x027F1",
+        "symbol": "⟱",
+        "unicode": "U+027F1",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10226;",
+        "dec": "&#10226;",
+        "hex": "&#x027F2",
+        "symbol": "⟲",
+        "unicode": "U+027F2",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10227;",
+        "dec": "&#10227;",
+        "hex": "&#x027F3",
+        "symbol": "⟳",
+        "unicode": "U+027F3",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10228;",
+        "dec": "&#10228;",
+        "hex": "&#x027F4",
+        "symbol": "⟴",
+        "unicode": "U+027F4",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10229;",
+        "dec": "&#10229;",
+        "hex": "&#x027F5",
+        "symbol": "⟵",
+        "unicode": "U+027F5",
+        "name": "long leftwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10230;",
+        "dec": "&#10230;",
+        "hex": "&#x027F6",
+        "symbol": "⟶",
+        "unicode": "U+027F6",
+        "name": "long rightwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10231;",
+        "dec": "&#10231;",
+        "hex": "&#x027F7",
+        "symbol": "⟷",
+        "unicode": "U+027F7",
+        "name": "long left right arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10232;",
+        "dec": "&#10232;",
+        "hex": "&#x027F8",
+        "symbol": "⟸",
+        "unicode": "U+027F8",
+        "name": "long leftwards double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10233;",
+        "dec": "&#10233;",
+        "hex": "&#x027F9",
+        "symbol": "⟹",
+        "unicode": "U+027F9",
+        "name": "long rightwards double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10234;",
+        "dec": "&#10234;",
+        "hex": "&#x027FA",
+        "symbol": "⟺",
+        "unicode": "U+027FA",
+        "name": "long left right double arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10235;",
+        "dec": "&#10235;",
+        "hex": "&#x027FB",
+        "symbol": "⟻",
+        "unicode": "U+027FB",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10236;",
+        "dec": "&#10236;",
+        "hex": "&#x027FC",
+        "symbol": "⟼",
+        "unicode": "U+027FC",
+        "name": "long rightwards arrow from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10237;",
+        "dec": "&#10237;",
+        "hex": "&#x027FD",
+        "symbol": "⟽",
+        "unicode": "U+027FD",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10238;",
+        "dec": "&#10238;",
+        "hex": "&#x027FE",
+        "symbol": "⟾",
+        "unicode": "U+027FE",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10239;",
+        "dec": "&#10239;",
+        "hex": "&#x027FF",
+        "symbol": "⟿",
+        "unicode": "U+027FF",
+        "name": "long rightwards squiggle arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10496;",
+        "dec": "&#10496;",
+        "hex": "&#x02900",
+        "symbol": "⤀",
+        "unicode": "U+02900",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10497;",
+        "dec": "&#10497;",
+        "hex": "&#x02901",
+        "symbol": "⤁",
+        "unicode": "U+02901",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10498;",
+        "dec": "&#10498;",
+        "hex": "&#x02902",
+        "symbol": "⤂",
+        "unicode": "U+02902",
+        "name": "leftwards double arrow with vertical stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10499;",
+        "dec": "&#10499;",
+        "hex": "&#x02903",
+        "symbol": "⤃",
+        "unicode": "U+02903",
+        "name": "rightwards double arrow with vertical stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10500;",
+        "dec": "&#10500;",
+        "hex": "&#x02904",
+        "symbol": "⤄",
+        "unicode": "U+02904",
+        "name": "left right double arrow with vertical stroke",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10501;",
+        "dec": "&#10501;",
+        "hex": "&#x02905",
+        "symbol": "⤅",
+        "unicode": "U+02905",
+        "name": "rightwards two-headed arrow from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10502;",
+        "dec": "&#10502;",
+        "hex": "&#x02906",
+        "symbol": "⤆",
+        "unicode": "U+02906",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10503;",
+        "dec": "&#10503;",
+        "hex": "&#x02907",
+        "symbol": "⤇",
+        "unicode": "U+02907",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10504;",
+        "dec": "&#10504;",
+        "hex": "&#x02908",
+        "symbol": "⤈",
+        "unicode": "U+02908",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10505;",
+        "dec": "&#10505;",
+        "hex": "&#x02909",
+        "symbol": "⤉",
+        "unicode": "U+02909",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10506;",
+        "dec": "&#10506;",
+        "hex": "&#x0290A",
+        "symbol": "⤊",
+        "unicode": "U+0290A",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10507;",
+        "dec": "&#10507;",
+        "hex": "&#x0290B",
+        "symbol": "⤋",
+        "unicode": "U+0290B",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10508;",
+        "dec": "&#10508;",
+        "hex": "&#x0290C",
+        "symbol": "⤌",
+        "unicode": "U+0290C",
+        "name": "leftwards double dash arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10509;",
+        "dec": "&#10509;",
+        "hex": "&#x0290D",
+        "symbol": "⤍",
+        "unicode": "U+0290D",
+        "name": "rightwards double dash arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10510;",
+        "dec": "&#10510;",
+        "hex": "&#x0290E",
+        "symbol": "⤎",
+        "unicode": "U+0290E",
+        "name": "leftwards triple dash arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10511;",
+        "dec": "&#10511;",
+        "hex": "&#x0290F",
+        "symbol": "⤏",
+        "unicode": "U+0290F",
+        "name": "rightwards triple dash arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10512;",
+        "dec": "&#10512;",
+        "hex": "&#x02910",
+        "symbol": "⤐",
+        "unicode": "U+02910",
+        "name": "rightwards two-headed triple dash arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10513;",
+        "dec": "&#10513;",
+        "hex": "&#x02911",
+        "symbol": "⤑",
+        "unicode": "U+02911",
+        "name": "rightwards arrow with dotted stem",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10514;",
+        "dec": "&#10514;",
+        "hex": "&#x02912",
+        "symbol": "⤒",
+        "unicode": "U+02912",
+        "name": "upwards arrow to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10515;",
+        "dec": "&#10515;",
+        "hex": "&#x02913",
+        "symbol": "⤓",
+        "unicode": "U+02913",
+        "name": "downwards arrow to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10516;",
+        "dec": "&#10516;",
+        "hex": "&#x02914",
+        "symbol": "⤔",
+        "unicode": "U+02914",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10517;",
+        "dec": "&#10517;",
+        "hex": "&#x02915",
+        "symbol": "⤕",
+        "unicode": "U+02915",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10518;",
+        "dec": "&#10518;",
+        "hex": "&#x02916",
+        "symbol": "⤖",
+        "unicode": "U+02916",
+        "name": "rightwards two-headed arrow with tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10519;",
+        "dec": "&#10519;",
+        "hex": "&#x02917",
+        "symbol": "⤗",
+        "unicode": "U+02917",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10520;",
+        "dec": "&#10520;",
+        "hex": "&#x02918",
+        "symbol": "⤘",
+        "unicode": "U+02918",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10521;",
+        "dec": "&#10521;",
+        "hex": "&#x02919",
+        "symbol": "⤙",
+        "unicode": "U+02919",
+        "name": "leftwards arrow-tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10522;",
+        "dec": "&#10522;",
+        "hex": "&#x0291A",
+        "symbol": "⤚",
+        "unicode": "U+0291A",
+        "name": "rightwards arrow-tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10523;",
+        "dec": "&#10523;",
+        "hex": "&#x0291B",
+        "symbol": "⤛",
+        "unicode": "U+0291B",
+        "name": "leftwards double arrow-tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10524;",
+        "dec": "&#10524;",
+        "hex": "&#x0291C",
+        "symbol": "⤜",
+        "unicode": "U+0291C",
+        "name": "rightwards double arrow-tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10525;",
+        "dec": "&#10525;",
+        "hex": "&#x0291D",
+        "symbol": "⤝",
+        "unicode": "U+0291D",
+        "name": "leftwards arrow to black diamond",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10526;",
+        "dec": "&#10526;",
+        "hex": "&#x0291E",
+        "symbol": "⤞",
+        "unicode": "U+0291E",
+        "name": "rightwards arrow to black diamond",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10527;",
+        "dec": "&#10527;",
+        "hex": "&#x0291F",
+        "symbol": "⤟",
+        "unicode": "U+0291F",
+        "name": "leftwards arrow from bar to black diamond",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10528;",
+        "dec": "&#10528;",
+        "hex": "&#x02920",
+        "symbol": "⤠",
+        "unicode": "U+02920",
+        "name": "rightwards arrow from bar to black diamond",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10529;",
+        "dec": "&#10529;",
+        "hex": "&#x02921",
+        "symbol": "⤡",
+        "unicode": "U+02921",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10530;",
+        "dec": "&#10530;",
+        "hex": "&#x02922",
+        "symbol": "⤢",
+        "unicode": "U+02922",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10531;",
+        "dec": "&#10531;",
+        "hex": "&#x02923",
+        "symbol": "⤣",
+        "unicode": "U+02923",
+        "name": "north west arrow with hook",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10532;",
+        "dec": "&#10532;",
+        "hex": "&#x02924",
+        "symbol": "⤤",
+        "unicode": "U+02924",
+        "name": "north east arrow with hook",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10533;",
+        "dec": "&#10533;",
+        "hex": "&#x02925",
+        "symbol": "⤥",
+        "unicode": "U+02925",
+        "name": "south east arrow with hook",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10534;",
+        "dec": "&#10534;",
+        "hex": "&#x02926",
+        "symbol": "⤦",
+        "unicode": "U+02926",
+        "name": "south west arrow with hook",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10535;",
+        "dec": "&#10535;",
+        "hex": "&#x02927",
+        "symbol": "⤧",
+        "unicode": "U+02927",
+        "name": "north west arrow and north east arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10536;",
+        "dec": "&#10536;",
+        "hex": "&#x02928",
+        "symbol": "⤨",
+        "unicode": "U+02928",
+        "name": "north east arrow and south east arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10537;",
+        "dec": "&#10537;",
+        "hex": "&#x02929",
+        "symbol": "⤩",
+        "unicode": "U+02929",
+        "name": "south east arrow and south west arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10538;",
+        "dec": "&#10538;",
+        "hex": "&#x0292A",
+        "symbol": "⤪",
+        "unicode": "U+0292A",
+        "name": "south west arrow and north west arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10539;",
+        "dec": "&#10539;",
+        "hex": "&#x0292B",
+        "symbol": "⤫",
+        "unicode": "U+0292B",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10540;",
+        "dec": "&#10540;",
+        "hex": "&#x0292C",
+        "symbol": "⤬",
+        "unicode": "U+0292C",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10541;",
+        "dec": "&#10541;",
+        "hex": "&#x0292D",
+        "symbol": "⤭",
+        "unicode": "U+0292D",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10542;",
+        "dec": "&#10542;",
+        "hex": "&#x0292E",
+        "symbol": "⤮",
+        "unicode": "U+0292E",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10543;",
+        "dec": "&#10543;",
+        "hex": "&#x0292F",
+        "symbol": "⤯",
+        "unicode": "U+0292F",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10544;",
+        "dec": "&#10544;",
+        "hex": "&#x02930",
+        "symbol": "⤰",
+        "unicode": "U+02930",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10545;",
+        "dec": "&#10545;",
+        "hex": "&#x02931",
+        "symbol": "⤱",
+        "unicode": "U+02931",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10546;",
+        "dec": "&#10546;",
+        "hex": "&#x02932",
+        "symbol": "⤲",
+        "unicode": "U+02932",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10547;",
+        "dec": "&#10547;",
+        "hex": "&#x02933",
+        "symbol": "⤳",
+        "unicode": "U+02933",
+        "name": "wave arrow pointing directly right",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10548;",
+        "dec": "&#10548;",
+        "hex": "&#x02934",
+        "symbol": "⤴",
+        "unicode": "U+02934",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10549;",
+        "dec": "&#10549;",
+        "hex": "&#x02935",
+        "symbol": "⤵",
+        "unicode": "U+02935",
+        "name": "arrow pointing rightwards then curving downwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10550;",
+        "dec": "&#10550;",
+        "hex": "&#x02936",
+        "symbol": "⤶",
+        "unicode": "U+02936",
+        "name": "arrow pointing downwards then curving leftwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10551;",
+        "dec": "&#10551;",
+        "hex": "&#x02937",
+        "symbol": "⤷",
+        "unicode": "U+02937",
+        "name": "arrow pointing downwards then curving rightwards",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10552;",
+        "dec": "&#10552;",
+        "hex": "&#x02938",
+        "symbol": "⤸",
+        "unicode": "U+02938",
+        "name": "right-side arc clockwise arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10553;",
+        "dec": "&#10553;",
+        "hex": "&#x02939",
+        "symbol": "⤹",
+        "unicode": "U+02939",
+        "name": "left-side arc anticlockwise arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10554;",
+        "dec": "&#10554;",
+        "hex": "&#x0293A",
+        "symbol": "⤺",
+        "unicode": "U+0293A",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10555;",
+        "dec": "&#10555;",
+        "hex": "&#x0293B",
+        "symbol": "⤻",
+        "unicode": "U+0293B",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10556;",
+        "dec": "&#10556;",
+        "hex": "&#x0293C",
+        "symbol": "⤼",
+        "unicode": "U+0293C",
+        "name": "top arc clockwise arrow with minus",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10557;",
+        "dec": "&#10557;",
+        "hex": "&#x0293D",
+        "symbol": "⤽",
+        "unicode": "U+0293D",
+        "name": "top arc anticlockwise arrow with plus",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10558;",
+        "dec": "&#10558;",
+        "hex": "&#x0293E",
+        "symbol": "⤾",
+        "unicode": "U+0293E",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10559;",
+        "dec": "&#10559;",
+        "hex": "&#x0293F",
+        "symbol": "⤿",
+        "unicode": "U+0293F",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10560;",
+        "dec": "&#10560;",
+        "hex": "&#x02940",
+        "symbol": "⥀",
+        "unicode": "U+02940",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10561;",
+        "dec": "&#10561;",
+        "hex": "&#x02941",
+        "symbol": "⥁",
+        "unicode": "U+02941",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10562;",
+        "dec": "&#10562;",
+        "hex": "&#x02942",
+        "symbol": "⥂",
+        "unicode": "U+02942",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10563;",
+        "dec": "&#10563;",
+        "hex": "&#x02943",
+        "symbol": "⥃",
+        "unicode": "U+02943",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10564;",
+        "dec": "&#10564;",
+        "hex": "&#x02944",
+        "symbol": "⥄",
+        "unicode": "U+02944",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10565;",
+        "dec": "&#10565;",
+        "hex": "&#x02945",
+        "symbol": "⥅",
+        "unicode": "U+02945",
+        "name": "rightwards arrow with plus below",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10566;",
+        "dec": "&#10566;",
+        "hex": "&#x02946",
+        "symbol": "⥆",
+        "unicode": "U+02946",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10567;",
+        "dec": "&#10567;",
+        "hex": "&#x02947",
+        "symbol": "⥇",
+        "unicode": "U+02947",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10568;",
+        "dec": "&#10568;",
+        "hex": "&#x02948",
+        "symbol": "⥈",
+        "unicode": "U+02948",
+        "name": "left right arrow through small circle",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10569;",
+        "dec": "&#10569;",
+        "hex": "&#x02949",
+        "symbol": "⥉",
+        "unicode": "U+02949",
+        "name": "upwards two-headed arrow from small circle",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10570;",
+        "dec": "&#10570;",
+        "hex": "&#x0294A",
+        "symbol": "⥊",
+        "unicode": "U+0294A",
+        "name": "left barb up right barb down harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10571;",
+        "dec": "&#10571;",
+        "hex": "&#x0294B",
+        "symbol": "⥋",
+        "unicode": "U+0294B",
+        "name": "left barb down right barb up harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10572;",
+        "dec": "&#10572;",
+        "hex": "&#x0294C",
+        "symbol": "⥌",
+        "unicode": "U+0294C",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10573;",
+        "dec": "&#10573;",
+        "hex": "&#x0294D",
+        "symbol": "⥍",
+        "unicode": "U+0294D",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10574;",
+        "dec": "&#10574;",
+        "hex": "&#x0294E",
+        "symbol": "⥎",
+        "unicode": "U+0294E",
+        "name": "left barb up right barb up harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10575;",
+        "dec": "&#10575;",
+        "hex": "&#x0294F",
+        "symbol": "⥏",
+        "unicode": "U+0294F",
+        "name": "up barb right down barb right harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10576;",
+        "dec": "&#10576;",
+        "hex": "&#x02950",
+        "symbol": "⥐",
+        "unicode": "U+02950",
+        "name": "left barb down right barb down harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10577;",
+        "dec": "&#10577;",
+        "hex": "&#x02951",
+        "symbol": "⥑",
+        "unicode": "U+02951",
+        "name": "up barb left down barb left harpoon",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10578;",
+        "dec": "&#10578;",
+        "hex": "&#x02952",
+        "symbol": "⥒",
+        "unicode": "U+02952",
+        "name": "leftwards harpoon with barb up to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10579;",
+        "dec": "&#10579;",
+        "hex": "&#x02953",
+        "symbol": "⥓",
+        "unicode": "U+02953",
+        "name": "rightwards harpoon with barb up to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10580;",
+        "dec": "&#10580;",
+        "hex": "&#x02954",
+        "symbol": "⥔",
+        "unicode": "U+02954",
+        "name": "upwards harpoon with barb right to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10581;",
+        "dec": "&#10581;",
+        "hex": "&#x02955",
+        "symbol": "⥕",
+        "unicode": "U+02955",
+        "name": "downwards harpoon with barb right to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10582;",
+        "dec": "&#10582;",
+        "hex": "&#x02956",
+        "symbol": "⥖",
+        "unicode": "U+02956",
+        "name": "leftwards harpoon with barb down to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10583;",
+        "dec": "&#10583;",
+        "hex": "&#x02957",
+        "symbol": "⥗",
+        "unicode": "U+02957",
+        "name": "rightwards harpoon with barb down to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10584;",
+        "dec": "&#10584;",
+        "hex": "&#x02958",
+        "symbol": "⥘",
+        "unicode": "U+02958",
+        "name": "upwards harpoon with barb left to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10585;",
+        "dec": "&#10585;",
+        "hex": "&#x02959",
+        "symbol": "⥙",
+        "unicode": "U+02959",
+        "name": "downwards harpoon with barb left to bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10586;",
+        "dec": "&#10586;",
+        "hex": "&#x0295A",
+        "symbol": "⥚",
+        "unicode": "U+0295A",
+        "name": "leftwards harpoon with barb up from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10587;",
+        "dec": "&#10587;",
+        "hex": "&#x0295B",
+        "symbol": "⥛",
+        "unicode": "U+0295B",
+        "name": "rightwards harpoon with barb up from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10588;",
+        "dec": "&#10588;",
+        "hex": "&#x0295C",
+        "symbol": "⥜",
+        "unicode": "U+0295C",
+        "name": "upwards harpoon with barb right from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10589;",
+        "dec": "&#10589;",
+        "hex": "&#x0295D",
+        "symbol": "⥝",
+        "unicode": "U+0295D",
+        "name": "downwards harpoon with barb right from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10590;",
+        "dec": "&#10590;",
+        "hex": "&#x0295E",
+        "symbol": "⥞",
+        "unicode": "U+0295E",
+        "name": "leftwards harpoon with barb down from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10591;",
+        "dec": "&#10591;",
+        "hex": "&#x0295F",
+        "symbol": "⥟",
+        "unicode": "U+0295F",
+        "name": "rightwards harpoon with barb down from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10592;",
+        "dec": "&#10592;",
+        "hex": "&#x02960",
+        "symbol": "⥠",
+        "unicode": "U+02960",
+        "name": "upwards harpoon with barb left from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10593;",
+        "dec": "&#10593;",
+        "hex": "&#x02961",
+        "symbol": "⥡",
+        "unicode": "U+02961",
+        "name": "downwards harpoon with barb left from bar",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10594;",
+        "dec": "&#10594;",
+        "hex": "&#x02962",
+        "symbol": "⥢",
+        "unicode": "U+02962",
+        "name": "leftwards harpoon with barb up above leftwards harpoon with barb down",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10595;",
+        "dec": "&#10595;",
+        "hex": "&#x02963",
+        "symbol": "⥣",
+        "unicode": "U+02963",
+        "name": "upwards harpoon with barb left beside upwards harpoon with barb right",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10596;",
+        "dec": "&#10596;",
+        "hex": "&#x02964",
+        "symbol": "⥤",
+        "unicode": "U+02964",
+        "name": "rightwards harpoon with barb up above rightwards harpoon with barb down",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10597;",
+        "dec": "&#10597;",
+        "hex": "&#x02965",
+        "symbol": "⥥",
+        "unicode": "U+02965",
+        "name": "downwards harpoon with barb left beside downwards harpoon with barb right",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10598;",
+        "dec": "&#10598;",
+        "hex": "&#x02966",
+        "symbol": "⥦",
+        "unicode": "U+02966",
+        "name": "leftwards harpoon with barb up above rightwards harpoon with barb up",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10599;",
+        "dec": "&#10599;",
+        "hex": "&#x02967",
+        "symbol": "⥧",
+        "unicode": "U+02967",
+        "name": "leftwards harpoon with barb down above rightwards harpoon with barb down",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10600;",
+        "dec": "&#10600;",
+        "hex": "&#x02968",
+        "symbol": "⥨",
+        "unicode": "U+02968",
+        "name": "rightwards harpoon with barb up above leftwards harpoon with barb up",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10601;",
+        "dec": "&#10601;",
+        "hex": "&#x02969",
+        "symbol": "⥩",
+        "unicode": "U+02969",
+        "name": "rightwards harpoon with barb down above leftwards harpoon with barb down",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10602;",
+        "dec": "&#10602;",
+        "hex": "&#x0296A",
+        "symbol": "⥪",
+        "unicode": "U+0296A",
+        "name": "leftwards harpoon with barb up above long dash",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10603;",
+        "dec": "&#10603;",
+        "hex": "&#x0296B",
+        "symbol": "⥫",
+        "unicode": "U+0296B",
+        "name": "leftwards harpoon with barb down below long dash",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10604;",
+        "dec": "&#10604;",
+        "hex": "&#x0296C",
+        "symbol": "⥬",
+        "unicode": "U+0296C",
+        "name": "rightwards harpoon with barb up above long dash",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10605;",
+        "dec": "&#10605;",
+        "hex": "&#x0296D",
+        "symbol": "⥭",
+        "unicode": "U+0296D",
+        "name": "rightwards harpoon with barb down below long dash",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10606;",
+        "dec": "&#10606;",
+        "hex": "&#x0296E",
+        "symbol": "⥮",
+        "unicode": "U+0296E",
+        "name": "upwards harpoon with barb left beside downwards harpoon with barb right",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10607;",
+        "dec": "&#10607;",
+        "hex": "&#x0296F",
+        "symbol": "⥯",
+        "unicode": "U+0296F",
+        "name": "downwards harpoon with barb left beside upwards harpoon with barb right",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10608;",
+        "dec": "&#10608;",
+        "hex": "&#x02970",
+        "symbol": "⥰",
+        "unicode": "U+02970",
+        "name": "right double arrow with rounded head",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10609;",
+        "dec": "&#10609;",
+        "hex": "&#x02971",
+        "symbol": "⥱",
+        "unicode": "U+02971",
+        "name": "equals sign above rightwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10610;",
+        "dec": "&#10610;",
+        "hex": "&#x02972",
+        "symbol": "⥲",
+        "unicode": "U+02972",
+        "name": "tilde operator above rightwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10611;",
+        "dec": "&#10611;",
+        "hex": "&#x02973",
+        "symbol": "⥳",
+        "unicode": "U+02973",
+        "name": "leftwards arrow above tilde operator",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10612;",
+        "dec": "&#10612;",
+        "hex": "&#x02974",
+        "symbol": "⥴",
+        "unicode": "U+02974",
+        "name": "rightwards arrow above tilde operator",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10613;",
+        "dec": "&#10613;",
+        "hex": "&#x02975",
+        "symbol": "⥵",
+        "unicode": "U+02975",
+        "name": "rightwards arrow above almost equal to",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10614;",
+        "dec": "&#10614;",
+        "hex": "&#x02976",
+        "symbol": "⥶",
+        "unicode": "U+02976",
+        "name": "less-than above leftwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10615;",
+        "dec": "&#10615;",
+        "hex": "&#x02977",
+        "symbol": "⥷",
+        "unicode": "U+02977",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10616;",
+        "dec": "&#10616;",
+        "hex": "&#x02978",
+        "symbol": "⥸",
+        "unicode": "U+02978",
+        "name": "greater-than above rightwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10617;",
+        "dec": "&#10617;",
+        "hex": "&#x02979",
+        "symbol": "⥹",
+        "unicode": "U+02979",
+        "name": "subset above rightwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10618;",
+        "dec": "&#10618;",
+        "hex": "&#x0297A",
+        "symbol": "⥺",
+        "unicode": "U+0297A",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10619;",
+        "dec": "&#10619;",
+        "hex": "&#x0297B",
+        "symbol": "⥻",
+        "unicode": "U+0297B",
+        "name": "superset above leftwards arrow",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10620;",
+        "dec": "&#10620;",
+        "hex": "&#x0297C",
+        "symbol": "⥼",
+        "unicode": "U+0297C",
+        "name": "left fish tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10621;",
+        "dec": "&#10621;",
+        "hex": "&#x0297D",
+        "symbol": "⥽",
+        "unicode": "U+0297D",
+        "name": "right fish tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10622;",
+        "dec": "&#10622;",
+        "hex": "&#x0297E",
+        "symbol": "⥾",
+        "unicode": "U+0297E",
+        "name": "up fish tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10623;",
+        "dec": "&#10623;",
+        "hex": "&#x0297F",
+        "symbol": "⥿",
+        "unicode": "U+0297F",
+        "name": "down fish tail",
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10132;",
+        "dec": "&#10132;",
+        "hex": "&#x02794",
+        "symbol": "➔",
+        "unicode": "U+02794",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10136;",
+        "dec": "&#10136;",
+        "hex": "&#x02798",
+        "symbol": "➘",
+        "unicode": "U+02798",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10137;",
+        "dec": "&#10137;",
+        "hex": "&#x02799",
+        "symbol": "➙",
+        "unicode": "U+02799",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10138;",
+        "dec": "&#10138;",
+        "hex": "&#x0279A",
+        "symbol": "➚",
+        "unicode": "U+0279A",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10139;",
+        "dec": "&#10139;",
+        "hex": "&#x0279B",
+        "symbol": "➛",
+        "unicode": "U+0279B",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10140;",
+        "dec": "&#10140;",
+        "hex": "&#x0279C",
+        "symbol": "➜",
+        "unicode": "U+0279C",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10141;",
+        "dec": "&#10141;",
+        "hex": "&#x0279D",
+        "symbol": "➝",
+        "unicode": "U+0279D",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10142;",
+        "dec": "&#10142;",
+        "hex": "&#x0279E",
+        "symbol": "➞",
+        "unicode": "U+0279E",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10143;",
+        "dec": "&#10143;",
+        "hex": "&#x0279F",
+        "symbol": "➟",
+        "unicode": "U+0279F",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10144;",
+        "dec": "&#10144;",
+        "hex": "&#x027A0",
+        "symbol": "➠",
+        "unicode": "U+027A0",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10145;",
+        "dec": "&#10145;",
+        "hex": "&#x027A1",
+        "symbol": "➡",
+        "unicode": "U+027A1",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10146;",
+        "dec": "&#10146;",
+        "hex": "&#x027A2",
+        "symbol": "➢",
+        "unicode": "U+027A2",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10147;",
+        "dec": "&#10147;",
+        "hex": "&#x027A3",
+        "symbol": "➣",
+        "unicode": "U+027A3",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10148;",
+        "dec": "&#10148;",
+        "hex": "&#x027A4",
+        "symbol": "➤",
+        "unicode": "U+027A4",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10149;",
+        "dec": "&#10149;",
+        "hex": "&#x027A5",
+        "symbol": "➥",
+        "unicode": "U+027A5",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10150;",
+        "dec": "&#10150;",
+        "hex": "&#x027A6",
+        "symbol": "➦",
+        "unicode": "U+027A6",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10151;",
+        "dec": "&#10151;",
+        "hex": "&#x027A7",
+        "symbol": "➧",
+        "unicode": "U+027A7",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10152;",
+        "dec": "&#10152;",
+        "hex": "&#x027A8",
+        "symbol": "➨",
+        "unicode": "U+027A8",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10153;",
+        "dec": "&#10153;",
+        "hex": "&#x027A9",
+        "symbol": "➩",
+        "unicode": "U+027A9",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10154;",
+        "dec": "&#10154;",
+        "hex": "&#x027AA",
+        "symbol": "➪",
+        "unicode": "U+027AA",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10155;",
+        "dec": "&#10155;",
+        "hex": "&#x027AB",
+        "symbol": "➫",
+        "unicode": "U+027AB",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10156;",
+        "dec": "&#10156;",
+        "hex": "&#x027AC",
+        "symbol": "➬",
+        "unicode": "U+027AC",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10157;",
+        "dec": "&#10157;",
+        "hex": "&#x027AD",
+        "symbol": "➭",
+        "unicode": "U+027AD",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10158;",
+        "dec": "&#10158;",
+        "hex": "&#x027AE",
+        "symbol": "➮",
+        "unicode": "U+027AE",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10159;",
+        "dec": "&#10159;",
+        "hex": "&#x027AF",
+        "symbol": "➯",
+        "unicode": "U+027AF",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10161;",
+        "dec": "&#10161;",
+        "hex": "&#x027B1",
+        "symbol": "➱",
+        "unicode": "U+027B1",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10162;",
+        "dec": "&#10162;",
+        "hex": "&#x027B2",
+        "symbol": "➲",
+        "unicode": "U+027B2",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10163;",
+        "dec": "&#10163;",
+        "hex": "&#x027B3",
+        "symbol": "➳",
+        "unicode": "U+027B3",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10164;",
+        "dec": "&#10164;",
+        "hex": "&#x027B4",
+        "symbol": "➴",
+        "unicode": "U+027B4",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10165;",
+        "dec": "&#10165;",
+        "hex": "&#x027B5",
+        "symbol": "➵",
+        "unicode": "U+027B5",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10166;",
+        "dec": "&#10166;",
+        "hex": "&#x027B6",
+        "symbol": "➶",
+        "unicode": "U+027B6",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10167;",
+        "dec": "&#10167;",
+        "hex": "&#x027B7",
+        "symbol": "➷",
+        "unicode": "U+027B7",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10168;",
+        "dec": "&#10168;",
+        "hex": "&#x027B8",
+        "symbol": "➸",
+        "unicode": "U+027B8",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10169;",
+        "dec": "&#10169;",
+        "hex": "&#x027B9",
+        "symbol": "➹",
+        "unicode": "U+027B9",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10170;",
+        "dec": "&#10170;",
+        "hex": "&#x027BA",
+        "symbol": "➺",
+        "unicode": "U+027BA",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10171;",
+        "dec": "&#10171;",
+        "hex": "&#x027BB",
+        "symbol": "➻",
+        "unicode": "U+027BB",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10172;",
+        "dec": "&#10172;",
+        "hex": "&#x027BC",
+        "symbol": "➼",
+        "unicode": "U+027BC",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10173;",
+        "dec": "&#10173;",
+        "hex": "&#x027BD",
+        "symbol": "➽",
+        "unicode": "U+027BD",
+        "name": null,
+        "category": "Arrow"
+    },
+    {
+        "code": "&#10174;",
+        "dec": "&#10174;",
+        "hex": "&#x027BE",
+        "symbol": "➾",
+        "unicode": "U+027BE",
+        "name": null,
+        "category": "Arrow"
+    }
+]
