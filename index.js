@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const categoryMenu = document.getElementById('categoryMenu');
     const symbolsList = document.getElementById('symbolsList');
-    const categories = ['All', 'Arrow', 'Currency', 'Drawing', 'Html4', 'Icons', 'Letters', 'Mathsymbols', 'Miscellaneous', 'Punctuation'];
+    const categories = ['All', 'Arrow', 'Currency', 'Drawing', 'Html4', 'Icons', 'Letters', 'Math', 'Miscellaneous', 'Punctuation'];
     let allSymbols = [];
 
     categories.forEach(category => {
