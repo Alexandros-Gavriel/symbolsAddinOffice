@@ -1,0 +1,2837 @@
+[
+    {
+        "code": "&#8544;",
+        "dec": "&#8544;",
+        "hex": "&#x02160",
+        "symbol": "Ⅰ",
+        "unicode": "U+02160",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8545;",
+        "dec": "&#8545;",
+        "hex": "&#x02161",
+        "symbol": "Ⅱ",
+        "unicode": "U+02161",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8546;",
+        "dec": "&#8546;",
+        "hex": "&#x02162",
+        "symbol": "Ⅲ",
+        "unicode": "U+02162",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8547;",
+        "dec": "&#8547;",
+        "hex": "&#x02163",
+        "symbol": "Ⅳ",
+        "unicode": "U+02163",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8548;",
+        "dec": "&#8548;",
+        "hex": "&#x02164",
+        "symbol": "Ⅴ",
+        "unicode": "U+02164",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8549;",
+        "dec": "&#8549;",
+        "hex": "&#x02165",
+        "symbol": "Ⅵ",
+        "unicode": "U+02165",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8550;",
+        "dec": "&#8550;",
+        "hex": "&#x02166",
+        "symbol": "Ⅶ",
+        "unicode": "U+02166",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8551;",
+        "dec": "&#8551;",
+        "hex": "&#x02167",
+        "symbol": "Ⅷ",
+        "unicode": "U+02167",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8552;",
+        "dec": "&#8552;",
+        "hex": "&#x02168",
+        "symbol": "Ⅸ",
+        "unicode": "U+02168",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8553;",
+        "dec": "&#8553;",
+        "hex": "&#x02169",
+        "symbol": "Ⅹ",
+        "unicode": "U+02169",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8554;",
+        "dec": "&#8554;",
+        "hex": "&#x0216A",
+        "symbol": "Ⅺ",
+        "unicode": "U+0216A",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8555;",
+        "dec": "&#8555;",
+        "hex": "&#x0216B",
+        "symbol": "Ⅻ",
+        "unicode": "U+0216B",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8556;",
+        "dec": "&#8556;",
+        "hex": "&#x0216C",
+        "symbol": "Ⅼ",
+        "unicode": "U+0216C",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8557;",
+        "dec": "&#8557;",
+        "hex": "&#x0216D",
+        "symbol": "Ⅽ",
+        "unicode": "U+0216D",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8558;",
+        "dec": "&#8558;",
+        "hex": "&#x0216E",
+        "symbol": "Ⅾ",
+        "unicode": "U+0216E",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8559;",
+        "dec": "&#8559;",
+        "hex": "&#x0216F",
+        "symbol": "Ⅿ",
+        "unicode": "U+0216F",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8560;",
+        "dec": "&#8560;",
+        "hex": "&#x02170",
+        "symbol": "ⅰ",
+        "unicode": "U+02170",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8561;",
+        "dec": "&#8561;",
+        "hex": "&#x02171",
+        "symbol": "ⅱ",
+        "unicode": "U+02171",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8562;",
+        "dec": "&#8562;",
+        "hex": "&#x02172",
+        "symbol": "ⅲ",
+        "unicode": "U+02172",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8563;",
+        "dec": "&#8563;",
+        "hex": "&#x02173",
+        "symbol": "ⅳ",
+        "unicode": "U+02173",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8564;",
+        "dec": "&#8564;",
+        "hex": "&#x02174",
+        "symbol": "ⅴ",
+        "unicode": "U+02174",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8565;",
+        "dec": "&#8565;",
+        "hex": "&#x02175",
+        "symbol": "ⅵ",
+        "unicode": "U+02175",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8566;",
+        "dec": "&#8566;",
+        "hex": "&#x02176",
+        "symbol": "ⅶ",
+        "unicode": "U+02176",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8567;",
+        "dec": "&#8567;",
+        "hex": "&#x02177",
+        "symbol": "ⅷ",
+        "unicode": "U+02177",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8568;",
+        "dec": "&#8568;",
+        "hex": "&#x02178",
+        "symbol": "ⅸ",
+        "unicode": "U+02178",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8569;",
+        "dec": "&#8569;",
+        "hex": "&#x02179",
+        "symbol": "ⅹ",
+        "unicode": "U+02179",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8570;",
+        "dec": "&#8570;",
+        "hex": "&#x0217A",
+        "symbol": "ⅺ",
+        "unicode": "U+0217A",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8571;",
+        "dec": "&#8571;",
+        "hex": "&#x0217B",
+        "symbol": "ⅻ",
+        "unicode": "U+0217B",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8572;",
+        "dec": "&#8572;",
+        "hex": "&#x0217C",
+        "symbol": "ⅼ",
+        "unicode": "U+0217C",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8573;",
+        "dec": "&#8573;",
+        "hex": "&#x0217D",
+        "symbol": "ⅽ",
+        "unicode": "U+0217D",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8574;",
+        "dec": "&#8574;",
+        "hex": "&#x0217E",
+        "symbol": "ⅾ",
+        "unicode": "U+0217E",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8575;",
+        "dec": "&#8575;",
+        "hex": "&#x0217F",
+        "symbol": "ⅿ",
+        "unicode": "U+0217F",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8576;",
+        "dec": "&#8576;",
+        "hex": "&#x02180",
+        "symbol": "ↀ",
+        "unicode": "U+02180",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8577;",
+        "dec": "&#8577;",
+        "hex": "&#x02181",
+        "symbol": "ↁ",
+        "unicode": "U+02181",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8578;",
+        "dec": "&#8578;",
+        "hex": "&#x02182",
+        "symbol": "ↂ",
+        "unicode": "U+02182",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8579;",
+        "dec": "&#8579;",
+        "hex": "&#x02183",
+        "symbol": "Ↄ",
+        "unicode": "U+02183",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8581;",
+        "dec": "&#8581;",
+        "hex": "&#x02185",
+        "symbol": "ↅ",
+        "unicode": "U+02185",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8582;",
+        "dec": "&#8582;",
+        "hex": "&#x02186",
+        "symbol": "ↆ",
+        "unicode": "U+02186",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#188;",
+        "dec": "&#188;",
+        "hex": "&#x000BC",
+        "symbol": "¼",
+        "unicode": "U+000BC",
+        "name": "vulgar fraction one quarter",
+        "category": "Math"
+    },
+    {
+        "code": "&#189;",
+        "dec": "&#189;",
+        "hex": "&#x000BD",
+        "symbol": "½",
+        "unicode": "U+000BD",
+        "name": "vulgar fraction one half",
+        "category": "Math"
+    },
+    {
+        "code": "&#190;",
+        "dec": "&#190;",
+        "hex": "&#x000BE",
+        "symbol": "¾",
+        "unicode": "U+000BE",
+        "name": "vulgar fraction three quarters",
+        "category": "Math"
+    },
+    {
+        "code": "&#8528;",
+        "dec": "&#8528;",
+        "hex": "&#x02150",
+        "symbol": "⅐",
+        "unicode": "U+02150",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8529;",
+        "dec": "&#8529;",
+        "hex": "&#x02151",
+        "symbol": "⅑",
+        "unicode": "U+02151",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8530;",
+        "dec": "&#8530;",
+        "hex": "&#x02152",
+        "symbol": "⅒",
+        "unicode": "U+02152",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8531;",
+        "dec": "&#8531;",
+        "hex": "&#x02153",
+        "symbol": "⅓",
+        "unicode": "U+02153",
+        "name": "vulgar fraction one third",
+        "category": "Math"
+    },
+    {
+        "code": "&#8532;",
+        "dec": "&#8532;",
+        "hex": "&#x02154",
+        "symbol": "⅔",
+        "unicode": "U+02154",
+        "name": "vulgar fraction two thirds",
+        "category": "Math"
+    },
+    {
+        "code": "&#8533;",
+        "dec": "&#8533;",
+        "hex": "&#x02155",
+        "symbol": "⅕",
+        "unicode": "U+02155",
+        "name": "vulgar fraction one fifth",
+        "category": "Math"
+    },
+    {
+        "code": "&#8534;",
+        "dec": "&#8534;",
+        "hex": "&#x02156",
+        "symbol": "⅖",
+        "unicode": "U+02156",
+        "name": "vulgar fraction two fifths",
+        "category": "Math"
+    },
+    {
+        "code": "&#8535;",
+        "dec": "&#8535;",
+        "hex": "&#x02157",
+        "symbol": "⅗",
+        "unicode": "U+02157",
+        "name": "vulgar fraction three fifths",
+        "category": "Math"
+    },
+    {
+        "code": "&#8536;",
+        "dec": "&#8536;",
+        "hex": "&#x02158",
+        "symbol": "⅘",
+        "unicode": "U+02158",
+        "name": "vulgar fraction four fifths",
+        "category": "Math"
+    },
+    {
+        "code": "&#8537;",
+        "dec": "&#8537;",
+        "hex": "&#x02159",
+        "symbol": "⅙",
+        "unicode": "U+02159",
+        "name": "vulgar fraction one sixth",
+        "category": "Math"
+    },
+    {
+        "code": "&#8538;",
+        "dec": "&#8538;",
+        "hex": "&#x0215A",
+        "symbol": "⅚",
+        "unicode": "U+0215A",
+        "name": "vulgar fraction five sixths",
+        "category": "Math"
+    },
+    {
+        "code": "&#8539;",
+        "dec": "&#8539;",
+        "hex": "&#x0215B",
+        "symbol": "⅛",
+        "unicode": "U+0215B",
+        "name": "vulgar fraction one eighth",
+        "category": "Math"
+    },
+    {
+        "code": "&#8540;",
+        "dec": "&#8540;",
+        "hex": "&#x0215C",
+        "symbol": "⅜",
+        "unicode": "U+0215C",
+        "name": "vulgar fraction three eighths",
+        "category": "Math"
+    },
+    {
+        "code": "&#8541;",
+        "dec": "&#8541;",
+        "hex": "&#x0215D",
+        "symbol": "⅝",
+        "unicode": "U+0215D",
+        "name": "vulgar fraction five eighths",
+        "category": "Math"
+    },
+    {
+        "code": "&#8542;",
+        "dec": "&#8542;",
+        "hex": "&#x0215E",
+        "symbol": "⅞",
+        "unicode": "U+0215E",
+        "name": "vulgar fraction seven eighths",
+        "category": "Math"
+    },
+    {
+        "code": "&#8585;",
+        "dec": "&#8585;",
+        "hex": "&#x02189",
+        "symbol": "↉",
+        "unicode": "U+02189",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8580;",
+        "dec": "&#8580;",
+        "hex": "&#x02184",
+        "symbol": "ↄ",
+        "unicode": "U+02184",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8543;",
+        "dec": "&#8543;",
+        "hex": "&#x0215F",
+        "symbol": "⅟",
+        "unicode": "U+0215F",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8704;",
+        "dec": "&#8704;",
+        "hex": "&#x02200",
+        "symbol": "∀",
+        "unicode": "U+02200",
+        "name": "for all",
+        "category": "Math"
+    },
+    {
+        "code": "&#8705;",
+        "dec": "&#8705;",
+        "hex": "&#x02201",
+        "symbol": "∁",
+        "unicode": "U+02201",
+        "name": "complement",
+        "category": "Math"
+    },
+    {
+        "code": "&#8706;",
+        "dec": "&#8706;",
+        "hex": "&#x02202",
+        "symbol": "∂",
+        "unicode": "U+02202",
+        "name": "partial differential",
+        "category": "Math"
+    },
+    {
+        "code": "&#8707;",
+        "dec": "&#8707;",
+        "hex": "&#x02203",
+        "symbol": "∃",
+        "unicode": "U+02203",
+        "name": "there exists",
+        "category": "Math"
+    },
+    {
+        "code": "&#8708;",
+        "dec": "&#8708;",
+        "hex": "&#x02204",
+        "symbol": "∄",
+        "unicode": "U+02204",
+        "name": "there does not exist",
+        "category": "Math"
+    },
+    {
+        "code": "&#8709;",
+        "dec": "&#8709;",
+        "hex": "&#x02205",
+        "symbol": "∅",
+        "unicode": "U+02205",
+        "name": "empty set",
+        "category": "Math"
+    },
+    {
+        "code": "&#8710;",
+        "dec": "&#8710;",
+        "hex": "&#x02206",
+        "symbol": "∆",
+        "unicode": "U+02206",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8711;",
+        "dec": "&#8711;",
+        "hex": "&#x02207",
+        "symbol": "∇",
+        "unicode": "U+02207",
+        "name": "nabla",
+        "category": "Math"
+    },
+    {
+        "code": "&#8712;",
+        "dec": "&#8712;",
+        "hex": "&#x02208",
+        "symbol": "∈",
+        "unicode": "U+02208",
+        "name": "element of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8713;",
+        "dec": "&#8713;",
+        "hex": "&#x02209",
+        "symbol": "∉",
+        "unicode": "U+02209",
+        "name": "not an element of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8714;",
+        "dec": "&#8714;",
+        "hex": "&#x0220A",
+        "symbol": "∊",
+        "unicode": "U+0220A",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8715;",
+        "dec": "&#8715;",
+        "hex": "&#x0220B",
+        "symbol": "∋",
+        "unicode": "U+0220B",
+        "name": "contains as member",
+        "category": "Math"
+    },
+    {
+        "code": "&#8716;",
+        "dec": "&#8716;",
+        "hex": "&#x0220C",
+        "symbol": "∌",
+        "unicode": "U+0220C",
+        "name": "does not contain as member",
+        "category": "Math"
+    },
+    {
+        "code": "&#8717;",
+        "dec": "&#8717;",
+        "hex": "&#x0220D",
+        "symbol": "∍",
+        "unicode": "U+0220D",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8718;",
+        "dec": "&#8718;",
+        "hex": "&#x0220E",
+        "symbol": "∎",
+        "unicode": "U+0220E",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8719;",
+        "dec": "&#8719;",
+        "hex": "&#x0220F",
+        "symbol": "∏",
+        "unicode": "U+0220F",
+        "name": "n-ary product",
+        "category": "Math"
+    },
+    {
+        "code": "&#8720;",
+        "dec": "&#8720;",
+        "hex": "&#x02210",
+        "symbol": "∐",
+        "unicode": "U+02210",
+        "name": "n-ary coproduct",
+        "category": "Math"
+    },
+    {
+        "code": "&#8721;",
+        "dec": "&#8721;",
+        "hex": "&#x02211",
+        "symbol": "∑",
+        "unicode": "U+02211",
+        "name": "n-ary summation",
+        "category": "Math"
+    },
+    {
+        "code": "&#8722;",
+        "dec": "&#8722;",
+        "hex": "&#x02212",
+        "symbol": "−",
+        "unicode": "U+02212",
+        "name": "minus sign",
+        "category": "Math"
+    },
+    {
+        "code": "&#8723;",
+        "dec": "&#8723;",
+        "hex": "&#x02213",
+        "symbol": "∓",
+        "unicode": "U+02213",
+        "name": "minus-or-plus sign",
+        "category": "Math"
+    },
+    {
+        "code": "&#8724;",
+        "dec": "&#8724;",
+        "hex": "&#x02214",
+        "symbol": "∔",
+        "unicode": "U+02214",
+        "name": "dot plus",
+        "category": "Math"
+    },
+    {
+        "code": "&#8725;",
+        "dec": "&#8725;",
+        "hex": "&#x02215",
+        "symbol": "∕",
+        "unicode": "U+02215",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8726;",
+        "dec": "&#8726;",
+        "hex": "&#x02216",
+        "symbol": "∖",
+        "unicode": "U+02216",
+        "name": "set minus",
+        "category": "Math"
+    },
+    {
+        "code": "&#8727;",
+        "dec": "&#8727;",
+        "hex": "&#x02217",
+        "symbol": "∗",
+        "unicode": "U+02217",
+        "name": "asterisk operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8728;",
+        "dec": "&#8728;",
+        "hex": "&#x02218",
+        "symbol": "∘",
+        "unicode": "U+02218",
+        "name": "ring operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8729;",
+        "dec": "&#8729;",
+        "hex": "&#x02219",
+        "symbol": "∙",
+        "unicode": "U+02219",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8730;",
+        "dec": "&#8730;",
+        "hex": "&#x0221A",
+        "symbol": "√",
+        "unicode": "U+0221A",
+        "name": "square root",
+        "category": "Math"
+    },
+    {
+        "code": "&#8731;",
+        "dec": "&#8731;",
+        "hex": "&#x0221B",
+        "symbol": "∛",
+        "unicode": "U+0221B",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8732;",
+        "dec": "&#8732;",
+        "hex": "&#x0221C",
+        "symbol": "∜",
+        "unicode": "U+0221C",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8733;",
+        "dec": "&#8733;",
+        "hex": "&#x0221D",
+        "symbol": "∝",
+        "unicode": "U+0221D",
+        "name": "proportional to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8734;",
+        "dec": "&#8734;",
+        "hex": "&#x0221E",
+        "symbol": "∞",
+        "unicode": "U+0221E",
+        "name": "infinity",
+        "category": "Math"
+    },
+    {
+        "code": "&#8735;",
+        "dec": "&#8735;",
+        "hex": "&#x0221F",
+        "symbol": "∟",
+        "unicode": "U+0221F",
+        "name": "right angle",
+        "category": "Math"
+    },
+    {
+        "code": "&#8736;",
+        "dec": "&#8736;",
+        "hex": "&#x02220",
+        "symbol": "∠",
+        "unicode": "U+02220",
+        "name": "angle",
+        "category": "Math"
+    },
+    {
+        "code": "&#8737;",
+        "dec": "&#8737;",
+        "hex": "&#x02221",
+        "symbol": "∡",
+        "unicode": "U+02221",
+        "name": "measured angle",
+        "category": "Math"
+    },
+    {
+        "code": "&#8738;",
+        "dec": "&#8738;",
+        "hex": "&#x02222",
+        "symbol": "∢",
+        "unicode": "U+02222",
+        "name": "spherical angle",
+        "category": "Math"
+    },
+    {
+        "code": "&#8739;",
+        "dec": "&#8739;",
+        "hex": "&#x02223",
+        "symbol": "∣",
+        "unicode": "U+02223",
+        "name": "divides",
+        "category": "Math"
+    },
+    {
+        "code": "&#8740;",
+        "dec": "&#8740;",
+        "hex": "&#x02224",
+        "symbol": "∤",
+        "unicode": "U+02224",
+        "name": "does not divide",
+        "category": "Math"
+    },
+    {
+        "code": "&#8741;",
+        "dec": "&#8741;",
+        "hex": "&#x02225",
+        "symbol": "∥",
+        "unicode": "U+02225",
+        "name": "parallel to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8742;",
+        "dec": "&#8742;",
+        "hex": "&#x02226",
+        "symbol": "∦",
+        "unicode": "U+02226",
+        "name": "not parallel to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8743;",
+        "dec": "&#8743;",
+        "hex": "&#x02227",
+        "symbol": "∧",
+        "unicode": "U+02227",
+        "name": "logical and",
+        "category": "Math"
+    },
+    {
+        "code": "&#8744;",
+        "dec": "&#8744;",
+        "hex": "&#x02228",
+        "symbol": "∨",
+        "unicode": "U+02228",
+        "name": "logical or",
+        "category": "Math"
+    },
+    {
+        "code": "&#8745;",
+        "dec": "&#8745;",
+        "hex": "&#x02229",
+        "symbol": "∩",
+        "unicode": "U+02229",
+        "name": "intersection",
+        "category": "Math"
+    },
+    {
+        "code": "&#8746;",
+        "dec": "&#8746;",
+        "hex": "&#x0222A",
+        "symbol": "∪",
+        "unicode": "U+0222A",
+        "name": "union",
+        "category": "Math"
+    },
+    {
+        "code": "&#8747;",
+        "dec": "&#8747;",
+        "hex": "&#x0222B",
+        "symbol": "∫",
+        "unicode": "U+0222B",
+        "name": "integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8748;",
+        "dec": "&#8748;",
+        "hex": "&#x0222C",
+        "symbol": "∬",
+        "unicode": "U+0222C",
+        "name": "double integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8749;",
+        "dec": "&#8749;",
+        "hex": "&#x0222D",
+        "symbol": "∭",
+        "unicode": "U+0222D",
+        "name": "triple integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8750;",
+        "dec": "&#8750;",
+        "hex": "&#x0222E",
+        "symbol": "∮",
+        "unicode": "U+0222E",
+        "name": "contour integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8751;",
+        "dec": "&#8751;",
+        "hex": "&#x0222F",
+        "symbol": "∯",
+        "unicode": "U+0222F",
+        "name": "surface integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8752;",
+        "dec": "&#8752;",
+        "hex": "&#x02230",
+        "symbol": "∰",
+        "unicode": "U+02230",
+        "name": "volume integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8753;",
+        "dec": "&#8753;",
+        "hex": "&#x02231",
+        "symbol": "∱",
+        "unicode": "U+02231",
+        "name": "clockwise integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8754;",
+        "dec": "&#8754;",
+        "hex": "&#x02232",
+        "symbol": "∲",
+        "unicode": "U+02232",
+        "name": "clockwise contour integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8755;",
+        "dec": "&#8755;",
+        "hex": "&#x02233",
+        "symbol": "∳",
+        "unicode": "U+02233",
+        "name": "anticlockwise contour integral",
+        "category": "Math"
+    },
+    {
+        "code": "&#8756;",
+        "dec": "&#8756;",
+        "hex": "&#x02234",
+        "symbol": "∴",
+        "unicode": "U+02234",
+        "name": "therefore",
+        "category": "Math"
+    },
+    {
+        "code": "&#8757;",
+        "dec": "&#8757;",
+        "hex": "&#x02235",
+        "symbol": "∵",
+        "unicode": "U+02235",
+        "name": "because",
+        "category": "Math"
+    },
+    {
+        "code": "&#8758;",
+        "dec": "&#8758;",
+        "hex": "&#x02236",
+        "symbol": "∶",
+        "unicode": "U+02236",
+        "name": "ratio",
+        "category": "Math"
+    },
+    {
+        "code": "&#8759;",
+        "dec": "&#8759;",
+        "hex": "&#x02237",
+        "symbol": "∷",
+        "unicode": "U+02237",
+        "name": "proportion",
+        "category": "Math"
+    },
+    {
+        "code": "&#8760;",
+        "dec": "&#8760;",
+        "hex": "&#x02238",
+        "symbol": "∸",
+        "unicode": "U+02238",
+        "name": "dot minus",
+        "category": "Math"
+    },
+    {
+        "code": "&#8761;",
+        "dec": "&#8761;",
+        "hex": "&#x02239",
+        "symbol": "∹",
+        "unicode": "U+02239",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8762;",
+        "dec": "&#8762;",
+        "hex": "&#x0223A",
+        "symbol": "∺",
+        "unicode": "U+0223A",
+        "name": "geometric proportion",
+        "category": "Math"
+    },
+    {
+        "code": "&#8763;",
+        "dec": "&#8763;",
+        "hex": "&#x0223B",
+        "symbol": "∻",
+        "unicode": "U+0223B",
+        "name": "homothetic",
+        "category": "Math"
+    },
+    {
+        "code": "&#8764;",
+        "dec": "&#8764;",
+        "hex": "&#x0223C",
+        "symbol": "∼",
+        "unicode": "U+0223C",
+        "name": "tilde operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8765;",
+        "dec": "&#8765;",
+        "hex": "&#x0223D",
+        "symbol": "∽",
+        "unicode": "U+0223D",
+        "name": "reversed tilde",
+        "category": "Math"
+    },
+    {
+        "code": "&#8766;",
+        "dec": "&#8766;",
+        "hex": "&#x0223E",
+        "symbol": "∾",
+        "unicode": "U+0223E",
+        "name": "inverted lazy s",
+        "category": "Math"
+    },
+    {
+        "code": "&#8767;",
+        "dec": "&#8767;",
+        "hex": "&#x0223F",
+        "symbol": "∿",
+        "unicode": "U+0223F",
+        "name": "sine wave",
+        "category": "Math"
+    },
+    {
+        "code": "&#8768;",
+        "dec": "&#8768;",
+        "hex": "&#x02240",
+        "symbol": "≀",
+        "unicode": "U+02240",
+        "name": "wreath product",
+        "category": "Math"
+    },
+    {
+        "code": "&#8769;",
+        "dec": "&#8769;",
+        "hex": "&#x02241",
+        "symbol": "≁",
+        "unicode": "U+02241",
+        "name": "not tilde",
+        "category": "Math"
+    },
+    {
+        "code": "&#8770;",
+        "dec": "&#8770;",
+        "hex": "&#x02242",
+        "symbol": "≂",
+        "unicode": "U+02242",
+        "name": "minus tilde",
+        "category": "Math"
+    },
+    {
+        "code": "&#8771;",
+        "dec": "&#8771;",
+        "hex": "&#x02243",
+        "symbol": "≃",
+        "unicode": "U+02243",
+        "name": "asymptotically equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8772;",
+        "dec": "&#8772;",
+        "hex": "&#x02244",
+        "symbol": "≄",
+        "unicode": "U+02244",
+        "name": "not asymptotically equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8773;",
+        "dec": "&#8773;",
+        "hex": "&#x02245",
+        "symbol": "≅",
+        "unicode": "U+02245",
+        "name": "approximately equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8774;",
+        "dec": "&#8774;",
+        "hex": "&#x02246",
+        "symbol": "≆",
+        "unicode": "U+02246",
+        "name": "approximately but not actually equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8775;",
+        "dec": "&#8775;",
+        "hex": "&#x02247",
+        "symbol": "≇",
+        "unicode": "U+02247",
+        "name": "neither approximately nor actually equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8776;",
+        "dec": "&#8776;",
+        "hex": "&#x02248",
+        "symbol": "≈",
+        "unicode": "U+02248",
+        "name": "almost equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8777;",
+        "dec": "&#8777;",
+        "hex": "&#x02249",
+        "symbol": "≉",
+        "unicode": "U+02249",
+        "name": "not almost equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8778;",
+        "dec": "&#8778;",
+        "hex": "&#x0224A",
+        "symbol": "≊",
+        "unicode": "U+0224A",
+        "name": "almost equal or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8779;",
+        "dec": "&#8779;",
+        "hex": "&#x0224B",
+        "symbol": "≋",
+        "unicode": "U+0224B",
+        "name": "triple tilde",
+        "category": "Math"
+    },
+    {
+        "code": "&#8780;",
+        "dec": "&#8780;",
+        "hex": "&#x0224C",
+        "symbol": "≌",
+        "unicode": "U+0224C",
+        "name": "all equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8781;",
+        "dec": "&#8781;",
+        "hex": "&#x0224D",
+        "symbol": "≍",
+        "unicode": "U+0224D",
+        "name": "equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8782;",
+        "dec": "&#8782;",
+        "hex": "&#x0224E",
+        "symbol": "≎",
+        "unicode": "U+0224E",
+        "name": "geometrically equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8783;",
+        "dec": "&#8783;",
+        "hex": "&#x0224F",
+        "symbol": "≏",
+        "unicode": "U+0224F",
+        "name": "difference between",
+        "category": "Math"
+    },
+    {
+        "code": "&#8784;",
+        "dec": "&#8784;",
+        "hex": "&#x02250",
+        "symbol": "≐",
+        "unicode": "U+02250",
+        "name": "approaches the limit",
+        "category": "Math"
+    },
+    {
+        "code": "&#8785;",
+        "dec": "&#8785;",
+        "hex": "&#x02251",
+        "symbol": "≑",
+        "unicode": "U+02251",
+        "name": "geometrically equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8786;",
+        "dec": "&#8786;",
+        "hex": "&#x02252",
+        "symbol": "≒",
+        "unicode": "U+02252",
+        "name": "approximately equal to or the image of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8787;",
+        "dec": "&#8787;",
+        "hex": "&#x02253",
+        "symbol": "≓",
+        "unicode": "U+02253",
+        "name": "image of or approximately equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8788;",
+        "dec": "&#8788;",
+        "hex": "&#x02254",
+        "symbol": "≔",
+        "unicode": "U+02254",
+        "name": "colon equals",
+        "category": "Math"
+    },
+    {
+        "code": "&#8789;",
+        "dec": "&#8789;",
+        "hex": "&#x02255",
+        "symbol": "≕",
+        "unicode": "U+02255",
+        "name": "equals colon",
+        "category": "Math"
+    },
+    {
+        "code": "&#8790;",
+        "dec": "&#8790;",
+        "hex": "&#x02256",
+        "symbol": "≖",
+        "unicode": "U+02256",
+        "name": "ring in equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8791;",
+        "dec": "&#8791;",
+        "hex": "&#x02257",
+        "symbol": "≗",
+        "unicode": "U+02257",
+        "name": "ring equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8792;",
+        "dec": "&#8792;",
+        "hex": "&#x02258",
+        "symbol": "≘",
+        "unicode": "U+02258",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8793;",
+        "dec": "&#8793;",
+        "hex": "&#x02259",
+        "symbol": "≙",
+        "unicode": "U+02259",
+        "name": "estimates",
+        "category": "Math"
+    },
+    {
+        "code": "&#8794;",
+        "dec": "&#8794;",
+        "hex": "&#x0225A",
+        "symbol": "≚",
+        "unicode": "U+0225A",
+        "name": "equiangular to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8795;",
+        "dec": "&#8795;",
+        "hex": "&#x0225B",
+        "symbol": "≛",
+        "unicode": "U+0225B",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8796;",
+        "dec": "&#8796;",
+        "hex": "&#x0225C",
+        "symbol": "≜",
+        "unicode": "U+0225C",
+        "name": "delta equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8797;",
+        "dec": "&#8797;",
+        "hex": "&#x0225D",
+        "symbol": "≝",
+        "unicode": "U+0225D",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8798;",
+        "dec": "&#8798;",
+        "hex": "&#x0225E",
+        "symbol": "≞",
+        "unicode": "U+0225E",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8799;",
+        "dec": "&#8799;",
+        "hex": "&#x0225F",
+        "symbol": "≟",
+        "unicode": "U+0225F",
+        "name": "questioned equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8800;",
+        "dec": "&#8800;",
+        "hex": "&#x02260",
+        "symbol": "≠",
+        "unicode": "U+02260",
+        "name": "not equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8801;",
+        "dec": "&#8801;",
+        "hex": "&#x02261",
+        "symbol": "≡",
+        "unicode": "U+02261",
+        "name": "identical to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8802;",
+        "dec": "&#8802;",
+        "hex": "&#x02262",
+        "symbol": "≢",
+        "unicode": "U+02262",
+        "name": "not identical to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8803;",
+        "dec": "&#8803;",
+        "hex": "&#x02263",
+        "symbol": "≣",
+        "unicode": "U+02263",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8804;",
+        "dec": "&#8804;",
+        "hex": "&#x02264",
+        "symbol": "≤",
+        "unicode": "U+02264",
+        "name": "less-than or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8805;",
+        "dec": "&#8805;",
+        "hex": "&#x02265",
+        "symbol": "≥",
+        "unicode": "U+02265",
+        "name": "greater-than or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8806;",
+        "dec": "&#8806;",
+        "hex": "&#x02266",
+        "symbol": "≦",
+        "unicode": "U+02266",
+        "name": "less-than over equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8807;",
+        "dec": "&#8807;",
+        "hex": "&#x02267",
+        "symbol": "≧",
+        "unicode": "U+02267",
+        "name": "greater-than over equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8808;",
+        "dec": "&#8808;",
+        "hex": "&#x02268",
+        "symbol": "≨",
+        "unicode": "U+02268",
+        "name": "less-than but not equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8809;",
+        "dec": "&#8809;",
+        "hex": "&#x02269",
+        "symbol": "≩",
+        "unicode": "U+02269",
+        "name": "greater-than but not equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8810;",
+        "dec": "&#8810;",
+        "hex": "&#x0226A",
+        "symbol": "≪",
+        "unicode": "U+0226A",
+        "name": "much less-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8811;",
+        "dec": "&#8811;",
+        "hex": "&#x0226B",
+        "symbol": "≫",
+        "unicode": "U+0226B",
+        "name": "much greater-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8812;",
+        "dec": "&#8812;",
+        "hex": "&#x0226C",
+        "symbol": "≬",
+        "unicode": "U+0226C",
+        "name": "between",
+        "category": "Math"
+    },
+    {
+        "code": "&#8813;",
+        "dec": "&#8813;",
+        "hex": "&#x0226D",
+        "symbol": "≭",
+        "unicode": "U+0226D",
+        "name": "not equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8814;",
+        "dec": "&#8814;",
+        "hex": "&#x0226E",
+        "symbol": "≮",
+        "unicode": "U+0226E",
+        "name": "not less-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8815;",
+        "dec": "&#8815;",
+        "hex": "&#x0226F",
+        "symbol": "≯",
+        "unicode": "U+0226F",
+        "name": "not greater-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8816;",
+        "dec": "&#8816;",
+        "hex": "&#x02270",
+        "symbol": "≰",
+        "unicode": "U+02270",
+        "name": "neither less-than nor equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8817;",
+        "dec": "&#8817;",
+        "hex": "&#x02271",
+        "symbol": "≱",
+        "unicode": "U+02271",
+        "name": "neither greater-than nor equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8818;",
+        "dec": "&#8818;",
+        "hex": "&#x02272",
+        "symbol": "≲",
+        "unicode": "U+02272",
+        "name": "less-than or equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8819;",
+        "dec": "&#8819;",
+        "hex": "&#x02273",
+        "symbol": "≳",
+        "unicode": "U+02273",
+        "name": "greater-than or equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8820;",
+        "dec": "&#8820;",
+        "hex": "&#x02274",
+        "symbol": "≴",
+        "unicode": "U+02274",
+        "name": "neither less-than nor equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8821;",
+        "dec": "&#8821;",
+        "hex": "&#x02275",
+        "symbol": "≵",
+        "unicode": "U+02275",
+        "name": "neither greater-than nor equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8822;",
+        "dec": "&#8822;",
+        "hex": "&#x02276",
+        "symbol": "≶",
+        "unicode": "U+02276",
+        "name": "less-than or greater-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8823;",
+        "dec": "&#8823;",
+        "hex": "&#x02277",
+        "symbol": "≷",
+        "unicode": "U+02277",
+        "name": "greater-than or less-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8824;",
+        "dec": "&#8824;",
+        "hex": "&#x02278",
+        "symbol": "≸",
+        "unicode": "U+02278",
+        "name": "neither less-than nor greater-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8825;",
+        "dec": "&#8825;",
+        "hex": "&#x02279",
+        "symbol": "≹",
+        "unicode": "U+02279",
+        "name": "neither greater-than nor less-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8826;",
+        "dec": "&#8826;",
+        "hex": "&#x0227A",
+        "symbol": "≺",
+        "unicode": "U+0227A",
+        "name": "precedes",
+        "category": "Math"
+    },
+    {
+        "code": "&#8827;",
+        "dec": "&#8827;",
+        "hex": "&#x0227B",
+        "symbol": "≻",
+        "unicode": "U+0227B",
+        "name": "succeeds",
+        "category": "Math"
+    },
+    {
+        "code": "&#8828;",
+        "dec": "&#8828;",
+        "hex": "&#x0227C",
+        "symbol": "≼",
+        "unicode": "U+0227C",
+        "name": "precedes or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8829;",
+        "dec": "&#8829;",
+        "hex": "&#x0227D",
+        "symbol": "≽",
+        "unicode": "U+0227D",
+        "name": "succeeds or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8830;",
+        "dec": "&#8830;",
+        "hex": "&#x0227E",
+        "symbol": "≾",
+        "unicode": "U+0227E",
+        "name": "precedes or equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8831;",
+        "dec": "&#8831;",
+        "hex": "&#x0227F",
+        "symbol": "≿",
+        "unicode": "U+0227F",
+        "name": "succeeds or equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8832;",
+        "dec": "&#8832;",
+        "hex": "&#x02280",
+        "symbol": "⊀",
+        "unicode": "U+02280",
+        "name": "does not precede",
+        "category": "Math"
+    },
+    {
+        "code": "&#8833;",
+        "dec": "&#8833;",
+        "hex": "&#x02281",
+        "symbol": "⊁",
+        "unicode": "U+02281",
+        "name": "does not succeed",
+        "category": "Math"
+    },
+    {
+        "code": "&#8834;",
+        "dec": "&#8834;",
+        "hex": "&#x02282",
+        "symbol": "⊂",
+        "unicode": "U+02282",
+        "name": "subset of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8835;",
+        "dec": "&#8835;",
+        "hex": "&#x02283",
+        "symbol": "⊃",
+        "unicode": "U+02283",
+        "name": "superset of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8836;",
+        "dec": "&#8836;",
+        "hex": "&#x02284",
+        "symbol": "⊄",
+        "unicode": "U+02284",
+        "name": "not a subset of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8837;",
+        "dec": "&#8837;",
+        "hex": "&#x02285",
+        "symbol": "⊅",
+        "unicode": "U+02285",
+        "name": "not a superset of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8838;",
+        "dec": "&#8838;",
+        "hex": "&#x02286",
+        "symbol": "⊆",
+        "unicode": "U+02286",
+        "name": "subset of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8839;",
+        "dec": "&#8839;",
+        "hex": "&#x02287",
+        "symbol": "⊇",
+        "unicode": "U+02287",
+        "name": "superset of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8840;",
+        "dec": "&#8840;",
+        "hex": "&#x02288",
+        "symbol": "⊈",
+        "unicode": "U+02288",
+        "name": "neither a subset of nor equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8841;",
+        "dec": "&#8841;",
+        "hex": "&#x02289",
+        "symbol": "⊉",
+        "unicode": "U+02289",
+        "name": "neither a superset of nor equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8842;",
+        "dec": "&#8842;",
+        "hex": "&#x0228A",
+        "symbol": "⊊",
+        "unicode": "U+0228A",
+        "name": "subset of with not equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8843;",
+        "dec": "&#8843;",
+        "hex": "&#x0228B",
+        "symbol": "⊋",
+        "unicode": "U+0228B",
+        "name": "superset of with not equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8844;",
+        "dec": "&#8844;",
+        "hex": "&#x0228C",
+        "symbol": "⊌",
+        "unicode": "U+0228C",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8845;",
+        "dec": "&#8845;",
+        "hex": "&#x0228D",
+        "symbol": "⊍",
+        "unicode": "U+0228D",
+        "name": "multiset multiplication",
+        "category": "Math"
+    },
+    {
+        "code": "&#8846;",
+        "dec": "&#8846;",
+        "hex": "&#x0228E",
+        "symbol": "⊎",
+        "unicode": "U+0228E",
+        "name": "multiset union",
+        "category": "Math"
+    },
+    {
+        "code": "&#8847;",
+        "dec": "&#8847;",
+        "hex": "&#x0228F",
+        "symbol": "⊏",
+        "unicode": "U+0228F",
+        "name": "square image of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8848;",
+        "dec": "&#8848;",
+        "hex": "&#x02290",
+        "symbol": "⊐",
+        "unicode": "U+02290",
+        "name": "square original of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8849;",
+        "dec": "&#8849;",
+        "hex": "&#x02291",
+        "symbol": "⊑",
+        "unicode": "U+02291",
+        "name": "square image of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8850;",
+        "dec": "&#8850;",
+        "hex": "&#x02292",
+        "symbol": "⊒",
+        "unicode": "U+02292",
+        "name": "square original of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8851;",
+        "dec": "&#8851;",
+        "hex": "&#x02293",
+        "symbol": "⊓",
+        "unicode": "U+02293",
+        "name": "square cap",
+        "category": "Math"
+    },
+    {
+        "code": "&#8852;",
+        "dec": "&#8852;",
+        "hex": "&#x02294",
+        "symbol": "⊔",
+        "unicode": "U+02294",
+        "name": "square cup",
+        "category": "Math"
+    },
+    {
+        "code": "&#8853;",
+        "dec": "&#8853;",
+        "hex": "&#x02295",
+        "symbol": "⊕",
+        "unicode": "U+02295",
+        "name": "circled plus",
+        "category": "Math"
+    },
+    {
+        "code": "&#8854;",
+        "dec": "&#8854;",
+        "hex": "&#x02296",
+        "symbol": "⊖",
+        "unicode": "U+02296",
+        "name": "circled minus",
+        "category": "Math"
+    },
+    {
+        "code": "&#8855;",
+        "dec": "&#8855;",
+        "hex": "&#x02297",
+        "symbol": "⊗",
+        "unicode": "U+02297",
+        "name": "circled times",
+        "category": "Math"
+    },
+    {
+        "code": "&#8856;",
+        "dec": "&#8856;",
+        "hex": "&#x02298",
+        "symbol": "⊘",
+        "unicode": "U+02298",
+        "name": "circled division slash",
+        "category": "Math"
+    },
+    {
+        "code": "&#8857;",
+        "dec": "&#8857;",
+        "hex": "&#x02299",
+        "symbol": "⊙",
+        "unicode": "U+02299",
+        "name": "circled dot operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8858;",
+        "dec": "&#8858;",
+        "hex": "&#x0229A",
+        "symbol": "⊚",
+        "unicode": "U+0229A",
+        "name": "circled ring operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8859;",
+        "dec": "&#8859;",
+        "hex": "&#x0229B",
+        "symbol": "⊛",
+        "unicode": "U+0229B",
+        "name": "circled asterisk operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8860;",
+        "dec": "&#8860;",
+        "hex": "&#x0229C",
+        "symbol": "⊜",
+        "unicode": "U+0229C",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8861;",
+        "dec": "&#8861;",
+        "hex": "&#x0229D",
+        "symbol": "⊝",
+        "unicode": "U+0229D",
+        "name": "circled dash",
+        "category": "Math"
+    },
+    {
+        "code": "&#8862;",
+        "dec": "&#8862;",
+        "hex": "&#x0229E",
+        "symbol": "⊞",
+        "unicode": "U+0229E",
+        "name": "squared plus",
+        "category": "Math"
+    },
+    {
+        "code": "&#8863;",
+        "dec": "&#8863;",
+        "hex": "&#x0229F",
+        "symbol": "⊟",
+        "unicode": "U+0229F",
+        "name": "squared minus",
+        "category": "Math"
+    },
+    {
+        "code": "&#8864;",
+        "dec": "&#8864;",
+        "hex": "&#x022A0",
+        "symbol": "⊠",
+        "unicode": "U+022A0",
+        "name": "squared times",
+        "category": "Math"
+    },
+    {
+        "code": "&#8865;",
+        "dec": "&#8865;",
+        "hex": "&#x022A1",
+        "symbol": "⊡",
+        "unicode": "U+022A1",
+        "name": "squared dot operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8866;",
+        "dec": "&#8866;",
+        "hex": "&#x022A2",
+        "symbol": "⊢",
+        "unicode": "U+022A2",
+        "name": "right tack",
+        "category": "Math"
+    },
+    {
+        "code": "&#8867;",
+        "dec": "&#8867;",
+        "hex": "&#x022A3",
+        "symbol": "⊣",
+        "unicode": "U+022A3",
+        "name": "left tack",
+        "category": "Math"
+    },
+    {
+        "code": "&#8868;",
+        "dec": "&#8868;",
+        "hex": "&#x022A4",
+        "symbol": "⊤",
+        "unicode": "U+022A4",
+        "name": "down tack",
+        "category": "Math"
+    },
+    {
+        "code": "&#8869;",
+        "dec": "&#8869;",
+        "hex": "&#x022A5",
+        "symbol": "⊥",
+        "unicode": "U+022A5",
+        "name": "up tack",
+        "category": "Math"
+    },
+    {
+        "code": "&#8870;",
+        "dec": "&#8870;",
+        "hex": "&#x022A6",
+        "symbol": "⊦",
+        "unicode": "U+022A6",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8871;",
+        "dec": "&#8871;",
+        "hex": "&#x022A7",
+        "symbol": "⊧",
+        "unicode": "U+022A7",
+        "name": "models",
+        "category": "Math"
+    },
+    {
+        "code": "&#8872;",
+        "dec": "&#8872;",
+        "hex": "&#x022A8",
+        "symbol": "⊨",
+        "unicode": "U+022A8",
+        "name": "true",
+        "category": "Math"
+    },
+    {
+        "code": "&#8873;",
+        "dec": "&#8873;",
+        "hex": "&#x022A9",
+        "symbol": "⊩",
+        "unicode": "U+022A9",
+        "name": "forces",
+        "category": "Math"
+    },
+    {
+        "code": "&#8874;",
+        "dec": "&#8874;",
+        "hex": "&#x022AA",
+        "symbol": "⊪",
+        "unicode": "U+022AA",
+        "name": "triple vertical bar right turnstile",
+        "category": "Math"
+    },
+    {
+        "code": "&#8875;",
+        "dec": "&#8875;",
+        "hex": "&#x022AB",
+        "symbol": "⊫",
+        "unicode": "U+022AB",
+        "name": "double vertical bar double right turnstile",
+        "category": "Math"
+    },
+    {
+        "code": "&#8876;",
+        "dec": "&#8876;",
+        "hex": "&#x022AC",
+        "symbol": "⊬",
+        "unicode": "U+022AC",
+        "name": "does not prove",
+        "category": "Math"
+    },
+    {
+        "code": "&#8877;",
+        "dec": "&#8877;",
+        "hex": "&#x022AD",
+        "symbol": "⊭",
+        "unicode": "U+022AD",
+        "name": "not true",
+        "category": "Math"
+    },
+    {
+        "code": "&#8878;",
+        "dec": "&#8878;",
+        "hex": "&#x022AE",
+        "symbol": "⊮",
+        "unicode": "U+022AE",
+        "name": "does not force",
+        "category": "Math"
+    },
+    {
+        "code": "&#8879;",
+        "dec": "&#8879;",
+        "hex": "&#x022AF",
+        "symbol": "⊯",
+        "unicode": "U+022AF",
+        "name": "negated double vertical bar double right turnstile",
+        "category": "Math"
+    },
+    {
+        "code": "&#8880;",
+        "dec": "&#8880;",
+        "hex": "&#x022B0",
+        "symbol": "⊰",
+        "unicode": "U+022B0",
+        "name": "precedes under relation",
+        "category": "Math"
+    },
+    {
+        "code": "&#8881;",
+        "dec": "&#8881;",
+        "hex": "&#x022B1",
+        "symbol": "⊱",
+        "unicode": "U+022B1",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8882;",
+        "dec": "&#8882;",
+        "hex": "&#x022B2",
+        "symbol": "⊲",
+        "unicode": "U+022B2",
+        "name": "normal subgroup of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8883;",
+        "dec": "&#8883;",
+        "hex": "&#x022B3",
+        "symbol": "⊳",
+        "unicode": "U+022B3",
+        "name": "contains as normal subgroup",
+        "category": "Math"
+    },
+    {
+        "code": "&#8884;",
+        "dec": "&#8884;",
+        "hex": "&#x022B4",
+        "symbol": "⊴",
+        "unicode": "U+022B4",
+        "name": "normal subgroup of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8885;",
+        "dec": "&#8885;",
+        "hex": "&#x022B5",
+        "symbol": "⊵",
+        "unicode": "U+022B5",
+        "name": "contains as normal subgroup or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8886;",
+        "dec": "&#8886;",
+        "hex": "&#x022B6",
+        "symbol": "⊶",
+        "unicode": "U+022B6",
+        "name": "original of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8887;",
+        "dec": "&#8887;",
+        "hex": "&#x022B7",
+        "symbol": "⊷",
+        "unicode": "U+022B7",
+        "name": "image of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8888;",
+        "dec": "&#8888;",
+        "hex": "&#x022B8",
+        "symbol": "⊸",
+        "unicode": "U+022B8",
+        "name": "multimap",
+        "category": "Math"
+    },
+    {
+        "code": "&#8889;",
+        "dec": "&#8889;",
+        "hex": "&#x022B9",
+        "symbol": "⊹",
+        "unicode": "U+022B9",
+        "name": "hermitian conjugate matrix",
+        "category": "Math"
+    },
+    {
+        "code": "&#8890;",
+        "dec": "&#8890;",
+        "hex": "&#x022BA",
+        "symbol": "⊺",
+        "unicode": "U+022BA",
+        "name": "intercalate",
+        "category": "Math"
+    },
+    {
+        "code": "&#8891;",
+        "dec": "&#8891;",
+        "hex": "&#x022BB",
+        "symbol": "⊻",
+        "unicode": "U+022BB",
+        "name": "xor",
+        "category": "Math"
+    },
+    {
+        "code": "&#8892;",
+        "dec": "&#8892;",
+        "hex": "&#x022BC",
+        "symbol": "⊼",
+        "unicode": "U+022BC",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8893;",
+        "dec": "&#8893;",
+        "hex": "&#x022BD",
+        "symbol": "⊽",
+        "unicode": "U+022BD",
+        "name": "nor",
+        "category": "Math"
+    },
+    {
+        "code": "&#8894;",
+        "dec": "&#8894;",
+        "hex": "&#x022BE",
+        "symbol": "⊾",
+        "unicode": "U+022BE",
+        "name": "right angle with arc",
+        "category": "Math"
+    },
+    {
+        "code": "&#8895;",
+        "dec": "&#8895;",
+        "hex": "&#x022BF",
+        "symbol": "⊿",
+        "unicode": "U+022BF",
+        "name": "right triangle",
+        "category": "Math"
+    },
+    {
+        "code": "&#8896;",
+        "dec": "&#8896;",
+        "hex": "&#x022C0",
+        "symbol": "⋀",
+        "unicode": "U+022C0",
+        "name": "n-ary logical and",
+        "category": "Math"
+    },
+    {
+        "code": "&#8897;",
+        "dec": "&#8897;",
+        "hex": "&#x022C1",
+        "symbol": "⋁",
+        "unicode": "U+022C1",
+        "name": "n-ary logical or",
+        "category": "Math"
+    },
+    {
+        "code": "&#8898;",
+        "dec": "&#8898;",
+        "hex": "&#x022C2",
+        "symbol": "⋂",
+        "unicode": "U+022C2",
+        "name": "n-ary intersection",
+        "category": "Math"
+    },
+    {
+        "code": "&#8899;",
+        "dec": "&#8899;",
+        "hex": "&#x022C3",
+        "symbol": "⋃",
+        "unicode": "U+022C3",
+        "name": "n-ary union",
+        "category": "Math"
+    },
+    {
+        "code": "&#8900;",
+        "dec": "&#8900;",
+        "hex": "&#x022C4",
+        "symbol": "⋄",
+        "unicode": "U+022C4",
+        "name": "diamond operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8901;",
+        "dec": "&#8901;",
+        "hex": "&#x022C5",
+        "symbol": "⋅",
+        "unicode": "U+022C5",
+        "name": "dot operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8902;",
+        "dec": "&#8902;",
+        "hex": "&#x022C6",
+        "symbol": "⋆",
+        "unicode": "U+022C6",
+        "name": "star operator",
+        "category": "Math"
+    },
+    {
+        "code": "&#8903;",
+        "dec": "&#8903;",
+        "hex": "&#x022C7",
+        "symbol": "⋇",
+        "unicode": "U+022C7",
+        "name": "division times",
+        "category": "Math"
+    },
+    {
+        "code": "&#8904;",
+        "dec": "&#8904;",
+        "hex": "&#x022C8",
+        "symbol": "⋈",
+        "unicode": "U+022C8",
+        "name": "bowtie",
+        "category": "Math"
+    },
+    {
+        "code": "&#8905;",
+        "dec": "&#8905;",
+        "hex": "&#x022C9",
+        "symbol": "⋉",
+        "unicode": "U+022C9",
+        "name": "left normal factor semidirect product",
+        "category": "Math"
+    },
+    {
+        "code": "&#8906;",
+        "dec": "&#8906;",
+        "hex": "&#x022CA",
+        "symbol": "⋊",
+        "unicode": "U+022CA",
+        "name": "right normal factor semidirect product",
+        "category": "Math"
+    },
+    {
+        "code": "&#8907;",
+        "dec": "&#8907;",
+        "hex": "&#x022CB",
+        "symbol": "⋋",
+        "unicode": "U+022CB",
+        "name": "left semidirect product",
+        "category": "Math"
+    },
+    {
+        "code": "&#8908;",
+        "dec": "&#8908;",
+        "hex": "&#x022CC",
+        "symbol": "⋌",
+        "unicode": "U+022CC",
+        "name": "right semidirect product",
+        "category": "Math"
+    },
+    {
+        "code": "&#8909;",
+        "dec": "&#8909;",
+        "hex": "&#x022CD",
+        "symbol": "⋍",
+        "unicode": "U+022CD",
+        "name": "reversed tilde equals",
+        "category": "Math"
+    },
+    {
+        "code": "&#8910;",
+        "dec": "&#8910;",
+        "hex": "&#x022CE",
+        "symbol": "⋎",
+        "unicode": "U+022CE",
+        "name": "curly logical or",
+        "category": "Math"
+    },
+    {
+        "code": "&#8911;",
+        "dec": "&#8911;",
+        "hex": "&#x022CF",
+        "symbol": "⋏",
+        "unicode": "U+022CF",
+        "name": "curly logical and",
+        "category": "Math"
+    },
+    {
+        "code": "&#8912;",
+        "dec": "&#8912;",
+        "hex": "&#x022D0",
+        "symbol": "⋐",
+        "unicode": "U+022D0",
+        "name": "double subset",
+        "category": "Math"
+    },
+    {
+        "code": "&#8913;",
+        "dec": "&#8913;",
+        "hex": "&#x022D1",
+        "symbol": "⋑",
+        "unicode": "U+022D1",
+        "name": "double superset",
+        "category": "Math"
+    },
+    {
+        "code": "&#8914;",
+        "dec": "&#8914;",
+        "hex": "&#x022D2",
+        "symbol": "⋒",
+        "unicode": "U+022D2",
+        "name": "double intersection",
+        "category": "Math"
+    },
+    {
+        "code": "&#8915;",
+        "dec": "&#8915;",
+        "hex": "&#x022D3",
+        "symbol": "⋓",
+        "unicode": "U+022D3",
+        "name": "double union",
+        "category": "Math"
+    },
+    {
+        "code": "&#8916;",
+        "dec": "&#8916;",
+        "hex": "&#x022D4",
+        "symbol": "⋔",
+        "unicode": "U+022D4",
+        "name": "pitchfork",
+        "category": "Math"
+    },
+    {
+        "code": "&#8917;",
+        "dec": "&#8917;",
+        "hex": "&#x022D5",
+        "symbol": "⋕",
+        "unicode": "U+022D5",
+        "name": "equal and parallel to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8918;",
+        "dec": "&#8918;",
+        "hex": "&#x022D6",
+        "symbol": "⋖",
+        "unicode": "U+022D6",
+        "name": "less-than with dot",
+        "category": "Math"
+    },
+    {
+        "code": "&#8919;",
+        "dec": "&#8919;",
+        "hex": "&#x022D7",
+        "symbol": "⋗",
+        "unicode": "U+022D7",
+        "name": "greater-than with dot",
+        "category": "Math"
+    },
+    {
+        "code": "&#8920;",
+        "dec": "&#8920;",
+        "hex": "&#x022D8",
+        "symbol": "⋘",
+        "unicode": "U+022D8",
+        "name": "very much less-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8921;",
+        "dec": "&#8921;",
+        "hex": "&#x022D9",
+        "symbol": "⋙",
+        "unicode": "U+022D9",
+        "name": "very much greater-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8922;",
+        "dec": "&#8922;",
+        "hex": "&#x022DA",
+        "symbol": "⋚",
+        "unicode": "U+022DA",
+        "name": "less-than equal to or greater-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8923;",
+        "dec": "&#8923;",
+        "hex": "&#x022DB",
+        "symbol": "⋛",
+        "unicode": "U+022DB",
+        "name": "greater-than equal to or less-than",
+        "category": "Math"
+    },
+    {
+        "code": "&#8924;",
+        "dec": "&#8924;",
+        "hex": "&#x022DC",
+        "symbol": "⋜",
+        "unicode": "U+022DC",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8925;",
+        "dec": "&#8925;",
+        "hex": "&#x022DD",
+        "symbol": "⋝",
+        "unicode": "U+022DD",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8926;",
+        "dec": "&#8926;",
+        "hex": "&#x022DE",
+        "symbol": "⋞",
+        "unicode": "U+022DE",
+        "name": "equal to or precedes",
+        "category": "Math"
+    },
+    {
+        "code": "&#8927;",
+        "dec": "&#8927;",
+        "hex": "&#x022DF",
+        "symbol": "⋟",
+        "unicode": "U+022DF",
+        "name": "equal to or succeeds",
+        "category": "Math"
+    },
+    {
+        "code": "&#8928;",
+        "dec": "&#8928;",
+        "hex": "&#x022E0",
+        "symbol": "⋠",
+        "unicode": "U+022E0",
+        "name": "does not precede or equal",
+        "category": "Math"
+    },
+    {
+        "code": "&#8929;",
+        "dec": "&#8929;",
+        "hex": "&#x022E1",
+        "symbol": "⋡",
+        "unicode": "U+022E1",
+        "name": "does not succeed or equal",
+        "category": "Math"
+    },
+    {
+        "code": "&#8930;",
+        "dec": "&#8930;",
+        "hex": "&#x022E2",
+        "symbol": "⋢",
+        "unicode": "U+022E2",
+        "name": "not square image of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8931;",
+        "dec": "&#8931;",
+        "hex": "&#x022E3",
+        "symbol": "⋣",
+        "unicode": "U+022E3",
+        "name": "not square original of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8932;",
+        "dec": "&#8932;",
+        "hex": "&#x022E4",
+        "symbol": "⋤",
+        "unicode": "U+022E4",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8933;",
+        "dec": "&#8933;",
+        "hex": "&#x022E5",
+        "symbol": "⋥",
+        "unicode": "U+022E5",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8934;",
+        "dec": "&#8934;",
+        "hex": "&#x022E6",
+        "symbol": "⋦",
+        "unicode": "U+022E6",
+        "name": "less-than but not equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8935;",
+        "dec": "&#8935;",
+        "hex": "&#x022E7",
+        "symbol": "⋧",
+        "unicode": "U+022E7",
+        "name": "greater-than but not equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8936;",
+        "dec": "&#8936;",
+        "hex": "&#x022E8",
+        "symbol": "⋨",
+        "unicode": "U+022E8",
+        "name": "precedes but not equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8937;",
+        "dec": "&#8937;",
+        "hex": "&#x022E9",
+        "symbol": "⋩",
+        "unicode": "U+022E9",
+        "name": "succeeds but not equivalent to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8938;",
+        "dec": "&#8938;",
+        "hex": "&#x022EA",
+        "symbol": "⋪",
+        "unicode": "U+022EA",
+        "name": "not normal subgroup of",
+        "category": "Math"
+    },
+    {
+        "code": "&#8939;",
+        "dec": "&#8939;",
+        "hex": "&#x022EB",
+        "symbol": "⋫",
+        "unicode": "U+022EB",
+        "name": "does not contain as normal subgroup",
+        "category": "Math"
+    },
+    {
+        "code": "&#8940;",
+        "dec": "&#8940;",
+        "hex": "&#x022EC",
+        "symbol": "⋬",
+        "unicode": "U+022EC",
+        "name": "not normal subgroup of or equal to",
+        "category": "Math"
+    },
+    {
+        "code": "&#8941;",
+        "dec": "&#8941;",
+        "hex": "&#x022ED",
+        "symbol": "⋭",
+        "unicode": "U+022ED",
+        "name": "does not contain as normal subgroup or equal",
+        "category": "Math"
+    },
+    {
+        "code": "&#8942;",
+        "dec": "&#8942;",
+        "hex": "&#x022EE",
+        "symbol": "⋮",
+        "unicode": "U+022EE",
+        "name": "vertical ellipsis",
+        "category": "Math"
+    },
+    {
+        "code": "&#8943;",
+        "dec": "&#8943;",
+        "hex": "&#x022EF",
+        "symbol": "⋯",
+        "unicode": "U+022EF",
+        "name": "midline horizontal ellipsis",
+        "category": "Math"
+    },
+    {
+        "code": "&#8944;",
+        "dec": "&#8944;",
+        "hex": "&#x022F0",
+        "symbol": "⋰",
+        "unicode": "U+022F0",
+        "name": "up right diagonal ellipsis",
+        "category": "Math"
+    },
+    {
+        "code": "&#8945;",
+        "dec": "&#8945;",
+        "hex": "&#x022F1",
+        "symbol": "⋱",
+        "unicode": "U+022F1",
+        "name": "down right diagonal ellipsis",
+        "category": "Math"
+    },
+    {
+        "code": "&#8946;",
+        "dec": "&#8946;",
+        "hex": "&#x022F2",
+        "symbol": "⋲",
+        "unicode": "U+022F2",
+        "name": "element of with long horizontal stroke",
+        "category": "Math"
+    },
+    {
+        "code": "&#8947;",
+        "dec": "&#8947;",
+        "hex": "&#x022F3",
+        "symbol": "⋳",
+        "unicode": "U+022F3",
+        "name": "element of with vertical bar at end of horizontal stroke",
+        "category": "Math"
+    },
+    {
+        "code": "&#8948;",
+        "dec": "&#8948;",
+        "hex": "&#x022F4",
+        "symbol": "⋴",
+        "unicode": "U+022F4",
+        "name": "small element of with vertical bar at end of horizontal stroke",
+        "category": "Math"
+    },
+    {
+        "code": "&#8949;",
+        "dec": "&#8949;",
+        "hex": "&#x022F5",
+        "symbol": "⋵",
+        "unicode": "U+022F5",
+        "name": "element of with dot above",
+        "category": "Math"
+    },
+    {
+        "code": "&#8950;",
+        "dec": "&#8950;",
+        "hex": "&#x022F6",
+        "symbol": "⋶",
+        "unicode": "U+022F6",
+        "name": "element of with overbar",
+        "category": "Math"
+    },
+    {
+        "code": "&#8951;",
+        "dec": "&#8951;",
+        "hex": "&#x022F7",
+        "symbol": "⋷",
+        "unicode": "U+022F7",
+        "name": "small element of with overbar",
+        "category": "Math"
+    },
+    {
+        "code": "&#8952;",
+        "dec": "&#8952;",
+        "hex": "&#x022F8",
+        "symbol": "⋸",
+        "unicode": "U+022F8",
+        "name": null,
+        "category": "Math"
+    },
+    {
+        "code": "&#8953;",
+        "dec": "&#8953;",
+        "hex": "&#x022F9",
+        "symbol": "⋹",
+        "unicode": "U+022F9",
+        "name": "element of with two horizontal strokes",
+        "category": "Math"
+    },
+    {
+        "code": "&#8954;",
+        "dec": "&#8954;",
+        "hex": "&#x022FA",
+        "symbol": "⋺",
+        "unicode": "U+022FA",
+        "name": "contains with long horizontal stroke",
+        "category": "Math"
+    },
+    {
+        "code": "&#8955;",
+        "dec": "&#8955;",
+        "hex": "&#x022FB",
+        "symbol": "⋻",
+        "unicode": "U+022FB",
+        "name": "contains with vertical bar at end of horizontal stroke",
+        "category": "Math"
+    },
+    {
+        "code": "&#8956;",
+        "dec": "&#8956;",
+        "hex": "&#x022FC",
+        "symbol": "⋼",
+        "unicode": "U+022FC",
+        "name": "small contains with vertical bar at end of horizontal stroke",
+        "category": "Math"
+    },
+    {
+        "code": "&#8957;",
+        "dec": "&#8957;",
+        "hex": "&#x022FD",
+        "symbol": "⋽",
+        "unicode": "U+022FD",
+        "name": "contains with overbar",
+        "category": "Math"
+    },
+    {
+        "code": "&#8958;",
+        "dec": "&#8958;",
+        "hex": "&#x022FE",
+        "symbol": "⋾",
+        "unicode": "U+022FE",
+        "name": "small contains with overbar",
+        "category": "Math"
+    },
+    {
+        "code": "&#8959;",
+        "dec": "&#8959;",
+        "hex": "&#x022FF",
+        "symbol": "⋿",
+        "unicode": "U+022FF",
+        "name": null,
+        "category": "Math"
+    }
+]
